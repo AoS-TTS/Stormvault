@@ -1,14 +1,13 @@
 <br/>
 <div align="center">
-  <img width="300px" src="https://www.warhammer-community.com/wp-content/uploads/2020/01/ae1fc080-500x179.png">
+  <img width="300px" src="https://www.pngix.com/pngfile/middle/548-5481519_the-next-battletome-warhammer-age-of-sigmar-logo.png">
   <hr style="height:1px;border:center;;" />
 </div>
 <br/>
 <div align="center">
 
-A curated list of Warhammer40k Models. Just install/run and play Warhammer 40k.
+A curated repository of Warhammer Age of Sigmar Models for Tabletop Simulator.
 
-[[Discord](https://discord.gg/XkBbs5M)] [[Direct Download](https://github.com/TTSWarhammer40k/Battleforged-Workshop-Mod-Compilation/raw/master/battle-forge.zip)] [[Installer]()]
 </div>
 <br/>
 <hr style="height:1px;border:center;;" />
