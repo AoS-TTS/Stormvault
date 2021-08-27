@@ -5,12 +5,13 @@
 </div>
 <br/>
 <div align="center">
-ppopop
+
 Welcome to the community run AoS Stormvault. A curated repository of Warhammer Age of Sigmar Models for Tabletop Simulator.
 </div>
 <br/>
 <hr style="height:1px;border:center;;" />
 
+I HATE CODE. lol
 
 **Manual Installation (Windows OS)**
 1. Download the Battle-Forge Zip file.
