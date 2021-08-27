@@ -5,8 +5,8 @@
 <div align="center">
 
 Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabletop Simulator.<br/>
-  
-LAST UPDATED -- 27/08/21
+<br/>  
+**LAST UPDATED -- 27/08/21**
 </div>
 <hr style="height:1px;border:center;;" />
 
