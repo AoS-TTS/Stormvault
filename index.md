@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img width="300px" src="https://www.pngitem.com/pimgs/m/92-922002_warhammer-age-of-sigmar-logo-hd-png-download.png">
+  <img width="600px" src="https://github.com/AoS-TTS/Stormvault/blob/main/stormvault_logo.png">
   <hr style="height:1px;border:center;;" />
 </div>
 <br/>
