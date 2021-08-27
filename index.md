@@ -1,9 +1,7 @@
-<br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/AoS-TTS/Stormvault/main/stormvault_logo.png">
   <hr style="height:1px;border:center;;" />
 </div>
-<br/>
 <div align="center">
 
 Welcome to the AoS Stormvault, a curated repository of Warhammer Age of Sigmar Models for Tabletop Simulator.
