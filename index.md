@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="https://github.com/AoS-TTS/Stormvault/blob/main/stormvault_logo.png">
+  <img src="https://raw.githubusercontent.com/AoS-TTS/Stormvault/main/stormvault_logo.png">
   <hr style="height:1px;border:center;;" />
 </div>
 <br/>
@@ -11,7 +11,6 @@ Welcome to the community run AoS Stormvault. A curated repository of Warhammer A
 <br/>
 <hr style="height:1px;border:center;;" />
 
-test
 
 **Manual Installation (Windows OS)**
 1. Download the Battle-Forge Zip file.
