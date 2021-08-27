@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-Welcome to the AoS Stormvault, a curated repository of Warhammer Age of Sigmar Models for Tabletop Simulator.
+Welcome to the AoS Stormvault, a curated collection of Age of Sigmar Models for Tabletop Simulator.
 </div>
 <br/>
 <hr style="height:1px;border:center;;" />
