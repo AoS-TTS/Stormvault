@@ -6,15 +6,10 @@
 <br/>
 <div align="center">
 
-A curated repository of Warhammer Age of Sigmar Models for Tabletop Simulator.
+Welcome to the community run AoS Stormvault. A curated repository of Warhammer Age of Sigmar Models for Tabletop Simulator.
 </div>
 <br/>
 <hr style="height:1px;border:center;;" />
-
-
-
-Welcome to the community run AoS Stormvault.
-
 
 
 **Manual Installation (Windows OS)**
