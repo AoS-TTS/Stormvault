@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<br/>
+<div align="center">
+  <img width="300px" src="https://www.warhammer-community.com/wp-content/uploads/2020/01/ae1fc080-500x179.png">
+  <hr style="height:1px;border:center;;" />
+</div>
+<br/>
+<div align="center">
 
-You can use the [editor on GitHub](https://github.com/AoS-TTS/Stormvault/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A curated list of Warhammer40k Models. Just install/run and play Warhammer 40k.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[[Discord](https://discord.gg/XkBbs5M)] [[Direct Download](https://github.com/TTSWarhammer40k/Battleforged-Workshop-Mod-Compilation/raw/master/battle-forge.zip)] [[Installer]()]
+</div>
+<br/>
+<hr style="height:1px;border:center;;" />
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Welcome to the community run AoS Stormvault.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Manual Installation (Windows OS)**
+1. Download the Battle-Forge Zip file.
+2. Locate your Saves folder under /Your Computer/Documents/My Games/Tabletop Simulator
+3. Copy the Battleforged Mod Compilation folder from the Zip and place it inside your Saves folder in your Tabletop Simulator folder
+4. Load up the game, make a room, open saves and bingo
 
-**Bold** and _Italic_ and `Code` text
+**Manual Installation (Mac OS)**
 
-[Link](url) and ![Image](src)
-```
+1. Download the Battle-Forge Zip file.
+2. Locate your **Library\Tabletop Simulator
+3. Copy the Battleforged Mod Compilation folder from the Zip and place it Saves folder into Library\Tabletop Simulator
+4. Open your game and room, open your saves
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Manual Installation (Linux)**
+1. Download the Battle-Forge Zip file.
+2. Locate your Saves file under /home/<username>/.var/app/com.valvesoftware.Steam/.local/share/Tabletop\ Simulator/Saves/
+3. Copy the Battleforged Mod Compilation folder from the Zip and replace and overwrite your Saves folder in your Tabletop Simulator Folder
+4. Open your game and room, open your saves
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AoS-TTS/Stormvault/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Modder Credits:
+**TO BE ADDED**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you yourself have contributed mods or models, please send me a message. We will also be willing to link your workshops at your request.
