@@ -1,13 +1,12 @@
 <br/>
 <div align="center">
-  <img width="300px" src="https://www.pngix.com/pngfile/middle/548-5481519_the-next-battletome-warhammer-age-of-sigmar-logo.png">
+  <img width="300px" src="https://www.pngitem.com/pimgs/m/92-922002_warhammer-age-of-sigmar-logo-hd-png-download.png">
   <hr style="height:1px;border:center;;" />
 </div>
 <br/>
 <div align="center">
 
 A curated repository of Warhammer Age of Sigmar Models for Tabletop Simulator.
-
 </div>
 <br/>
 <hr style="height:1px;border:center;;" />
