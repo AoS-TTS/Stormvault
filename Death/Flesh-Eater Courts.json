@@ -1,7 +1,7 @@
 {
   "SaveName": "Flesh-Eater Courts",
-  "EpochTime": 1631040402,
-  "Date": "9/7/2021 7:46:42 PM",
+  "EpochTime": 1631229646,
+  "Date": "9/10/2021 12:20:46 AM",
   "VersionNumber": "v13.1.1",
   "GameMode": "FLESH EATER COURTS",
   "GameType": "",
@@ -1203,9 +1203,9 @@
         "posX": 11.75,
         "posY": 1.481499,
         "posZ": -55.75,
-        "rotX": -2.28434914E-07,
+        "rotX": -9.493374E-07,
         "rotY": 359.9884,
-        "rotZ": 1.50741712E-07,
+        "rotZ": -1.13832482E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1263,9 +1263,9 @@
         "posX": 2.24999785,
         "posY": 1.48151445,
         "posZ": -61.7499924,
-        "rotX": -1.29190926E-06,
+        "rotX": -1.42502211E-06,
         "rotY": 359.965759,
-        "rotZ": -1.61798362E-05,
+        "rotZ": -1.68191291E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1320,12 +1320,12 @@
       "GUID": "262472",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 6.749997,
-        "posY": 1.481499,
+        "posX": 6.749996,
+        "posY": 1.48149872,
         "posZ": -63.25,
-        "rotX": 2.5380308E-07,
-        "rotY": 0.0340627879,
-        "rotZ": -6.8006284E-07,
+        "rotX": 3.02296769E-07,
+        "rotY": 0.0341479443,
+        "rotZ": -3.57823751E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1381,11 +1381,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 6.75,
-        "posY": 1.481499,
+        "posY": 1.48149908,
         "posZ": -68.25,
-        "rotX": -1.70771113E-08,
-        "rotY": 0.0342757255,
-        "rotZ": -3.70411129E-07,
+        "rotX": 3.64180472E-08,
+        "rotY": 0.0342757478,
+        "rotZ": 7.77106948E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1440,12 +1440,12 @@
       "GUID": "8c6423",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 2.24997926,
-        "posY": 1.49080086,
-        "posZ": -68.74948,
-        "rotX": 0.163208753,
-        "rotY": -0.002660392,
-        "rotZ": 359.982574,
+        "posX": 2.25002813,
+        "posY": 1.49072051,
+        "posZ": -68.74929,
+        "rotX": 0.164975718,
+        "rotY": -0.00267715682,
+        "rotZ": 0.003023448,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1501,11 +1501,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 10.75,
-        "posY": 1.48149884,
+        "posY": 1.48149872,
         "posZ": -68.75,
-        "rotX": 5.0973216E-07,
+        "rotX": 4.625387E-07,
         "rotY": 359.9659,
-        "rotZ": 6.981887E-07,
+        "rotZ": 4.38401855E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1563,9 +1563,9 @@
         "posX": 10.75,
         "posY": 1.481499,
         "posZ": -64.25,
-        "rotX": 1.197449E-06,
+        "rotX": -5.11888743E-07,
         "rotY": 359.982635,
-        "rotZ": -2.36849218E-07,
+        "rotZ": 1.16102456E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1623,9 +1623,9 @@
         "posX": 0.75000006,
         "posY": 1.48149884,
         "posZ": -57.25,
-        "rotX": -2.14585214E-07,
+        "rotX": -2.63325063E-07,
         "rotY": 0.0340109244,
-        "rotZ": 2.7256167E-06,
+        "rotZ": -1.34946993E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1683,9 +1683,9 @@
         "posX": 2.25,
         "posY": 1.48149884,
         "posZ": -57.25,
-        "rotX": -3.418196E-06,
-        "rotY": 0.0333381519,
-        "rotZ": 9.92105E-07,
+        "rotX": -1.62641379E-06,
+        "rotY": 0.03332449,
+        "rotZ": -2.50878861E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1741,11 +1741,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 14.0,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": -69.0,
-        "rotX": 6.145558E-07,
-        "rotY": 0.00149933691,
-        "rotZ": 1.93115042E-07,
+        "rotX": 8.069031E-07,
+        "rotY": 0.00149934238,
+        "rotZ": -4.46633436E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1801,11 +1801,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 14.0,
-        "posY": 1.48149872,
+        "posY": 1.48149884,
         "posZ": -65.0,
-        "rotX": -2.69042118E-07,
+        "rotX": -6.032207E-07,
         "rotY": 359.965851,
-        "rotZ": -3.523534E-06,
+        "rotZ": -1.472016E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1863,9 +1863,9 @@
         "posX": 0.75,
         "posY": 1.481499,
         "posZ": -55.75,
-        "rotX": 7.32453742E-08,
+        "rotX": -2.5603847E-06,
         "rotY": 0.0160202086,
-        "rotZ": -3.63615982E-07,
+        "rotZ": -2.00823752E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1921,11 +1921,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 2.25,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": -55.75,
-        "rotX": 1.59254546E-06,
-        "rotY": 0.03416802,
-        "rotZ": -1.96989663E-06,
+        "rotX": 5.97111068E-07,
+        "rotY": 0.0341885127,
+        "rotZ": 7.17535841E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1983,9 +1983,9 @@
         "posX": 16.75,
         "posY": 1.48149884,
         "posZ": -69.25,
-        "rotX": 8.654797E-07,
-        "rotY": 0.0341572128,
-        "rotZ": 1.31771492E-06,
+        "rotX": -8.31006E-07,
+        "rotY": 0.03415718,
+        "rotZ": 8.92210153E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2043,9 +2043,9 @@
         "posX": 4.24999952,
         "posY": 1.48149884,
         "posZ": -57.75,
-        "rotX": 1.42738111E-06,
+        "rotX": 1.9098602E-06,
         "rotY": 0.0339801833,
-        "rotZ": 2.08155052E-06,
+        "rotZ": -1.121315E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2103,9 +2103,9 @@
         "posX": 16.75,
         "posY": 1.48149884,
         "posZ": -65.75,
-        "rotX": -1.24620271E-06,
-        "rotY": 0.0302747171,
-        "rotZ": 1.85663771E-06,
+        "rotX": -9.42037E-09,
+        "rotY": 0.03027472,
+        "rotZ": -5.65668756E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2161,11 +2161,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 4.25,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": -55.75,
-        "rotX": 7.654259E-07,
+        "rotX": -1.370794E-06,
         "rotY": 0.03402117,
-        "rotZ": -9.793681E-07,
+        "rotZ": -1.97988743E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2223,9 +2223,9 @@
         "posX": 19.5,
         "posY": 1.481499,
         "posZ": -69.5,
-        "rotX": 7.21791253E-07,
-        "rotY": 0.03748413,
-        "rotZ": -1.999667E-06,
+        "rotX": -7.969785E-07,
+        "rotY": 0.0374842137,
+        "rotZ": -2.397051E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2283,9 +2283,9 @@
         "posX": 6.25,
         "posY": 1.48149884,
         "posZ": -58.25,
-        "rotX": 5.66099345E-07,
+        "rotX": 2.53027224E-07,
         "rotY": 359.967529,
-        "rotZ": 1.417399E-07,
+        "rotZ": 2.22055036E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2343,9 +2343,9 @@
         "posX": 19.5,
         "posY": 1.481499,
         "posZ": -66.5,
-        "rotX": -1.55571115E-07,
-        "rotY": 0.00343885436,
-        "rotZ": 4.110223E-06,
+        "rotX": 3.87600039E-06,
+        "rotY": 0.00343887019,
+        "rotZ": 3.7735042E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2400,12 +2400,12 @@
       "GUID": "d1b602",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 6.249999,
+        "posX": 6.249998,
         "posY": 1.48149884,
         "posZ": -55.75,
-        "rotX": 9.14237E-08,
-        "rotY": 0.0307631716,
-        "rotZ": -6.873035E-07,
+        "rotX": -1.74608442E-06,
+        "rotY": 0.0306265689,
+        "rotZ": 4.536927E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2461,11 +2461,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 8.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": -58.25,
-        "rotX": -2.28146689E-07,
+        "rotX": -8.171423E-08,
         "rotY": 359.987244,
-        "rotZ": 2.99930025E-06,
+        "rotZ": -6.87516263E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2520,12 +2520,12 @@
       "GUID": "db179d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 8.750002,
+        "posX": 8.750004,
         "posY": 1.481499,
         "posZ": -55.75,
-        "rotX": -5.09413951E-07,
-        "rotY": 0.0222186055,
-        "rotZ": -8.448357E-07,
+        "rotX": 1.35754476E-06,
+        "rotY": 0.0222100671,
+        "rotZ": 7.34961247E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2583,9 +2583,9 @@
         "posX": 11.75,
         "posY": 1.481499,
         "posZ": -58.75,
-        "rotX": 1.16724905E-07,
+        "rotX": -1.29596719E-06,
         "rotY": -0.000505434,
-        "rotZ": 5.771256E-07,
+        "rotZ": 1.6621658E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2643,9 +2643,9 @@
         "posX": 15.0,
         "posY": 1.481499,
         "posZ": -59.5,
-        "rotX": 9.311719E-07,
+        "rotX": -6.78839342E-07,
         "rotY": 0.0214502085,
-        "rotZ": 1.428743E-07,
+        "rotZ": -1.30046669E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2700,12 +2700,12 @@
       "GUID": "4f0716",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 14.9999981,
-        "posY": 1.48149884,
+        "posX": 14.9999962,
+        "posY": 1.48149872,
         "posZ": -56.0,
-        "rotX": 1.51314183E-07,
+        "rotX": -2.81156929E-07,
         "rotY": 359.980621,
-        "rotZ": -1.35438859E-06,
+        "rotZ": 1.25882661E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2762,10 +2762,10 @@
       "Transform": {
         "posX": 19.25,
         "posY": 1.481499,
-        "posZ": -60.7500076,
-        "rotX": 1.17205481E-08,
+        "posZ": -60.75001,
+        "rotX": 2.30810613E-07,
         "rotY": 359.965485,
-        "rotZ": 2.05609666E-07,
+        "rotZ": -4.826759E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2822,10 +2822,10 @@
       "Transform": {
         "posX": 19.0,
         "posY": 1.481499,
-        "posZ": -56.5000076,
-        "rotX": 8.201289E-07,
+        "posZ": -56.50001,
+        "rotX": 2.107519E-07,
         "rotY": 359.992249,
-        "rotZ": 8.50265E-07,
+        "rotZ": 2.735304E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2883,9 +2883,9 @@
         "posX": 23.75,
         "posY": 1.48150718,
         "posZ": -56.75,
-        "rotX": 5.88195871E-06,
-        "rotY": 0.0241182521,
-        "rotZ": -7.105986E-06,
+        "rotX": -1.15882267E-06,
+        "rotY": 0.02408026,
+        "rotZ": -8.884858E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2941,11 +2941,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 24.25,
-        "posY": 1.48150718,
+        "posY": 1.48150706,
         "posZ": -62.25,
-        "rotX": -4.93041853E-07,
-        "rotY": 0.02323545,
-        "rotZ": -8.857839E-06,
+        "rotX": 2.101349E-07,
+        "rotY": 0.023225205,
+        "rotZ": -8.280791E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3000,12 +3000,12 @@
       "GUID": "d55d30",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 30.0000038,
-        "posY": 1.48150754,
+        "posX": 30.0000057,
+        "posY": 1.48150766,
         "posZ": -57.5,
-        "rotX": -6.872484E-06,
+        "rotX": -4.19349E-06,
         "rotY": 359.973755,
-        "rotZ": 3.67647976E-06,
+        "rotZ": 1.212976E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3063,9 +3063,9 @@
         "posX": 30.25,
         "posY": 1.48150742,
         "posZ": -64.25,
-        "rotX": -6.07287166E-06,
-        "rotY": 0.0341046266,
-        "rotZ": 5.063355E-06,
+        "rotX": -6.09790959E-06,
+        "rotY": 0.0341133773,
+        "rotZ": 2.99878116E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3123,7 +3123,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -55.0,
-        "rotX": -9.361927E-09,
+        "rotX": -9.361933E-09,
         "rotY": 179.982147,
         "rotZ": 3.81626331E-09,
         "scaleX": 2.69600368,
@@ -3175,9 +3175,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -35.0,
-        "rotX": 1.40882914E-08,
+        "rotX": 1.40883E-08,
         "rotY": 179.977539,
-        "rotZ": 2.76882317E-09,
+        "rotZ": 2.7688245E-09,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -3229,7 +3229,7 @@
         "posZ": -43.0,
         "rotX": 3.891783E-07,
         "rotY": 180.0159,
-        "rotZ": -4.81018745E-08,
+        "rotZ": -4.81018958E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -3278,9 +3278,9 @@
         "posX": -65.0,
         "posY": 1.482724,
         "posZ": -63.0,
-        "rotX": 5.594932E-08,
+        "rotX": 5.594936E-08,
         "rotY": 180.016052,
-        "rotZ": 9.341106E-08,
+        "rotZ": 9.34111E-08,
         "scaleX": 1.22499967,
         "scaleY": 1.22499967,
         "scaleZ": 1.22499967
@@ -3381,9 +3381,9 @@
         "posX": -65.0,
         "posY": 1.482824,
         "posZ": -2.0,
-        "rotX": -1.02699744E-07,
+        "rotX": -1.02699786E-07,
         "rotY": 180.016037,
-        "rotZ": -5.073959E-08,
+        "rotZ": -5.073961E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -3483,7 +3483,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 5.0,
-        "rotX": -1.3387508E-08,
+        "rotX": -1.33875178E-08,
         "rotY": 179.982178,
         "rotZ": -3.07197645E-08,
         "scaleX": 2.69600368,
@@ -3535,7 +3535,7 @@
         "posX": -65.0,
         "posY": 1.53149915,
         "posZ": 45.0,
-        "rotX": 3.08847454E-08,
+        "rotX": 3.08847667E-08,
         "rotY": 180.031479,
         "rotZ": -3.70051545E-08,
         "scaleX": 2.69600368,
@@ -3587,7 +3587,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 25.0,
-        "rotX": -1.305178E-08,
+        "rotX": -1.30517854E-08,
         "rotY": 179.9827,
         "rotZ": -2.24342234E-08,
         "scaleX": 2.69600368,
@@ -3741,9 +3741,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 65.0,
-        "rotX": -1.33042253E-08,
+        "rotX": -1.33042306E-08,
         "rotY": 180.027863,
-        "rotZ": 1.46700287E-08,
+        "rotZ": 1.46700385E-08,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -3842,11 +3842,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -48.75,
-        "posY": 1.48149884,
+        "posY": 1.48149908,
         "posZ": 62.25,
-        "rotX": -3.28304338E-07,
+        "rotX": 8.959127E-07,
         "rotY": 164.999786,
-        "rotZ": 1.29808745E-06,
+        "rotZ": 1.72507583E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3902,11 +3902,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -50.25,
-        "posY": 1.481499,
+        "posY": 1.4814992,
         "posZ": 62.25,
-        "rotX": 2.175063E-06,
+        "rotX": 7.701238E-08,
         "rotY": 180.011063,
-        "rotZ": -1.08138886E-06,
+        "rotZ": 2.26469439E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3964,9 +3964,9 @@
         "posX": -56.0,
         "posY": 1.481499,
         "posZ": 62.0,
-        "rotX": -1.354693E-06,
+        "rotX": -5.269161E-07,
         "rotY": 180.000183,
-        "rotZ": 5.36069145E-08,
+        "rotZ": -1.80069514E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4022,11 +4022,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.48149884,
+        "posY": 1.48149908,
         "posZ": 62.0,
-        "rotX": 5.343251E-07,
+        "rotX": 4.15565921E-07,
         "rotY": 180.0271,
-        "rotZ": -3.24992561E-06,
+        "rotZ": 4.64946567E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4084,9 +4084,9 @@
         "posX": -46.0,
         "posY": 1.481499,
         "posZ": 64.5,
-        "rotX": 2.21671641E-07,
+        "rotX": -1.16476338E-06,
         "rotY": 179.9988,
-        "rotZ": 9.2822205E-07,
+        "rotZ": -1.2666294E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4144,9 +4144,9 @@
         "posX": -45.25,
         "posY": 1.481499,
         "posZ": 62.25,
-        "rotX": -7.155534E-07,
+        "rotX": -8.49651769E-07,
         "rotY": 149.9996,
-        "rotZ": 1.65199239E-07,
+        "rotZ": -1.576373E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4202,11 +4202,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -43.75,
-        "posY": 1.48149884,
+        "posY": 1.48149908,
         "posZ": 62.25,
-        "rotX": 1.68617149E-07,
+        "rotX": 1.74954789E-06,
         "rotY": 150.016159,
-        "rotZ": 5.558959E-07,
+        "rotZ": -5.94866E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4258,695 +4258,15 @@
       "XmlUI": ""
     },
     {
-      "GUID": "1bffe3",
-      "Name": "Custom_Model",
-      "Transform": {
-        "posX": -29.75,
-        "posY": 1.59890878,
-        "posZ": -58.25,
-        "rotX": 0.0005063951,
-        "rotY": 89.99958,
-        "rotZ": -4.154799E-05,
-        "scaleX": 1.60408378,
-        "scaleY": 1.40658855,
-        "scaleZ": 2.23936987
-      },
-      "Nickname": "Corpsemare Stampede",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.9999998,
-        "g": 0.9921717,
-        "b": 0.9999998
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomMesh": {
-        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1007062354468297655/15D2B8D64BF7BAE98815782C3F9116DF9E8239A0/",
-        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/970993441116989956/C1AD9487B3A4EF1D11412AA7E6158BF892AB8C45/",
-        "NormalURL": "",
-        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/909072114025566405/DE623BD66F73B5BAEA303E463D9ECB77B0FB1687/",
-        "Convex": false,
-        "MaterialIndex": 3,
-        "TypeIndex": 1,
-        "CustomShader": {
-          "SpecularColor": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "SpecularIntensity": 0.0,
-          "SpecularSharpness": 2.0,
-          "FresnelStrength": 0.0
-        },
-        "CastShadows": true
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "PhysicsMaterial": {
-        "StaticFriction": 0.4,
-        "DynamicFriction": 0.4,
-        "Bounciness": 0.0,
-        "FrictionCombine": 0,
-        "BounceCombine": 0
-      },
-      "Rigidbody": {
-        "Mass": 1.0,
-        "Drag": 5.0,
-        "AngularDrag": 50.0,
-        "UseGravity": true
-      },
-      "ChildObjects": [
-        {
-          "GUID": "f4afd2",
-          "Name": "Custom_Assetbundle",
-          "Transform": {
-            "posX": -0.0450330824,
-            "posY": -0.0834728,
-            "posZ": -0.113195144,
-            "rotX": 5.20201866E-05,
-            "rotY": 270.009979,
-            "rotZ": 0.000500067545,
-            "scaleX": 0.577183843,
-            "scaleY": 0.710939944,
-            "scaleZ": 0.5238113
-          },
-          "Nickname": "80mm",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.0,
-            "g": 0.0,
-            "b": 0.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomAssetbundle": {
-            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037163970/58C8AFF3BDD0533CFAF09B3EDE1BD17D1A58C7DB/",
-            "AssetbundleSecondaryURL": "",
-            "MaterialIndex": 1,
-            "TypeIndex": 1,
-            "LoopingEffectIndex": 0
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
-      "GUID": "af0a37",
-      "Name": "Custom_Model",
-      "Transform": {
-        "posX": -41.208313,
-        "posY": 1.47920811,
-        "posZ": -57.41901,
-        "rotX": 4.16979528E-05,
-        "rotY": 209.999863,
-        "rotZ": -7.39499737E-05,
-        "scaleX": 1.24999976,
-        "scaleY": 1.24999976,
-        "scaleZ": 1.24999976
-      },
-      "Nickname": "Chalice of ushoran",
-      "Description": "[config]\nbase_size=40\nalways_show=false\n\n[first]\nsize=9.6\ncolour=#00FF9F\n\n",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.847058833,
-        "g": 0.847058833,
-        "b": 0.847058833
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": false,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": false,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomMesh": {
-        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/937216170891395743/3036418ACA1ADF8FC8001D2618DBF3357FFE6C26/",
-        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891386466/DFFE1CC7B56151761FA7072B381B623F9C09A562/",
-        "NormalURL": "",
-        "ColliderURL": "http://pastebin.com/raw.php?i=ahfaXzUd",
-        "Convex": true,
-        "MaterialIndex": 3,
-        "TypeIndex": 1,
-        "CustomShader": {
-          "SpecularColor": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "SpecularIntensity": 0.0,
-          "SpecularSharpness": 2.0,
-          "FresnelStrength": 0.0
-        },
-        "CastShadows": true
-      },
-      "LuaScript": "\n\n\ndefaultState = {\n    config = {\n        base_size = 40,\n        always_show = false\n    },\n    first = {\n        size = 9.6,\n        colour = \"#00FF9F\"\n    }\n}\n\nfunction onLoad()\n    show = false\n    storeState(defaultState)\nend\n\nfunction onDrop()\n    show = not show\n    state = getState()\n    if state == nil then\n        storeState(defaultState)\n    end\n\n    baseSizeRadiousInches = ( state.config.base_size / 2 ) / 25.4\n    alwaysShow = state.config.always_show\n    areas = {}\n\n    for key,value in pairs(state) do\n        if key ~= \"config\" then\n            table.insert(areas, value)\n        end\n    end\n\n    createCircles()\n\ttoggleCircles(show)\nend\n\nfunction createCircles()\n    circles = {}\n    -- Base\n    table.insert(circles, createCircle(baseSizeRadiousInches, \"#FFFFFF\"))\n    -- Circles\n    for i, v in pairs(areas) do\n        table.insert(circles, createCircle(baseSizeRadiousInches + v.size, v.colour))\n    end\nend\n\nfunction createCircle(radius, colour)\n    return {\n\t\tcolor             = {hex2rgbNorm(colour)}, --RGB color of the circle\n\t\tthickness         = 0.02,         --thickness of the circle line\n        rotation          = {0,0,0},\n        points            = getCircleVectorPoints(radius, 32, 0),\n\t}\nend\n\nfunction toggleCircles(show)\n    vectorLines = {}\n    if show or alwaysShow then\n        for i,circle in pairs(circles) do\n            table.insert(vectorLines, circle)\n        end\n    end\n\n\tself.setVectorLines(vectorLines)\nend\n\nfunction getCircleVectorPoints(radius, steps, y)\n\tlocal t = {}\n\tlocal d,s,c,r = 360/steps, math.sin, math.cos, math.rad\n\tfor i = 0,steps do\n\t\ttable.insert(t, {\n\t\t\tc(r(d*i))*radius,\n\t\t\ty,\n\t\t\ts(r(d*i))*radius\n\t\t})\n\tend\n\treturn t\nend\n\nfunction storeState(data)\n\tself.setDescription(saveINI(data))\nend\n\nfunction getState()\n\tlocal data = loadINI(self.getDescription())\n\n\tif data==nil then\n        return {}\n    end\n    return data\nend\n\nfunction hex2rgbNorm (hex)\n    local hex = hex:gsub(\"#\",\"\")\n    if hex:len() == 3 then\n      return (tonumber(\"0x\"..hex:sub(1,1))*17)/255,\n        (tonumber(\"0x\"..hex:sub(2,2))*17)/255,\n        (tonumber(\"0x\"..hex:sub(3,3))*17)/255\n    else\n      return tonumber(\"0x\"..hex:sub(1,2),16)/255, tonumber(\"0x\"..hex:sub(3,4),16)/255, tonumber(\"0x\"..hex:sub(5,6),16)/255\n    end\nend\n\nfunction dump(tbl, indent)\n  if not indent then indent = 0 end\n  for k, v in pairs(tbl) do\n    formatting = string.rep(\"  \", indent) .. k .. \": \"\n    if type(v) == \"table\" then\n      print(formatting)\n      dump(v, indent+1)\n    else\n      print(formatting .. v)\n    end\n  end\nend\n\nfunction saveINI(data)\n\tassert(type(data) == 'table', 'Parameter \"data\" must be a table.');\n\tlocal contents = '';\n\tfor section, param in pairs(data) do\n\t\tcontents = contents .. ('[%s]\\n'):format(section);\n\t\tfor key, value in pairs(param) do\n\t\t\tcontents = contents .. ('%s=%s\\n'):format(key, tostring(value));\n\t\tend\n\t\tcontents = contents .. '\\n';\n\tend\n\treturn contents\nend\n\nfunction loadINI(content)\n    local data = {};\n    local section;\n    for line in content:gmatch(\"([^\\n]*)\\n?\") do\n    \tlocal tempSection = line:match(\"^%[(.+)%]$\");\n    \tif(tempSection)then\n    \t\tsection = tonumber(tempSection) and tonumber(tempSection) or tempSection;\n    \t\tdata[section] = data[section] or {};\n    \tend\n    \tlocal param, value = line:match('^([%w|_]+)%s-=%s-(.+)$');\n    \tif(param and value ~= nil)then\n    \t\tif(tonumber(value))then\n    \t\t\tvalue = tonumber(value);\n    \t\telseif(value == 'true')then\n    \t\t\tvalue = true;\n    \t\telseif(value == 'false')then\n    \t\t\tvalue = false;\n    \t\tend\n    \t\tif(tonumber(param))then\n    \t\t\tparam = tonumber(param);\n    \t\tend\n    \t\tdata[section][param] = value;\n    \tend\n    end\n    return data;\nend\n\n\n",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "AttachedVectorLines": [
-        {
-          "points3": [
-            {
-              "x": 0.787401557,
-              "y": 0.0,
-              "z": 0.0
-            },
-            {
-              "x": 0.7722719,
-              "y": 0.0,
-              "z": 0.153614432
-            },
-            {
-              "x": 0.7274642,
-              "y": 0.0,
-              "z": 0.30132553
-            },
-            {
-              "x": 0.654700458,
-              "y": 0.0,
-              "z": 0.437456876
-            },
-            {
-              "x": 0.556777,
-              "y": 0.0,
-              "z": 0.556777
-            },
-            {
-              "x": 0.437456876,
-              "y": 0.0,
-              "z": 0.654700458
-            },
-            {
-              "x": 0.30132553,
-              "y": 0.0,
-              "z": 0.7274642
-            },
-            {
-              "x": 0.153614432,
-              "y": 0.0,
-              "z": 0.7722719
-            },
-            {
-              "x": 4.82128474E-17,
-              "y": 0.0,
-              "z": 0.787401557
-            },
-            {
-              "x": -0.153614432,
-              "y": 0.0,
-              "z": 0.7722719
-            },
-            {
-              "x": -0.30132553,
-              "y": 0.0,
-              "z": 0.7274642
-            },
-            {
-              "x": -0.437456876,
-              "y": 0.0,
-              "z": 0.654700458
-            },
-            {
-              "x": -0.556777,
-              "y": 0.0,
-              "z": 0.556777
-            },
-            {
-              "x": -0.654700458,
-              "y": 0.0,
-              "z": 0.437456876
-            },
-            {
-              "x": -0.7274642,
-              "y": 0.0,
-              "z": 0.30132553
-            },
-            {
-              "x": -0.7722719,
-              "y": 0.0,
-              "z": 0.153614432
-            },
-            {
-              "x": -0.787401557,
-              "y": 0.0,
-              "z": 9.64256947E-17
-            },
-            {
-              "x": -0.7722719,
-              "y": 0.0,
-              "z": -0.153614432
-            },
-            {
-              "x": -0.7274642,
-              "y": 0.0,
-              "z": -0.30132553
-            },
-            {
-              "x": -0.654700458,
-              "y": 0.0,
-              "z": -0.437456876
-            },
-            {
-              "x": -0.556777,
-              "y": 0.0,
-              "z": -0.556777
-            },
-            {
-              "x": -0.437456876,
-              "y": 0.0,
-              "z": -0.654700458
-            },
-            {
-              "x": -0.30132553,
-              "y": 0.0,
-              "z": -0.7274642
-            },
-            {
-              "x": -0.153614432,
-              "y": 0.0,
-              "z": -0.7722719
-            },
-            {
-              "x": -1.44638552E-16,
-              "y": 0.0,
-              "z": -0.787401557
-            },
-            {
-              "x": 0.153614432,
-              "y": 0.0,
-              "z": -0.7722719
-            },
-            {
-              "x": 0.30132553,
-              "y": 0.0,
-              "z": -0.7274642
-            },
-            {
-              "x": 0.437456876,
-              "y": 0.0,
-              "z": -0.654700458
-            },
-            {
-              "x": 0.556777,
-              "y": 0.0,
-              "z": -0.556777
-            },
-            {
-              "x": 0.654700458,
-              "y": 0.0,
-              "z": -0.437456876
-            },
-            {
-              "x": 0.7274642,
-              "y": 0.0,
-              "z": -0.30132553
-            },
-            {
-              "x": 0.7722719,
-              "y": 0.0,
-              "z": -0.153614432
-            },
-            {
-              "x": 0.787401557,
-              "y": 0.0,
-              "z": -1.92851389E-16
-            }
-          ],
-          "color": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "thickness": 0.02
-        },
-        {
-          "points3": [
-            {
-              "x": 10.3874016,
-              "y": 0.0,
-              "z": 0.0
-            },
-            {
-              "x": 10.1878109,
-              "y": 0.0,
-              "z": 2.02648163
-            },
-            {
-              "x": 9.596707,
-              "y": 0.0,
-              "z": 3.97508645
-            },
-            {
-              "x": 8.636808,
-              "y": 0.0,
-              "z": 5.77093124
-            },
-            {
-              "x": 7.345002,
-              "y": 0.0,
-              "z": 7.345002
-            },
-            {
-              "x": 5.77093124,
-              "y": 0.0,
-              "z": 8.636808
-            },
-            {
-              "x": 3.97508645,
-              "y": 0.0,
-              "z": 9.596707
-            },
-            {
-              "x": 2.02648163,
-              "y": 0.0,
-              "z": 10.1878109
-            },
-            {
-              "x": 6.360239E-16,
-              "y": 0.0,
-              "z": 10.3874016
-            },
-            {
-              "x": -2.02648163,
-              "y": 0.0,
-              "z": 10.1878109
-            },
-            {
-              "x": -3.97508645,
-              "y": 0.0,
-              "z": 9.596707
-            },
-            {
-              "x": -5.77093124,
-              "y": 0.0,
-              "z": 8.636808
-            },
-            {
-              "x": -7.345002,
-              "y": 0.0,
-              "z": 7.345002
-            },
-            {
-              "x": -8.636808,
-              "y": 0.0,
-              "z": 5.77093124
-            },
-            {
-              "x": -9.596707,
-              "y": 0.0,
-              "z": 3.97508645
-            },
-            {
-              "x": -10.1878109,
-              "y": 0.0,
-              "z": 2.02648163
-            },
-            {
-              "x": -10.3874016,
-              "y": 0.0,
-              "z": 1.27204782E-15
-            },
-            {
-              "x": -10.1878109,
-              "y": 0.0,
-              "z": -2.02648163
-            },
-            {
-              "x": -9.596707,
-              "y": 0.0,
-              "z": -3.97508645
-            },
-            {
-              "x": -8.636808,
-              "y": 0.0,
-              "z": -5.77093124
-            },
-            {
-              "x": -7.345002,
-              "y": 0.0,
-              "z": -7.345002
-            },
-            {
-              "x": -5.77093124,
-              "y": 0.0,
-              "z": -8.636808
-            },
-            {
-              "x": -3.97508645,
-              "y": 0.0,
-              "z": -9.596707
-            },
-            {
-              "x": -2.02648163,
-              "y": 0.0,
-              "z": -10.1878109
-            },
-            {
-              "x": -1.90807173E-15,
-              "y": 0.0,
-              "z": -10.3874016
-            },
-            {
-              "x": 2.02648163,
-              "y": 0.0,
-              "z": -10.1878109
-            },
-            {
-              "x": 3.97508645,
-              "y": 0.0,
-              "z": -9.596707
-            },
-            {
-              "x": 5.77093124,
-              "y": 0.0,
-              "z": -8.636808
-            },
-            {
-              "x": 7.345002,
-              "y": 0.0,
-              "z": -7.345002
-            },
-            {
-              "x": 8.636808,
-              "y": 0.0,
-              "z": -5.77093124
-            },
-            {
-              "x": 9.596707,
-              "y": 0.0,
-              "z": -3.97508645
-            },
-            {
-              "x": 10.1878109,
-              "y": 0.0,
-              "z": -2.02648163
-            },
-            {
-              "x": 10.3874016,
-              "y": 0.0,
-              "z": -2.54409564E-15
-            }
-          ],
-          "color": {
-            "r": 0.0,
-            "g": 1.0,
-            "b": 0.623529434
-          },
-          "thickness": 0.02
-        }
-      ],
-      "ChildObjects": [
-        {
-          "GUID": "368121",
-          "Name": "Custom_Assetbundle",
-          "Transform": {
-            "posX": -0.444173872,
-            "posY": 2.088571,
-            "posZ": -0.110839106,
-            "rotX": 32.00766,
-            "rotY": 239.032288,
-            "rotZ": -7.04784861E-06,
-            "scaleX": 0.04000002,
-            "scaleY": 0.040000014,
-            "scaleZ": 0.04000002
-          },
-          "Nickname": "Blood Spray",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": true,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomAssetbundle": {
-            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=0BxvLXJFgtJJ8eDJ2TnpJQWg0b2c",
-            "AssetbundleSecondaryURL": "",
-            "MaterialIndex": 0,
-            "TypeIndex": 0,
-            "LoopingEffectIndex": 2
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
-      "GUID": "c438e3",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -30.0,
-        "posY": 1.48149884,
-        "posZ": -54.5,
-        "rotX": -2.92468553E-06,
-        "rotY": 89.9687347,
-        "rotZ": -2.087536E-06,
-        "scaleX": 1.05000007,
-        "scaleY": 1.05000007,
-        "scaleZ": 1.05000007
-      },
-      "Nickname": "Corpsemare Stampede",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/937216170891585696/11A67DFE50D709EBE911540F05B2800D4CE8DB1D/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 0,
-        "TypeIndex": 0,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "b5b7bd",
-      "Name": "Custom_Model",
-      "Transform": {
-        "posX": -36.4857521,
-        "posY": 1.47920787,
-        "posZ": -57.3579254,
-        "rotX": 1.996323E-05,
-        "rotY": 195.003357,
-        "rotZ": 7.715402E-06,
-        "scaleX": 1.24999976,
-        "scaleY": 1.24999976,
-        "scaleZ": 1.24999976
-      },
-      "Nickname": "Chalice of ushoran",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.847058833,
-        "g": 0.847058833,
-        "b": 0.847058833
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": false,
-      "Snap": false,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": false,
-      "Sticky": false,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomMesh": {
-        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/937216170891395743/3036418ACA1ADF8FC8001D2618DBF3357FFE6C26/",
-        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891386466/DFFE1CC7B56151761FA7072B381B623F9C09A562/",
-        "NormalURL": "",
-        "ColliderURL": "http://pastebin.com/raw.php?i=ahfaXzUd",
-        "Convex": true,
-        "MaterialIndex": 3,
-        "TypeIndex": 0,
-        "CastShadows": true
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
       "GUID": "290566",
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 22.5,
-        "rotX": 2.618926E-05,
-        "rotY": 0.0246277433,
-        "rotZ": 4.167955E-07,
+        "rotX": 3.058345E-05,
+        "rotY": 0.0246326253,
+        "rotZ": 1.09250027E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5051,11 +4371,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -55.99995,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 22.5001068,
-        "rotX": 6.016089E-06,
-        "rotY": 0.000206186334,
-        "rotZ": -9.977814E-07,
+        "rotX": 9.331017E-06,
+        "rotY": 0.000170968182,
+        "rotZ": -3.83741927E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5159,12 +4479,12 @@
       "GUID": "d798cd",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -16.0270977,
+        "posX": -16.0812931,
         "posY": 1.50302732,
-        "posZ": 22.9858723,
-        "rotX": -6.024875E-07,
+        "posZ": 22.9576168,
+        "rotX": -1.62947356E-06,
         "rotY": 180.003387,
-        "rotZ": -2.10996836E-06,
+        "rotZ": 9.753867E-07,
         "scaleX": 1.49999976,
         "scaleY": 1.49999976,
         "scaleZ": 1.49999976
@@ -5209,12 +4529,12 @@
       "GUID": "942564",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -46.7566071,
-        "posY": 1.788643,
-        "posZ": -56.750473,
-        "rotX": 8.411889,
-        "rotY": 180.022644,
-        "rotZ": 0.05244653,
+        "posX": -46.7566643,
+        "posY": 1.78864253,
+        "posZ": -56.75037,
+        "rotX": 8.4119215,
+        "rotY": 180.023651,
+        "rotZ": 0.0524553247,
         "scaleX": 1.0017004,
         "scaleY": 1.00249743,
         "scaleZ": 1.00045228
@@ -6318,11 +5638,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -10.5,
-        "posY": 1.4814992,
-        "posZ": 23.0000019,
-        "rotX": -7.270451E-06,
-        "rotY": -0.00250681024,
-        "rotZ": -1.65402719E-06,
+        "posY": 1.48149884,
+        "posZ": 23.0000057,
+        "rotX": 1.4007258E-05,
+        "rotY": -0.00244185,
+        "rotZ": 1.60052707E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6419,9 +5739,9 @@
         "posX": -13.0,
         "posY": 1.48149884,
         "posZ": 25.5,
-        "rotX": 1.33610829E-05,
-        "rotY": 0.0163435359,
-        "rotZ": 2.3831858E-06,
+        "rotX": 1.086316E-05,
+        "rotY": 0.01639044,
+        "rotZ": -3.40904165E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6656,11 +5976,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -15.75,
-        "posY": 1.48149884,
+        "posY": 1.48149908,
         "posZ": 25.75,
-        "rotX": 1.87115129E-05,
-        "rotY": -0.00444429228,
-        "rotZ": 2.11475185E-06,
+        "rotX": 2.35996376E-05,
+        "rotY": -0.00443644868,
+        "rotZ": 2.55813188E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6891,354 +6211,15 @@
       ]
     },
     {
-      "GUID": "cba0dc",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -58.25072,
-        "posY": 1.5285089,
-        "posZ": 45.7500038,
-        "rotX": 0.00114290963,
-        "rotY": 179.9893,
-        "rotZ": 1.34788287,
-        "scaleX": 0.525000453,
-        "scaleY": 0.525000453,
-        "scaleZ": 0.525000453
-      },
-      "Nickname": "14/14 Ghoul King Terrorgeist",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/937216170894541835/85AF42F452960EF7F2DC6B845B59A1DCD2D35994/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 0,
-        "TypeIndex": 0,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "f104d6",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -54.50151,
-        "posY": 1.595807,
-        "posZ": 44.49998,
-        "rotX": 357.476379,
-        "rotY": 300.006226,
-        "rotZ": 359.341034,
-        "scaleX": 1.05,
-        "scaleY": 1.05,
-        "scaleZ": 1.05
-      },
-      "Nickname": "14/14 Ghoul King Terrorgeist",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.03137255,
-        "g": 0.03137255,
-        "b": 0.03137255
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037175589/9F0FD4059955F1FF8D3666A410FA9F49D721B3C5/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 1,
-        "TypeIndex": 1,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "ChildObjects": [
-        {
-          "GUID": "b13505",
-          "Name": "Custom_Assetbundle",
-          "Transform": {
-            "posX": -0.181518391,
-            "posY": 0.118523248,
-            "posZ": -0.127876133,
-            "rotX": 0.000135096867,
-            "rotY": 74.9846649,
-            "rotZ": 0.0001752499,
-            "scaleX": 1.66666639,
-            "scaleY": 1.66666675,
-            "scaleZ": 1.6666671
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomAssetbundle": {
-            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675415171171793/3855D0706E14A4C712C6E48B86E169BF127E45EF/",
-            "AssetbundleSecondaryURL": "",
-            "MaterialIndex": 1,
-            "TypeIndex": 1,
-            "LoopingEffectIndex": 0
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        },
-        {
-          "GUID": "df77b6",
-          "Name": "Custom_Model",
-          "Transform": {
-            "posX": -0.5029077,
-            "posY": 2.30705976,
-            "posZ": -0.363570839,
-            "rotX": 327.9057,
-            "rotY": 104.801384,
-            "rotZ": 347.1972,
-            "scaleX": 1.4285717,
-            "scaleY": 1.42857146,
-            "scaleZ": 1.4285717
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": true,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomMesh": {
-            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
-            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891231383/38DD7D26A75BD9BAA4961FC2F6043CFC419F247E/",
-            "NormalURL": "",
-            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
-            "Convex": true,
-            "MaterialIndex": 1,
-            "TypeIndex": 0,
-            "CastShadows": true
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
-      "GUID": "ab5cbb",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -45.5,
-        "posY": 1.48150027,
-        "posZ": 43.9999962,
-        "rotX": -0.000104031787,
-        "rotY": 30.0144882,
-        "rotZ": -0.000113629707,
-        "scaleX": 1.05,
-        "scaleY": 1.05,
-        "scaleZ": 1.05
-      },
-      "Nickname": "14/14 Abhorrant Ghoul king  on Zombie Dragon",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037175589/9F0FD4059955F1FF8D3666A410FA9F49D721B3C5/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 1,
-        "TypeIndex": 1,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "ChildObjects": [
-        {
-          "GUID": "35d423",
-          "Name": "Custom_Assetbundle",
-          "Transform": {
-            "posX": 0.106876,
-            "posY": 0.17457442,
-            "posZ": -0.613049746,
-            "rotX": 0.0001357102,
-            "rotY": 0.000228587131,
-            "rotZ": -0.0001045256,
-            "scaleX": 0.857142866,
-            "scaleY": 0.8571429,
-            "scaleZ": 0.8571429
-          },
-          "Nickname": "Zombie Dragon",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": true,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomAssetbundle": {
-            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037338502/2CBC547FAC675A9121F401D49B4A2AFDE1926129/",
-            "AssetbundleSecondaryURL": "",
-            "MaterialIndex": 1,
-            "TypeIndex": 1,
-            "LoopingEffectIndex": 0
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        },
-        {
-          "GUID": "b30970",
-          "Name": "Custom_Model",
-          "Transform": {
-            "posX": 0.450809449,
-            "posY": 3.73255873,
-            "posZ": -1.76359773,
-            "rotX": 330.507874,
-            "rotY": 52.34644,
-            "rotZ": 340.887421,
-            "scaleX": 1.42857182,
-            "scaleY": 1.42857158,
-            "scaleZ": 1.4285717
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": true,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomMesh": {
-            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
-            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891231383/38DD7D26A75BD9BAA4961FC2F6043CFC419F247E/",
-            "NormalURL": "",
-            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
-            "Convex": true,
-            "MaterialIndex": 1,
-            "TypeIndex": 0,
-            "CastShadows": true
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
       "GUID": "776132",
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -38.5000038,
-        "posY": 1.48149824,
+        "posY": 1.48149848,
         "posZ": 22.5000019,
-        "rotX": 4.67583277E-07,
-        "rotY": 30.0003223,
-        "rotZ": 3.911719E-06,
+        "rotX": 9.203225E-06,
+        "rotY": 30.0003357,
+        "rotZ": 6.763378E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7329,109 +6310,15 @@
       ]
     },
     {
-      "GUID": "04533d",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -44.25015,
-        "posY": 1.57199144,
-        "posZ": 46.74955,
-        "rotX": 357.672455,
-        "rotY": 209.992676,
-        "rotZ": 359.832275,
-        "scaleX": 0.525000453,
-        "scaleY": 0.525000453,
-        "scaleZ": 0.525000453
-      },
-      "Nickname": "14/14 Abhorrant Ghoul king  on Zombie Dragon",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/937216170894542833/68A99FF022F7D6B91CF0A91D75C83721119EEC11/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 0,
-        "TypeIndex": 0,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
-      "GUID": "bf3412",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -59.2508163,
-        "posY": 1.546938,
-        "posZ": -33.7499542,
-        "rotX": -0.00187652931,
-        "rotY": 180.034164,
-        "rotZ": 1.76249182,
-        "scaleX": 0.525000453,
-        "scaleY": 0.525000453,
-        "scaleZ": 0.525000453
-      },
-      "Nickname": "14/14 Terrorgeist ",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/937216170891232949/AD108491EEC9C17E624F9390594BEB6B9750D845/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 0,
-        "TypeIndex": 0,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
       "GUID": "222573",
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -41.5,
-        "posY": 1.4814992,
-        "posZ": 1.5,
-        "rotX": -4.33291534E-05,
+        "posY": 1.48149872,
+        "posZ": 1.50000048,
+        "rotX": -7.45744728E-06,
         "rotY": 359.99,
-        "rotZ": -1.597042E-06,
+        "rotZ": -3.06759671E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7524,10 +6411,10 @@
       "Transform": {
         "posX": -40.5,
         "posY": 1.48149884,
-        "posZ": 4.0,
-        "rotX": -3.228397E-06,
-        "rotY": 359.991577,
-        "rotZ": -8.93557058E-07,
+        "posZ": 4.00000143,
+        "rotX": 2.59332664E-05,
+        "rotY": 359.991333,
+        "rotZ": -1.449377E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7619,11 +6506,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -38.5,
-        "posY": 1.48149908,
-        "posZ": 3.99999976,
-        "rotX": 1.46741786E-06,
-        "rotY": -0.000189604849,
-        "rotZ": -3.248344E-06,
+        "posY": 1.48149884,
+        "posZ": 4.0,
+        "rotX": 1.89431148E-06,
+        "rotY": -0.000189585247,
+        "rotZ": 8.2709E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7714,12 +6601,12 @@
       "GUID": "0e92b9",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -38.1549149,
-        "posY": 1.47920775,
-        "posZ": 1.58349955,
-        "rotX": 3.68920746E-06,
+        "posX": -38.12207,
+        "posY": 1.47920752,
+        "posZ": 1.557568,
+        "rotX": -2.58496175E-06,
         "rotY": 299.999664,
-        "rotZ": 5.26182339E-06,
+        "rotZ": 2.54178849E-06,
         "scaleX": 1.24999976,
         "scaleY": 1.24999976,
         "scaleZ": 1.24999976
@@ -7767,9 +6654,9 @@
         "posX": -21.75,
         "posY": 1.481499,
         "posZ": 22.7500019,
-        "rotX": 5.569433E-06,
-        "rotY": -0.0042660567,
-        "rotZ": -2.84167277E-06,
+        "rotX": -4.128763E-06,
+        "rotY": -0.004289959,
+        "rotZ": 8.806087E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7857,111 +6744,15 @@
       ]
     },
     {
-      "GUID": "a38a7f",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -53.5,
-        "posY": 1.48149812,
-        "posZ": -33.5,
-        "rotX": 1.18309654E-05,
-        "rotY": 299.9996,
-        "rotZ": -3.13370879E-06,
-        "scaleX": 1.05,
-        "scaleY": 1.05,
-        "scaleZ": 1.05
-      },
-      "Nickname": "14/14 Terrorgeist ",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037175589/9F0FD4059955F1FF8D3666A410FA9F49D721B3C5/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 1,
-        "TypeIndex": 1,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "ChildObjects": [
-        {
-          "GUID": "b13505",
-          "Name": "Custom_Assetbundle",
-          "Transform": {
-            "posX": -0.135357186,
-            "posY": 0.009458613,
-            "posZ": -0.09072525,
-            "rotX": -1.13217948E-05,
-            "rotY": 74.98981,
-            "rotZ": -1.40604661E-05,
-            "scaleX": 1.666666,
-            "scaleY": 1.66666687,
-            "scaleZ": 1.66666687
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomAssetbundle": {
-            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675415171171793/3855D0706E14A4C712C6E48B86E169BF127E45EF/",
-            "AssetbundleSecondaryURL": "",
-            "MaterialIndex": 1,
-            "TypeIndex": 1,
-            "LoopingEffectIndex": 0
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
       "GUID": "94bdbb",
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -35.75,
-        "posY": 1.4814992,
-        "posZ": 3.74999976,
-        "rotX": 2.214499E-06,
-        "rotY": -0.000247618969,
-        "rotZ": 1.09523107E-05,
+        "posY": 1.481499,
+        "posZ": 3.75000143,
+        "rotX": -8.884578E-06,
+        "rotY": -0.000218484318,
+        "rotZ": 1.55081648E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8054,10 +6845,10 @@
       "Transform": {
         "posX": -35.5,
         "posY": 1.481499,
-        "posZ": 1.5,
-        "rotX": 1.22729889E-05,
-        "rotY": -0.0002905486,
-        "rotZ": -2.98490386E-06,
+        "posZ": 1.50000131,
+        "rotX": 1.02186023E-05,
+        "rotY": -0.000259761029,
+        "rotZ": 4.33325233E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8149,11 +6940,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -50.0,
-        "posY": 1.48149908,
-        "posZ": 1.00000012,
-        "rotX": -3.50973423E-05,
-        "rotY": 0.0119630117,
-        "rotZ": 4.86681E-05,
+        "posY": 1.481499,
+        "posZ": 1.00000048,
+        "rotX": -1.60339471E-06,
+        "rotY": 0.0120092118,
+        "rotZ": 6.468323E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8250,9 +7041,9 @@
         "posX": -49.0,
         "posY": 1.481499,
         "posZ": 2.0,
-        "rotX": 1.22626316E-05,
+        "rotX": 1.68031147E-05,
         "rotY": 359.9809,
-        "rotZ": -4.716351E-06,
+        "rotZ": -2.59903777E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8346,12 +7137,12 @@
       "GUID": "fc738d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -31.25634,
+        "posX": -31.2339935,
         "posY": 1.47920775,
-        "posZ": 22.9547119,
-        "rotX": -1.51822212E-06,
+        "posZ": 22.9317513,
+        "rotX": -6.467454E-07,
         "rotY": 314.989319,
-        "rotZ": -1.78778362E-06,
+        "rotZ": -1.61117794E-06,
         "scaleX": 1.24999976,
         "scaleY": 1.24999976,
         "scaleZ": 1.24999976
@@ -8397,11 +7188,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -48.5,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 1.0,
-        "rotX": 1.5392965E-05,
-        "rotY": 1.70779422E-05,
-        "rotZ": -3.2987823E-06,
+        "rotX": 3.24693247E-05,
+        "rotY": 1.70764142E-05,
+        "rotZ": -3.08200129E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8497,10 +7288,10 @@
       "Transform": {
         "posX": -47.0,
         "posY": 1.481499,
-        "posZ": 1.00000012,
-        "rotX": -1.46075145E-05,
-        "rotY": 0.000734285044,
-        "rotZ": -2.87490911E-06,
+        "posZ": 1.00000131,
+        "rotX": 1.62083452E-05,
+        "rotY": 0.0006488404,
+        "rotZ": 2.18788659E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8597,9 +7388,9 @@
         "posX": -45.75,
         "posY": 1.481499,
         "posZ": 1.24999988,
-        "rotX": 2.1088174E-06,
+        "rotX": 2.83599138E-06,
         "rotY": 149.998566,
-        "rotZ": -3.99478921E-07,
+        "rotZ": -1.534323E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8656,10 +7447,10 @@
       "Transform": {
         "posX": -44.25,
         "posY": 1.481499,
-        "posZ": 2.25,
-        "rotX": 6.04834E-07,
+        "posZ": 2.24999952,
+        "rotX": -7.87049657E-07,
         "rotY": 180.00209,
-        "rotZ": 9.25636741E-08,
+        "rotZ": -1.0805079E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8715,11 +7506,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -29.0,
-        "posY": 1.48149884,
+        "posY": 1.48149872,
         "posZ": 23.0,
-        "rotX": -1.69337181E-06,
-        "rotY": -0.000280044,
-        "rotZ": 6.436694E-07,
+        "rotX": 3.00183274E-08,
+        "rotY": -0.00021003517,
+        "rotZ": 1.55413454E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8814,11 +7605,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -60.0,
-        "posY": 1.58150017,
-        "posZ": 3.00000119,
-        "rotX": -2.49461882E-05,
-        "rotY": 5.978401E-05,
-        "rotZ": -1.64418252E-05,
+        "posY": 1.58149874,
+        "posZ": 2.99999952,
+        "rotX": -6.505499E-08,
+        "rotY": -5.96370846E-05,
+        "rotZ": -4.121459E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -8913,11 +7704,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -58.0,
-        "posY": 1.48149931,
-        "posZ": 2.99999976,
-        "rotX": -1.76239664E-05,
-        "rotY": -0.0003483523,
-        "rotZ": 4.017827E-05,
+        "posY": 1.48149908,
+        "posZ": 3.00000048,
+        "rotX": 1.702357E-05,
+        "rotY": -0.000225399839,
+        "rotZ": 1.11387419E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9012,11 +7803,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -58.0,
-        "posY": 1.481499,
-        "posZ": 1.0,
-        "rotX": 1.04395513E-05,
-        "rotY": 4.26837578E-05,
-        "rotZ": -1.85553642E-06,
+        "posY": 1.48149884,
+        "posZ": 0.9999993,
+        "rotX": 1.32143159E-05,
+        "rotY": 7.51261541E-05,
+        "rotZ": -7.23697951E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9107,111 +7898,15 @@
       ]
     },
     {
-      "GUID": "67e54f",
-      "Name": "Custom_Assetbundle",
-      "Transform": {
-        "posX": -45.75,
-        "posY": 1.481499,
-        "posZ": -35.25,
-        "rotX": 1.5101351E-05,
-        "rotY": 359.9752,
-        "rotZ": 1.06394759E-06,
-        "scaleX": 1.05,
-        "scaleY": 1.05,
-        "scaleZ": 1.05
-      },
-      "Nickname": "14/14 Zombie Dragon",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomAssetbundle": {
-        "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037175589/9F0FD4059955F1FF8D3666A410FA9F49D721B3C5/",
-        "AssetbundleSecondaryURL": "",
-        "MaterialIndex": 1,
-        "TypeIndex": 1,
-        "LoopingEffectIndex": 0
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "ChildObjects": [
-        {
-          "GUID": "35d423",
-          "Name": "Custom_Assetbundle",
-          "Transform": {
-            "posX": 0.220133156,
-            "posY": 0.119677782,
-            "posZ": -0.4716994,
-            "rotX": 7.62469062E-05,
-            "rotY": 359.993927,
-            "rotZ": 4.39863652E-05,
-            "scaleX": 0.8571429,
-            "scaleY": 0.8571429,
-            "scaleZ": 0.8571429
-          },
-          "Nickname": "Terrorgeist",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "CustomAssetbundle": {
-            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037338502/2CBC547FAC675A9121F401D49B4A2AFDE1926129/",
-            "AssetbundleSecondaryURL": "",
-            "MaterialIndex": 1,
-            "TypeIndex": 1,
-            "LoopingEffectIndex": 0
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
       "GUID": "a2e36d",
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -56.0,
-        "posY": 1.48149908,
-        "posZ": 3.00000024,
-        "rotX": -1.913483E-05,
-        "rotY": -0.000537878659,
-        "rotZ": 8.294367E-06,
+        "posY": 1.481499,
+        "posZ": 3.00000048,
+        "rotX": 2.28851277E-05,
+        "rotY": -0.000476398825,
+        "rotZ": -1.88606771E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9307,10 +8002,10 @@
       "Transform": {
         "posX": -56.0,
         "posY": 1.48149884,
-        "posZ": 0.9999997,
-        "rotX": -1.08872955E-05,
-        "rotY": 0.000344926171,
-        "rotZ": 5.115939E-06,
+        "posZ": 1.00000167,
+        "rotX": -5.883038E-06,
+        "rotY": 0.000368837616,
+        "rotZ": 1.34067227E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9405,11 +8100,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -54.0,
-        "posY": 1.48149884,
-        "posZ": 3.0,
-        "rotX": -5.35942036E-06,
-        "rotY": -0.00043627093,
-        "rotZ": 2.73664E-06,
+        "posY": 1.4814992,
+        "posZ": 3.00000262,
+        "rotX": 3.768494E-07,
+        "rotY": -0.000371393748,
+        "rotZ": -3.56350529E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9504,11 +8199,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -54.0,
-        "posY": 1.48149908,
+        "posY": 1.48149872,
         "posZ": 0.999999642,
-        "rotX": -9.89992E-06,
-        "rotY": 0.000209369653,
-        "rotZ": 2.19385856E-05,
+        "rotX": -2.30910846E-05,
+        "rotY": 0.000239053887,
+        "rotZ": 4.13760654E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9604,10 +8299,10 @@
       "Transform": {
         "posX": -52.0,
         "posY": 1.481499,
-        "posZ": 3.0,
-        "rotX": 5.158644E-06,
-        "rotY": -0.000659542158,
-        "rotZ": -1.080587E-06,
+        "posZ": 3.000002,
+        "rotX": -7.919697E-06,
+        "rotY": -0.000565204,
+        "rotZ": 2.44630064E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9702,11 +8397,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -52.0,
-        "posY": 1.48149884,
-        "posZ": 1.0,
-        "rotX": -5.45143962E-07,
-        "rotY": -0.0013878122,
-        "rotZ": 5.74052649E-07,
+        "posY": 1.481499,
+        "posZ": 1.00000107,
+        "rotX": 8.334995E-06,
+        "rotY": -0.00133402483,
+        "rotZ": 1.68869065E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -9803,9 +8498,9 @@
         "posX": -23.75,
         "posY": 1.481499,
         "posZ": 22.25,
-        "rotX": 6.0185954E-07,
+        "rotX": 1.49434E-06,
         "rotY": 300.0299,
-        "rotZ": -1.5237506E-06,
+        "rotZ": 1.972424E-06,
         "scaleX": 1.19999993,
         "scaleY": 1.19999993,
         "scaleZ": 1.19999993
@@ -9844,75 +8539,15 @@
       "XmlUI": ""
     },
     {
-      "GUID": "988e42",
-      "Name": "Custom_Model",
-      "Transform": {
-        "posX": -55.49482,
-        "posY": 1.63828182,
-        "posZ": -56.00349,
-        "rotX": 1.75160742,
-        "rotY": 90.058136,
-        "rotZ": 359.583344,
-        "scaleX": 4.44106865,
-        "scaleY": 3.51856422,
-        "scaleZ": 4.377313
-      },
-      "Nickname": "Charnel Throne",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.9999998,
-        "g": 0.992162049,
-        "b": 0.9999998
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "CustomMesh": {
-        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1000304698134474559/66E13CC69D4E36041E0440E57B4EABCE38FCD0B3/",
-        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891351431/813C8CAE876AF49DAADB2051948324F27D9C7BE5/",
-        "NormalURL": "",
-        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1000304698134474559/66E13CC69D4E36041E0440E57B4EABCE38FCD0B3/",
-        "Convex": false,
-        "MaterialIndex": 0,
-        "TypeIndex": 1,
-        "CustomShader": {
-          "SpecularColor": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0
-          },
-          "SpecularIntensity": 0.0,
-          "SpecularSharpness": 3.066666,
-          "FresnelStrength": 0.222222239
-        },
-        "CastShadows": true
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": ""
-    },
-    {
       "GUID": "503140",
       "Name": "Tablet",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.4916054,
+        "posY": 1.49160552,
         "posZ": 56.5,
-        "rotX": 0.00130031467,
+        "rotX": 0.00129999674,
         "rotY": 180.000015,
-        "rotZ": -0.000215463617,
+        "rotZ": -0.000215453489,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -10266,11 +8901,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.4916054,
+        "posY": 1.49160528,
         "posZ": 36.5,
-        "rotX": 0.00130044273,
+        "rotX": 0.00130005262,
         "rotY": 180.000015,
-        "rotZ": -0.0002152438,
+        "rotZ": -0.000215291846,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -10624,11 +9259,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": 36.5,
-        "rotX": 0.00129988743,
+        "rotX": 0.00129910477,
         "rotY": 180.000015,
-        "rotZ": -0.00021570643,
+        "rotZ": -0.000215696738,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -10984,9 +9619,9 @@
         "posX": -55.5,
         "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.0012995369,
+        "rotX": 0.00129949371,
         "rotY": 180.0,
-        "rotZ": -0.00021562133,
+        "rotZ": -0.000215651817,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -11342,9 +9977,9 @@
         "posX": -21.5000038,
         "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129944889,
+        "rotX": 0.00129958417,
         "rotY": 179.999985,
-        "rotZ": -0.00021519266,
+        "rotZ": -0.000215283653,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -11700,9 +10335,9 @@
         "posX": -12.999999,
         "posY": 1.4916054,
         "posZ": 16.5000172,
-        "rotX": 0.00129983667,
+        "rotX": 0.00129985879,
         "rotY": 179.999863,
-        "rotZ": -0.00021543508,
+        "rotZ": -0.00021545004,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -12056,11 +10691,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -30.0,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": 16.49999,
-        "rotX": 0.00130009442,
+        "rotX": 0.00130015064,
         "rotY": 180.005478,
-        "rotZ": -0.000215081614,
+        "rotZ": -0.000215815817,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -12416,9 +11051,9 @@
         "posX": -47.0,
         "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129943748,
+        "rotX": 0.00129955949,
         "rotY": 180.001862,
-        "rotZ": -0.000215606575,
+        "rotZ": -0.000215675289,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -12772,11 +11407,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -38.5,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.0012990731,
+        "rotX": 0.00129953271,
         "rotY": 180.0368,
-        "rotZ": -0.000215464883,
+        "rotZ": -0.000215455948,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -13130,11 +11765,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -55.5049553,
-        "posY": 1.4916054,
+        "posY": 1.49160528,
         "posZ": -3.48401976,
-        "rotX": 0.00129942794,
+        "rotX": 0.00129948894,
         "rotY": 180.00238,
-        "rotZ": -0.00021571324,
+        "rotZ": -0.000215779,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -13488,11 +12123,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -47.00463,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": -3.484029,
-        "rotX": 0.00129925332,
+        "rotX": 0.001299395,
         "rotY": 180.006073,
-        "rotZ": -0.000215606269,
+        "rotZ": -0.000215652763,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -13848,9 +12483,9 @@
         "posX": -38.5043259,
         "posY": 1.4916054,
         "posZ": -3.48401952,
-        "rotX": 0.00129914726,
+        "rotX": 0.00129917567,
         "rotY": 180.000778,
-        "rotZ": -0.000214944448,
+        "rotZ": -0.000214963336,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -14206,9 +12841,9 @@
         "posX": -55.5,
         "posY": 1.4916054,
         "posZ": -43.5,
-        "rotX": 0.00129998487,
+        "rotX": 0.00130013179,
         "rotY": 180.000015,
-        "rotZ": -0.000215733846,
+        "rotZ": -0.000215716485,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -14562,11 +13197,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -46.9995346,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": -43.500206,
-        "rotX": 0.00129966834,
+        "rotX": 0.00129983085,
         "rotY": 180.000015,
-        "rotZ": -0.000216105662,
+        "rotZ": -0.0002160799,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -14920,11 +13555,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.4916054,
+        "posY": 1.49160552,
         "posZ": -63.5,
-        "rotX": 0.00129975937,
+        "rotX": 0.00129955029,
         "rotY": 180.0,
-        "rotZ": -0.000215426073,
+        "rotZ": -0.000215467866,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -15280,9 +13915,9 @@
         "posX": -30.0,
         "posY": 1.4916054,
         "posZ": -63.5,
-        "rotX": 0.00129901792,
+        "rotX": 0.0012999652,
         "rotY": 180.0,
-        "rotZ": -0.0002159935,
+        "rotZ": -0.00021532207,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -15638,9 +14273,9 @@
         "posX": -38.5,
         "posY": 1.4916054,
         "posZ": -63.5,
-        "rotX": 0.00130003609,
+        "rotX": 0.0013000489,
         "rotY": 180.0,
-        "rotZ": -0.0002151698,
+        "rotZ": -0.000215169741,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -15994,11 +14629,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.4916054,
+        "posY": 1.49160528,
         "posZ": -63.5,
-        "rotX": 0.0012991688,
+        "rotX": 0.0013000886,
         "rotY": 180.0,
-        "rotZ": -0.000215543987,
+        "rotZ": -0.000215524458,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -16352,11 +14987,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.49160552,
+        "posY": 1.4916054,
         "posZ": 56.5,
-        "rotX": 0.00129962608,
+        "rotX": 0.00129967835,
         "rotY": 180.0,
-        "rotZ": -0.000215594991,
+        "rotZ": -0.000215612949,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -16698,6 +15333,870 @@
               "FresnelStrength": 0.0
             },
             "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "bf7eed",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -47.25,
+        "posY": 1.48150706,
+        "posZ": -36.25,
+        "rotX": -5.450999E-07,
+        "rotY": 0.02439466,
+        "rotZ": -8.684595E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Royal Zombie Dragon",
+      "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Pestilential Breath[-]\r\n9\"     A:1    H:3+   W:*    R:-3   D:D6  \r\n[c6c930]Snapping Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  \r\n[c6c930]Sword-like Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:2   ",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535085/5F9C3C61650289C9150C91C7369C4952E89C46CB/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1688274986857398052/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535794/C72911307E7582620284C9864812C2767FD75BC7/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "35d423",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -0.249895081,
+            "posY": 0.127344057,
+            "posZ": -0.250104845,
+            "rotX": 0.004264788,
+            "rotY": 359.9699,
+            "rotZ": -0.000620588,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "scaleZ": 0.9
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037338502/2CBC547FAC675A9121F401D49B4A2AFDE1926129/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "faae63",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -55.75,
+        "posY": 1.48150706,
+        "posZ": -36.25,
+        "rotX": 6.336589E-06,
+        "rotY": -0.000430385,
+        "rotZ": -3.27171119E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Royal Terrorgheist",
+      "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Shriek[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Skeletal Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Fanged Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  ",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535085/5F9C3C61650289C9150C91C7369C4952E89C46CB/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1688274986857398052/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535794/C72911307E7582620284C9864812C2767FD75BC7/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "b13505",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.0682704,
+            "posY": 0.091507,
+            "posZ": -0.171729982,
+            "rotX": 0.399545372,
+            "rotY": 14.9748621,
+            "rotZ": -0.00233079167,
+            "scaleX": 1.83999991,
+            "scaleY": 1.84000015,
+            "scaleZ": 1.84000015
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675415171171793/3855D0706E14A4C712C6E48B86E169BF127E45EF/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "eacdbe",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -55.75,
+        "posY": 1.48150706,
+        "posZ": 44.25,
+        "rotX": 7.533856E-06,
+        "rotY": -0.000506794662,
+        "rotZ": -6.4566957E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Abhorrant Ghoul King on Royal Terrorgheist",
+      "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Shriek[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Gory Talons and Fangs[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:1  \r\n[c6c930]Skeletal Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Fanged Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  ",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535085/5F9C3C61650289C9150C91C7369C4952E89C46CB/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1688274986857398052/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535794/C72911307E7582620284C9864812C2767FD75BC7/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "b13505",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.0682704,
+            "posY": 0.091507,
+            "posZ": -0.171729982,
+            "rotX": 0.399545372,
+            "rotY": 14.9748621,
+            "rotZ": -0.00233079167,
+            "scaleX": 1.83999991,
+            "scaleY": 1.84000015,
+            "scaleZ": 1.84000015
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675415171171793/3855D0706E14A4C712C6E48B86E169BF127E45EF/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "df77b6",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.14693515,
+            "posY": 2.30803323,
+            "posZ": -1.30820215,
+            "rotX": 327.90567,
+            "rotY": 44.8013039,
+            "rotZ": 347.197144,
+            "scaleX": 1.5000006,
+            "scaleY": 1.50000012,
+            "scaleZ": 1.50000048
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891231383/38DD7D26A75BD9BAA4961FC2F6043CFC419F247E/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "2aad8a",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -47.0,
+        "posY": 1.48150706,
+        "posZ": 44.0000076,
+        "rotX": 8.319102E-06,
+        "rotY": 0.0244211275,
+        "rotZ": -6.93513857E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Abhorrant Ghoul King on Royal Zombie Dragon",
+      "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Pestilential Breath[-]\r\n9\"     A:1    H:3+   W:*    R:-3   D:D6  \r\n[c6c930]Gory Talons and Fangs[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:1  \r\n[c6c930]Snapping Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  \r\n[c6c930]Sword-like Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:2   ",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535085/5F9C3C61650289C9150C91C7369C4952E89C46CB/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1688274986857398052/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974535794/C72911307E7582620284C9864812C2767FD75BC7/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "35d423",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -0.249895081,
+            "posY": 0.127344057,
+            "posZ": -0.250104845,
+            "rotX": 0.004264788,
+            "rotY": 359.9699,
+            "rotZ": -0.000620588,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "scaleZ": 0.9
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037338502/2CBC547FAC675A9121F401D49B4A2AFDE1926129/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "b30970",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.107973211,
+            "posY": 3.785372,
+            "posZ": -1.74411762,
+            "rotX": 324.2668,
+            "rotY": 66.3398,
+            "rotZ": 336.268219,
+            "scaleX": 1.50000012,
+            "scaleY": 1.49999988,
+            "scaleZ": 1.5
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891231383/38DD7D26A75BD9BAA4961FC2F6043CFC419F247E/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1298675997037670931/945E7A825D75291B20D85ADDDB10C86E83706D35/",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "988e42",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -56.0,
+        "posY": 1.481499,
+        "posZ": -56.5,
+        "rotX": -4.652146E-07,
+        "rotY": 90.0054855,
+        "rotZ": 4.42487675E-07,
+        "scaleX": 4.44106865,
+        "scaleY": 3.51856422,
+        "scaleZ": 4.377313
+      },
+      "Nickname": "Charnel Throne",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.9999998,
+        "g": 0.992162049,
+        "b": 0.9999998
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1000304698134474559/66E13CC69D4E36041E0440E57B4EABCE38FCD0B3/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891351431/813C8CAE876AF49DAADB2051948324F27D9C7BE5/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974523435/89279E626CE9C40B22701D91F593A866244C6AE2/",
+        "Convex": false,
+        "MaterialIndex": 0,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 3.066666,
+          "FresnelStrength": 0.222222239
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    },
+    {
+      "GUID": "00d2ad",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -29.9992523,
+        "posY": 1.48149884,
+        "posZ": -57.0007248,
+        "rotX": -4.03414333E-06,
+        "rotY": 270.012,
+        "rotZ": -4.64715367E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Corpsemare Stampede",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974545329/AEB4B170FA31C33BD88C8F05C39D3027AE31EB8B/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1688274986857398052/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974546250/0D66D9B6C8A5245DF9438E6131FF39C1B669BE39/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "c438e3",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -3.44227576E-12,
+            "posY": -0.0135989189,
+            "posZ": -6.713719E-11,
+            "rotX": -1.77062589E-07,
+            "rotY": 179.956833,
+            "rotZ": 7.943278E-08,
+            "scaleX": 0.9999999,
+            "scaleY": 1.00000012,
+            "scaleZ": 0.9999999
+          },
+          "Nickname": "Corpsemare Stampede",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/937216170891585696/11A67DFE50D709EBE911540F05B2800D4CE8DB1D/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "e6c537",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -38.75,
+        "posY": 1.49194109,
+        "posZ": -56.75,
+        "rotX": -8.772496E-05,
+        "rotY": 0.0307699367,
+        "rotZ": 3.118566E-05,
+        "scaleX": 0.975,
+        "scaleY": 0.975,
+        "scaleZ": 0.975
+      },
+      "Nickname": "Chalice of Ushoran",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974528162/974469DDE20EF287921F51616A5D9CAFD40C461D/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1688274986857398052/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1697279271974528701/DEDC0C2A15AABF032F393DE04F8411434B702283/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "b5b7bd",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.0174737889,
+            "posY": -0.0128709348,
+            "posZ": -0.0500347428,
+            "rotX": 7.492231E-06,
+            "rotY": 194.972351,
+            "rotZ": -1.26011525E-06,
+            "scaleX": 1.17948747,
+            "scaleY": 1.179487,
+            "scaleZ": 1.17948747
+          },
+          "Nickname": "Chalice of ushoran",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.847058833,
+            "g": 0.847058833,
+            "b": 0.847058833
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": false,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/937216170891395743/3036418ACA1ADF8FC8001D2618DBF3357FFE6C26/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/937216170891386466/DFFE1CC7B56151761FA7072B381B623F9C09A562/",
+            "NormalURL": "",
+            "ColliderURL": "http://pastebin.com/raw.php?i=ahfaXzUd",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 0,
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "368121",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": 0.56937474,
+            "posY": 2.48800087,
+            "posZ": -0.0857735,
+            "rotX": 1.83508018E-05,
+            "rotY": 89.9728,
+            "rotZ": 4.22110634E-06,
+            "scaleX": 0.051282078,
+            "scaleY": 0.05128206,
+            "scaleZ": 0.051282078
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": true,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "https://drive.google.com/uc?export=download&id=0BxvLXJFgtJJ8eDJ2TnpJQWg0b2c",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 0,
+            "TypeIndex": 0,
+            "LoopingEffectIndex": 2
           },
           "LuaScript": "",
           "LuaScriptState": "",
