@@ -1,7 +1,7 @@
 {
   "SaveName": "Orruk Warclans",
-  "EpochTime": 1631383677,
-  "Date": "9/11/2021 8:07:57 PM",
+  "EpochTime": 1631390968,
+  "Date": "9/11/2021 9:09:28 PM",
   "VersionNumber": "v13.1.1",
   "GameMode": "ORRUK WARCLANS",
   "GameType": "",
@@ -1203,7 +1203,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -55.0,
-        "rotX": -9.36194E-09,
+        "rotX": -9.36194144E-09,
         "rotY": 179.982147,
         "rotZ": 3.81626331E-09,
         "scaleX": 2.69600368,
@@ -1255,9 +1255,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -35.0,
-        "rotX": 1.40883136E-08,
+        "rotX": 1.40883163E-08,
         "rotY": 179.977539,
-        "rotZ": 2.76882628E-09,
+        "rotZ": 2.76882672E-09,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1309,7 +1309,7 @@
         "posZ": -43.0,
         "rotX": 3.891783E-07,
         "rotY": 180.0159,
-        "rotZ": -4.81019242E-08,
+        "rotZ": -4.810193E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1358,9 +1358,9 @@
         "posX": -65.0,
         "posY": 1.482724,
         "posZ": -63.0,
-        "rotX": 5.594941E-08,
+        "rotX": 5.59494246E-08,
         "rotY": 180.016052,
-        "rotZ": 9.341116E-08,
+        "rotZ": 9.34111739E-08,
         "scaleX": 1.22499967,
         "scaleY": 1.22499967,
         "scaleZ": 1.22499967
@@ -1461,9 +1461,9 @@
         "posX": -65.0,
         "posY": 1.482824,
         "posZ": -2.0,
-        "rotX": -1.02699843E-07,
+        "rotX": -1.02699858E-07,
         "rotY": 180.016037,
-        "rotZ": -5.073964E-08,
+        "rotZ": -5.07396472E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1563,7 +1563,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 5.0,
-        "rotX": -1.338753E-08,
+        "rotX": -1.33875337E-08,
         "rotY": 179.982178,
         "rotZ": -3.07197645E-08,
         "scaleX": 2.69600368,
@@ -1615,7 +1615,7 @@
         "posX": -65.0,
         "posY": 1.53149915,
         "posZ": 45.0,
-        "rotX": 3.08847952E-08,
+        "rotX": 3.08848023E-08,
         "rotY": 180.031479,
         "rotZ": -3.70051545E-08,
         "scaleX": 2.69600368,
@@ -1667,7 +1667,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 25.0,
-        "rotX": -1.30517925E-08,
+        "rotX": -1.30517943E-08,
         "rotY": 179.9827,
         "rotZ": -2.24342234E-08,
         "scaleX": 2.69600368,
@@ -1821,9 +1821,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 65.0,
-        "rotX": -1.33042377E-08,
+        "rotX": -1.33042395E-08,
         "rotY": 180.027863,
-        "rotZ": 1.4670051E-08,
+        "rotZ": 1.46700545E-08,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1922,11 +1922,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -56.2499962,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": -36.2499962,
-        "rotX": -9.71107E-06,
-        "rotY": 0.03169303,
-        "rotZ": 1.16150829E-06,
+        "rotX": -3.026994E-06,
+        "rotY": 0.03162261,
+        "rotZ": -9.212513E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2033,9 +2033,9 @@
         "posX": 63.75,
         "posY": 1.48149884,
         "posZ": 64.25,
-        "rotX": 2.31008226E-08,
+        "rotX": 2.22403562E-09,
         "rotY": 359.967346,
-        "rotZ": -7.42979353E-07,
+        "rotZ": -7.2646526E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2140,11 +2140,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.4916054,
+        "posY": 1.49160552,
         "posZ": 56.5,
-        "rotX": 0.001299228,
+        "rotX": 0.00129977334,
         "rotY": 180.000015,
-        "rotZ": -0.000215529668,
+        "rotZ": -0.000215534572,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -2172,7 +2172,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Gordrakk-the-Fist-of-Gork"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -2498,11 +2498,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.4916054,
+        "posY": 1.49160552,
         "posZ": 56.5,
-        "rotX": 0.00130008219,
+        "rotX": 0.001299771,
         "rotY": 180.000015,
-        "rotZ": -0.0002151956,
+        "rotZ": -0.000215201871,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -2530,7 +2530,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Ironskull-s-Boyz"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -2855,12 +2855,12 @@
       "GUID": "688ef7",
       "Name": "Tablet",
       "Transform": {
-        "posX": -38.5,
+        "posX": -38.480423,
         "posY": 1.4916054,
-        "posZ": 56.5,
-        "rotX": 0.00129969651,
+        "posZ": 56.5141068,
+        "rotX": 0.00130028476,
         "rotY": 179.9999,
-        "rotZ": -0.000215702923,
+        "rotZ": -0.000215285138,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -2888,7 +2888,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Morgok-s-Krushas"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -3216,9 +3216,9 @@
         "posX": -29.0,
         "posY": 1.4916054,
         "posZ": 56.5,
-        "rotX": 0.00130007125,
+        "rotX": 0.00129973155,
         "rotY": 180.000015,
-        "rotZ": -0.000215302789,
+        "rotZ": -0.000215309658,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -3246,7 +3246,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Hedkrakka-Gob-of-Gork"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -3574,9 +3574,9 @@
         "posX": -20.5,
         "posY": 1.4916054,
         "posZ": 56.5,
-        "rotX": 0.00129933737,
+        "rotX": 0.00129990978,
         "rotY": 180.000015,
-        "rotZ": -0.000215860651,
+        "rotZ": -0.00021589789,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -3604,7 +3604,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Hedkrakka-s-Madmob"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -3932,9 +3932,9 @@
         "posX": -55.5,
         "posY": 1.4916054,
         "posZ": 36.5,
-        "rotX": 0.00130007986,
+        "rotX": 0.00129933655,
         "rotY": 180.000015,
-        "rotZ": -0.000215975946,
+        "rotZ": -0.000215282,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -3962,7 +3962,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Megaboss-on-Maw-krusha"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -4290,9 +4290,9 @@
         "posX": -37.0,
         "posY": 1.4916054,
         "posZ": 36.5,
-        "rotX": 0.00129934726,
+        "rotX": 0.00129990233,
         "rotY": 180.000015,
-        "rotZ": -0.0002155081,
+        "rotZ": -0.000215532171,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -4320,7 +4320,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Killaboss-on-Great-Gnashtoof"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -4648,9 +4648,9 @@
         "posX": -12.0,
         "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129985088,
+        "rotX": 0.00129944342,
         "rotY": 179.999741,
-        "rotZ": -0.000215590364,
+        "rotZ": -0.000215611464,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -4678,7 +4678,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Wardokk"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -5006,9 +5006,9 @@
         "posX": -29.0,
         "posY": 1.49160528,
         "posZ": 16.5,
-        "rotX": 0.00130015169,
+        "rotX": 0.00129980035,
         "rotY": 179.999939,
-        "rotZ": -0.000215603912,
+        "rotZ": -0.00021558041,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -5036,7 +5036,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Maniak-Weirdnob"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -5362,11 +5362,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -20.5,
-        "posY": 1.49160552,
+        "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129959919,
+        "rotX": 0.00130012282,
         "rotY": 180.000656,
-        "rotZ": -0.000215777181,
+        "rotZ": -0.000215796361,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -5394,7 +5394,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Big-Boss"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -5720,11 +5720,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -3.50000024,
-        "posY": 1.49160552,
+        "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129968836,
+        "rotX": 0.00130027463,
         "rotY": 179.99971,
-        "rotZ": -0.000215221226,
+        "rotZ": -0.000215220149,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -5752,7 +5752,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Wurrgog-Prophet"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -6078,11 +6078,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.49160552,
+        "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129961374,
+        "rotX": 0.00130014529,
         "rotY": 180.0,
-        "rotZ": -0.000215628883,
+        "rotZ": -0.000215617329,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -6110,7 +6110,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Warchanter"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -6436,11 +6436,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -55.4999962,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129949348,
+        "rotX": 0.00130006392,
         "rotY": 179.999359,
-        "rotZ": -0.0002156483,
+        "rotZ": -0.000215676147,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -6468,7 +6468,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Megaboss"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -6794,11 +6794,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -38.5,
-        "posY": 1.4916054,
+        "posY": 1.49160552,
         "posZ": 16.5,
-        "rotX": 0.00129945716,
+        "rotX": 0.00129912444,
         "rotY": 179.996613,
-        "rotZ": -0.0002154712,
+        "rotZ": -0.000215444685,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -6826,7 +6826,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Weirdnob-Shaman"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -7154,9 +7154,9 @@
         "posX": 14.5,
         "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129989546,
+        "rotX": 0.00129955821,
         "rotY": 180.0,
-        "rotZ": -0.00021542098,
+        "rotZ": -0.000215445165,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -7184,7 +7184,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Murknob-with-Belcha-banna"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -7510,11 +7510,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": 6.0,
-        "posY": 1.49160552,
+        "posY": 1.4916054,
         "posZ": 16.5,
-        "rotX": 0.00129964168,
+        "rotX": 0.00130024331,
         "rotY": 179.999985,
-        "rotZ": -0.000215493143,
+        "rotZ": -0.00021548885,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -7542,7 +7542,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Killaboss-with-Stab-grot"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -7870,9 +7870,9 @@
         "posX": 23.0,
         "posY": 1.4916054,
         "posZ": 16.5018158,
-        "rotX": 0.0012994752,
+        "rotX": 0.00129910442,
         "rotY": 179.996582,
-        "rotZ": -0.00021599319,
+        "rotZ": -0.000215330438,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -7900,7 +7900,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Swampcalla-Shaman-and-Pot-grot"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -8228,9 +8228,9 @@
         "posX": -55.4999962,
         "posY": 1.4916054,
         "posZ": -3.50000024,
-        "rotX": 0.0012995532,
+        "rotX": 0.00129920326,
         "rotY": 179.997757,
-        "rotZ": -0.000215625274,
+        "rotZ": -0.000215611231,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -8258,7 +8258,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Ardboys"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -8584,11 +8584,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.49160516,
+        "posY": 1.49160528,
         "posZ": -3.49999976,
-        "rotX": 0.00129975541,
+        "rotX": 0.00129945506,
         "rotY": 179.982788,
-        "rotZ": -0.000214929809,
+        "rotZ": -0.000214922009,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -8616,7 +8616,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Brutes"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -8942,11 +8942,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -38.5000038,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": -3.49999952,
-        "rotX": 0.00129947066,
+        "rotX": 0.00129911292,
         "rotY": 180.000977,
-        "rotZ": -0.000215565873,
+        "rotZ": -0.000215554057,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -8974,7 +8974,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Gore-gruntas"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -9300,11 +9300,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": 23.0,
-        "posY": 1.4916054,
-        "posZ": -3.5,
-        "rotX": 0.00129923888,
+        "posY": 1.49160528,
+        "posZ": -3.50000024,
+        "rotX": 0.00129978114,
         "rotY": 180.000015,
-        "rotZ": -0.000215800173,
+        "rotZ": -0.000215777283,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -9332,7 +9332,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Gutrippaz"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -9660,9 +9660,9 @@
         "posX": 31.5,
         "posY": 1.49160528,
         "posZ": -3.5,
-        "rotX": 0.00129979919,
+        "rotX": 0.00129942584,
         "rotY": 180.0,
-        "rotZ": -0.000215670472,
+        "rotZ": -0.000215670429,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -9690,7 +9690,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Hobgrot-Slittaz"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -10016,11 +10016,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": 40.0,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": -3.5,
-        "rotX": 0.00129985728,
+        "rotX": 0.00129955332,
         "rotY": 180.000015,
-        "rotZ": -0.000215697626,
+        "rotZ": -0.00021569911,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -10048,7 +10048,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Man-skewer-Boltboyz"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -10376,9 +10376,9 @@
         "posX": -29.0,
         "posY": 1.4916054,
         "posZ": -3.50000048,
-        "rotX": 0.00129919511,
+        "rotX": 0.00129972876,
         "rotY": 180.000122,
-        "rotZ": -0.000215489854,
+        "rotZ": -0.0002154906,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -10406,7 +10406,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Big-Stabbas"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -10734,9 +10734,9 @@
         "posX": 13.5,
         "posY": 1.4916054,
         "posZ": -3.5,
-        "rotX": 0.0012993986,
+        "rotX": 0.00129901874,
         "rotY": 180.0,
-        "rotZ": -0.000215131935,
+        "rotZ": -0.000215794978,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -10764,7 +10764,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Orruks"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -11090,11 +11090,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -20.5,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": -3.50000024,
-        "rotX": 0.00129970058,
+        "rotX": 0.00129938486,
         "rotY": 180.0,
-        "rotZ": -0.000215826338,
+        "rotZ": -0.000215835826,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -11122,7 +11122,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Boarboy-Maniaks"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -11448,11 +11448,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -12.0,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": -3.500001,
-        "rotX": 0.001299395,
+        "rotX": 0.0012991284,
         "rotY": 179.999069,
-        "rotZ": -0.000215663953,
+        "rotZ": -0.000215671243,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -11480,7 +11480,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Boarboys"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -11806,11 +11806,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": -3.499999,
-        "posY": 1.49160528,
+        "posY": 1.4916054,
         "posZ": -3.5,
-        "rotX": 0.00129937963,
+        "rotX": 0.00129909837,
         "rotY": 179.9987,
-        "rotZ": -0.0002157346,
+        "rotZ": -0.000215737513,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -11838,7 +11838,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Orruk-Arrowboys"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -12164,11 +12164,11 @@
       "Name": "Tablet",
       "Transform": {
         "posX": 5.02272749,
-        "posY": 1.4916054,
+        "posY": 1.49160528,
         "posZ": -3.5,
-        "rotX": 0.00129910256,
+        "rotX": 0.00129968347,
         "rotY": 179.999985,
-        "rotZ": -0.000215542284,
+        "rotZ": -0.000215571621,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -12196,7 +12196,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Orruk-Morboys"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -12524,9 +12524,9 @@
         "posX": -55.5,
         "posY": 1.49160552,
         "posZ": -43.5,
-        "rotX": 0.00129958522,
+        "rotX": 0.00130018848,
         "rotY": 180.000015,
-        "rotZ": -0.000215856926,
+        "rotZ": -0.0002158474,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -12880,11 +12880,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -49.2500076,
-        "posY": 1.48151529,
+        "posY": 1.48151481,
         "posZ": -36.2500038,
-        "rotX": -1.27066232E-05,
-        "rotY": 270.0005,
-        "rotZ": -2.6670803E-05,
+        "rotX": 1.46468764E-07,
+        "rotY": 270.000519,
+        "rotZ": -2.011045E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -12989,11 +12989,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.48150754,
+        "posY": 1.48150766,
         "posZ": 43.9999962,
-        "rotX": -5.864466E-06,
+        "rotX": -4.65546373E-06,
         "rotY": 359.9737,
-        "rotZ": 4.41361044E-06,
+        "rotZ": 1.25317247E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13100,9 +13100,9 @@
         "posX": -55.25,
         "posY": 1.48150754,
         "posZ": 63.75,
-        "rotX": -4.075759E-06,
-        "rotY": -0.00139698724,
-        "rotZ": 1.25387814E-05,
+        "rotX": -5.17474837E-06,
+        "rotY": -0.001396987,
+        "rotZ": 3.77074934E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13209,9 +13209,9 @@
         "posX": -40.75,
         "posY": 1.48149884,
         "posZ": 62.25,
-        "rotX": 8.46962337E-07,
+        "rotX": 1.38506869E-06,
         "rotY": 0.03102955,
-        "rotZ": -3.04831019E-06,
+        "rotZ": 3.81942357E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13319,11 +13319,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -38.75,
-        "posY": 1.48149872,
+        "posY": 1.481499,
         "posZ": 62.25,
-        "rotX": -3.08280868E-08,
+        "rotX": 5.980124E-08,
         "rotY": 15.0203629,
-        "rotZ": 3.932619E-07,
+        "rotZ": 4.484062E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13431,11 +13431,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": 62.5,
-        "rotX": -1.90013156E-06,
+        "rotX": -1.2274844E-06,
         "rotY": 0.013561341,
-        "rotZ": 4.36960221E-07,
+        "rotZ": 3.92776565E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13543,11 +13543,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -36.75,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": 62.25,
-        "rotX": -1.61983291E-06,
-        "rotY": 0.03426901,
-        "rotZ": -3.35388E-06,
+        "rotX": 1.00377247E-06,
+        "rotY": 0.0342724323,
+        "rotZ": 2.62518768E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13657,9 +13657,9 @@
         "posX": -29.25,
         "posY": 1.481499,
         "posZ": 62.25,
-        "rotX": 4.67543117E-07,
-        "rotY": 0.0341929346,
-        "rotZ": -1.7807788E-06,
+        "rotX": 3.296647E-06,
+        "rotY": 0.0341937877,
+        "rotZ": -1.21797837E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13769,9 +13769,9 @@
         "posX": -22.0,
         "posY": 1.48149908,
         "posZ": 62.0,
-        "rotX": 1.42384431E-06,
-        "rotY": 0.0342728049,
-        "rotZ": 7.474778E-07,
+        "rotX": -5.44689146E-06,
+        "rotY": 0.0342727974,
+        "rotZ": 2.50633116E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13881,9 +13881,9 @@
         "posX": -19.0,
         "posY": 1.481499,
         "posZ": 62.0,
-        "rotX": -1.29454929E-06,
-        "rotY": 0.0310297,
-        "rotZ": 2.02569436E-06,
+        "rotX": -1.1406562E-06,
+        "rotY": 0.0310262851,
+        "rotZ": 2.50653926E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13991,11 +13991,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -37.0,
-        "posY": 1.49818122,
+        "posY": 1.49818158,
         "posZ": 43.5,
-        "rotX": -1.16928447E-07,
+        "rotX": 6.163127E-05,
         "rotY": 359.982544,
-        "rotZ": 2.0984437E-06,
+        "rotZ": 2.680918E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14177,9 +14177,9 @@
         "posX": -57.0,
         "posY": 1.481499,
         "posZ": 22.5,
-        "rotX": -1.34120182E-06,
-        "rotY": 0.022249341,
-        "rotZ": 3.94009419E-07,
+        "rotX": -1.19293645E-06,
+        "rotY": 0.0222561713,
+        "rotZ": -1.4578585E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14284,11 +14284,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -54.0,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 22.5,
-        "rotX": -7.99570955E-07,
-        "rotY": -0.0008196226,
-        "rotZ": 1.1315268E-06,
+        "rotX": -1.75382468E-06,
+        "rotY": -0.000819622539,
+        "rotZ": -4.719626E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14408,9 +14408,9 @@
         "posX": -48.25,
         "posY": 1.48149884,
         "posZ": 22.25,
-        "rotX": 2.16114631E-06,
-        "rotY": 0.03382273,
-        "rotZ": -1.06083831E-07,
+        "rotX": 2.39213955E-06,
+        "rotY": 0.0338483155,
+        "rotZ": -3.06754237E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14528,11 +14528,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -45.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 22.25,
-        "rotX": 2.11954853E-06,
-        "rotY": 0.03385789,
-        "rotZ": -4.12920343E-07,
+        "rotX": -2.75139337E-06,
+        "rotY": 0.0338527672,
+        "rotZ": -8.752421E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14652,9 +14652,9 @@
         "posX": -40.25,
         "posY": 1.48149884,
         "posZ": 22.75,
-        "rotX": -1.28073111E-06,
-        "rotY": 0.03371972,
-        "rotZ": 2.39746953E-07,
+        "rotX": -5.38938565E-08,
+        "rotY": 0.0336650945,
+        "rotZ": 1.8142531E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14774,9 +14774,9 @@
         "posX": -37.25,
         "posY": 1.48149884,
         "posZ": 22.75,
-        "rotX": -9.34559466E-07,
+        "rotX": -8.57421469E-07,
         "rotY": 0.03393921,
-        "rotZ": -3.01682235E-07,
+        "rotZ": -3.517894E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14884,11 +14884,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 4.75,
-        "posY": 1.48149908,
+        "posY": 1.4814992,
         "posZ": 22.25,
-        "rotX": 3.27283874E-06,
-        "rotY": 0.03447538,
-        "rotZ": -1.18440869E-06,
+        "rotX": -4.378982E-06,
+        "rotY": 0.0345129445,
+        "rotZ": -1.8020587E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15006,11 +15006,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 14.249999,
-        "posY": 1.48311031,
+        "posY": 1.48309183,
         "posZ": 22.7499981,
-        "rotX": 359.989227,
-        "rotY": 0.03420906,
-        "rotZ": 359.984039,
+        "rotX": -5.92900642E-06,
+        "rotY": 0.0342525542,
+        "rotZ": -2.40707527E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15192,9 +15192,9 @@
         "posX": 21.75,
         "posY": 1.48149884,
         "posZ": 22.75,
-        "rotX": 2.050914E-06,
-        "rotY": 0.0339665227,
-        "rotZ": 2.94712754E-06,
+        "rotX": 1.43586431E-06,
+        "rotY": 0.0339665264,
+        "rotZ": -6.59627943E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15313,10 +15313,10 @@
       "Transform": {
         "posX": -48.75,
         "posY": 1.481499,
-        "posZ": 3.75,
-        "rotX": 4.24648124E-06,
-        "rotY": 359.9885,
-        "rotZ": 1.23687789E-06,
+        "posZ": 3.74999976,
+        "rotX": 1.53021313E-06,
+        "rotY": 359.988525,
+        "rotZ": 2.57117313E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15426,9 +15426,9 @@
         "posX": -47.25,
         "posY": 1.481499,
         "posZ": 3.74999976,
-        "rotX": -6.969049E-07,
+        "rotX": 1.39433473E-06,
         "rotY": 359.988373,
-        "rotZ": 1.19443666E-06,
+        "rotZ": 2.78337734E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15538,9 +15538,9 @@
         "posX": -50.25,
         "posY": 1.481499,
         "posZ": 3.75,
-        "rotX": -3.52995039E-06,
+        "rotX": -3.546622E-06,
         "rotY": 359.988464,
-        "rotZ": 2.01827152E-06,
+        "rotZ": 2.05516722E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15650,9 +15650,9 @@
         "posX": -45.75,
         "posY": 1.481499,
         "posZ": 3.749999,
-        "rotX": 9.738432E-07,
-        "rotY": 359.9848,
-        "rotZ": -1.51591064E-06,
+        "rotX": 8.451389E-07,
+        "rotY": 359.984772,
+        "rotZ": 9.02019451E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15762,9 +15762,9 @@
         "posX": -44.25,
         "posY": 1.481499,
         "posZ": 3.74999976,
-        "rotX": -4.03058124E-07,
+        "rotX": -1.10049658E-08,
         "rotY": 359.975616,
-        "rotZ": -6.669249E-07,
+        "rotZ": 2.15778186E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15873,10 +15873,10 @@
       "Transform": {
         "posX": -44.25,
         "posY": 1.481499,
-        "posZ": 2.24999857,
-        "rotX": -1.18204582E-06,
-        "rotY": 359.980042,
-        "rotZ": 1.62745994E-06,
+        "posZ": 2.249998,
+        "rotX": -2.70263718E-06,
+        "rotY": 359.979919,
+        "rotZ": -2.93437347E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -15995,10 +15995,10 @@
       "Transform": {
         "posX": -50.25,
         "posY": 1.481499,
-        "posZ": 2.249999,
-        "rotX": -5.778962E-07,
-        "rotY": 359.988525,
-        "rotZ": -2.047906E-07,
+        "posZ": 2.24999881,
+        "rotX": -1.43401962E-06,
+        "rotY": 359.9884,
+        "rotZ": 5.24582333E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16118,9 +16118,9 @@
         "posX": -47.25,
         "posY": 1.481499,
         "posZ": 2.25000024,
-        "rotX": 2.25360438E-07,
-        "rotY": 359.983948,
-        "rotZ": -1.99970714E-07,
+        "rotX": 1.60226932E-07,
+        "rotY": 359.9839,
+        "rotZ": 1.02717388E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16238,11 +16238,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -45.75,
-        "posY": 1.48149908,
-        "posZ": 2.249999,
-        "rotX": -3.03724278E-07,
-        "rotY": 359.984528,
-        "rotZ": 1.46406958E-08,
+        "posY": 1.481499,
+        "posZ": 2.24999881,
+        "rotX": 8.31955163E-07,
+        "rotY": 359.984375,
+        "rotZ": -1.03064485E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16360,11 +16360,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -48.75,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 2.24999952,
-        "rotX": -1.06730351E-06,
-        "rotY": 359.988373,
-        "rotZ": -8.536654E-07,
+        "rotX": 3.40283669E-11,
+        "rotY": 359.9883,
+        "rotZ": 3.33505284E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16482,11 +16482,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -20.5,
-        "posY": 1.51908982,
+        "posY": 1.5190897,
         "posZ": 22.5,
-        "rotX": -9.294401E-06,
-        "rotY": 0.0311595835,
-        "rotZ": 4.683223E-06,
+        "rotX": -1.37238194E-05,
+        "rotY": 0.0311544538,
+        "rotZ": 6.402906E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16594,11 +16594,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -12.25,
-        "posY": 1.50220346,
+        "posY": 1.50220358,
         "posZ": 22.25,
-        "rotX": -4.60340516E-07,
-        "rotY": 0.0344243757,
-        "rotZ": 3.43372136E-07,
+        "rotX": 2.902431E-06,
+        "rotY": 0.0344277956,
+        "rotZ": -3.110733E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16706,11 +16706,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -3.75,
-        "posY": 1.497925,
+        "posY": 1.49792528,
         "posZ": 22.25,
-        "rotX": 2.43559225E-06,
-        "rotY": 0.0307991542,
-        "rotZ": 2.471929E-06,
+        "rotX": -1.78589846E-06,
+        "rotY": 0.0307564531,
+        "rotZ": 9.234283E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16820,9 +16820,9 @@
         "posX": -57.5,
         "posY": 1.481499,
         "posZ": 3.5,
-        "rotX": -4.08707962E-07,
-        "rotY": 359.979828,
-        "rotZ": 1.0973921E-06,
+        "rotX": -1.60770935E-06,
+        "rotY": 359.9798,
+        "rotZ": 3.517253E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -16942,9 +16942,9 @@
         "posX": -57.75,
         "posY": 1.481499,
         "posZ": 5.25,
-        "rotX": 3.72056752E-06,
-        "rotY": 14.997366,
-        "rotZ": 3.60222771E-06,
+        "rotX": 1.66909331E-06,
+        "rotY": 14.9974375,
+        "rotZ": 3.87953969E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17063,10 +17063,10 @@
       "Transform": {
         "posX": -56.0,
         "posY": 1.481499,
-        "posZ": 3.5,
-        "rotX": 3.88216131E-06,
+        "posZ": 3.49999976,
+        "rotX": 2.14466255E-07,
         "rotY": 359.979858,
-        "rotZ": -1.82678139E-06,
+        "rotZ": 5.81629456E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17186,9 +17186,9 @@
         "posX": -53.25,
         "posY": 1.481499,
         "posZ": 5.24999952,
-        "rotX": -2.99369844E-06,
+        "rotX": -4.77855167E-07,
         "rotY": 359.97995,
-        "rotZ": 2.552647E-06,
+        "rotZ": -5.272434E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17307,10 +17307,10 @@
       "Transform": {
         "posX": -53.0,
         "posY": 1.481499,
-        "posZ": 3.49999952,
-        "rotX": 8.563885E-06,
+        "posZ": 3.49999976,
+        "rotX": 2.28151271E-06,
         "rotY": 359.983856,
-        "rotZ": -3.245092E-07,
+        "rotZ": -6.250869E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17420,9 +17420,9 @@
         "posX": -55.5,
         "posY": 1.481499,
         "posZ": 2.0,
-        "rotX": -3.62178457E-06,
+        "rotX": -3.905396E-06,
         "rotY": 359.984436,
-        "rotZ": -1.04562311E-07,
+        "rotZ": -5.02385262E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17531,10 +17531,10 @@
       "Transform": {
         "posX": -54.0,
         "posY": 1.481499,
-        "posZ": 2.0,
-        "rotX": 4.26689439E-07,
-        "rotY": 359.99118,
-        "rotZ": -2.56135377E-06,
+        "posZ": 2.00000024,
+        "rotX": -3.41499458E-06,
+        "rotY": 359.9911,
+        "rotZ": 1.28092552E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17652,11 +17652,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -2.00480866,
-        "posY": 1.481499,
+        "posY": 1.4814992,
         "posZ": 2.50055933,
-        "rotX": 1.15263356E-05,
+        "rotX": 1.1526291E-05,
         "rotY": 359.988,
-        "rotZ": 3.73405351E-06,
+        "rotZ": 3.30716557E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17838,9 +17838,9 @@
         "posX": -3.50483751,
         "posY": 1.481499,
         "posZ": 2.50439835,
-        "rotX": 7.10454344E-07,
-        "rotY": 0.0263662376,
-        "rotZ": 1.231334E-06,
+        "rotX": 3.087774E-06,
+        "rotY": 0.0263645314,
+        "rotZ": -5.083253E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -17950,9 +17950,9 @@
         "posX": -2.00480866,
         "posY": 1.481499,
         "posZ": 4.00056,
-        "rotX": 1.75691275E-06,
+        "rotX": 3.31823162E-06,
         "rotY": -0.00381466071,
-        "rotZ": -3.51042581E-06,
+        "rotZ": -3.94364065E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18062,9 +18062,9 @@
         "posX": -5.004809,
         "posY": 1.481499,
         "posZ": 2.50055933,
-        "rotX": -3.27380036E-07,
+        "rotX": -1.94129072E-07,
         "rotY": 359.988068,
-        "rotZ": 1.68089889E-06,
+        "rotZ": 1.76156811E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18174,9 +18174,9 @@
         "posX": -5.004809,
         "posY": 1.481499,
         "posZ": 4.00056,
-        "rotX": -1.16520744E-06,
+        "rotX": 5.508252E-07,
         "rotY": 359.992554,
-        "rotZ": 5.834689E-06,
+        "rotZ": 2.49836512E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18286,9 +18286,9 @@
         "posX": 5.75,
         "posY": 1.481499,
         "posZ": 3.75,
-        "rotX": 3.36267954E-06,
+        "rotX": -5.556268E-06,
         "rotY": 0.0123831332,
-        "rotZ": 1.49466439E-06,
+        "rotZ": -1.92361725E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18406,11 +18406,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 7.25,
-        "posY": 1.48149908,
+        "posY": 1.48149884,
         "posZ": 3.75,
-        "rotX": -3.50186428E-06,
-        "rotY": 0.0140940957,
-        "rotZ": 8.89538455E-07,
+        "rotX": -3.25178166E-06,
+        "rotY": 0.0140906787,
+        "rotZ": 8.553569E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18530,9 +18530,9 @@
         "posX": 7.25,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": -2.80080167E-06,
-        "rotY": 0.0158409141,
-        "rotZ": -2.60827665E-06,
+        "rotX": -2.95498512E-06,
+        "rotY": 0.0158340856,
+        "rotZ": -2.67754785E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18650,11 +18650,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 5.75,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": -7.21328433E-07,
+        "rotX": 3.14688623E-06,
         "rotY": 0.0201524738,
-        "rotZ": 1.56521435E-06,
+        "rotZ": 2.42873375E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18774,9 +18774,9 @@
         "posX": 2.75,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": -2.73686339E-07,
-        "rotY": 0.0151462518,
-        "rotZ": -8.27351471E-07,
+        "rotX": -7.410774E-07,
+        "rotY": 0.0151476422,
+        "rotZ": -7.4929477E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -18896,9 +18896,9 @@
         "posX": 4.25,
         "posY": 1.481499,
         "posZ": 3.74999523,
-        "rotX": -1.36889253E-06,
-        "rotY": -0.000252717,
-        "rotZ": 6.2297363E-07,
+        "rotX": -1.84460021E-06,
+        "rotY": -0.000254424551,
+        "rotZ": -2.855409E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -19015,12 +19015,12 @@
       "GUID": "5004c6",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 4.249878,
-        "posY": 1.4814992,
-        "posZ": 2.24985719,
-        "rotX": -2.135733E-06,
-        "rotY": 0.03576119,
-        "rotZ": 4.16148032E-06,
+        "posX": 4.24987745,
+        "posY": 1.48149908,
+        "posZ": 2.24985743,
+        "rotX": -1.28212548E-06,
+        "rotY": 0.0357509442,
+        "rotZ": 4.69535553E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -19199,12 +19199,12 @@
       "GUID": "f7384b",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 14.250001,
+        "posX": 14.2500019,
         "posY": 1.481499,
         "posZ": 2.24999976,
-        "rotX": -2.13452813E-06,
-        "rotY": 359.980072,
-        "rotZ": -5.399073E-07,
+        "rotX": 5.38568621E-08,
+        "rotY": 359.9801,
+        "rotZ": 2.85646342E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -19445,10 +19445,10 @@
       "Transform": {
         "posX": 14.25,
         "posY": 1.481499,
-        "posZ": 3.75000024,
-        "rotX": 4.26773966E-07,
-        "rotY": 359.9798,
-        "rotZ": -6.404055E-07,
+        "posZ": 3.75,
+        "rotX": -3.41501936E-06,
+        "rotY": 359.979767,
+        "rotZ": 4.27489766E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -19628,11 +19628,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 12.749999,
-        "posY": 1.4814992,
+        "posY": 1.481499,
         "posZ": 3.74999952,
-        "rotX": -8.193615E-06,
+        "rotX": 2.61381228E-06,
         "rotY": 359.980042,
-        "rotZ": -1.56333E-05,
+        "rotZ": -4.9896953E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -19874,9 +19874,9 @@
         "posX": 11.25,
         "posY": 1.481499,
         "posZ": 2.24999952,
-        "rotX": 3.84202167E-06,
-        "rotY": -0.00487099169,
-        "rotZ": 9.603319E-07,
+        "rotX": -5.122674E-06,
+        "rotY": -0.004877182,
+        "rotZ": -7.46833962E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -20055,12 +20055,12 @@
       "GUID": "bfe3d4",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 15.749999,
-        "posY": 1.481499,
-        "posZ": 3.749999,
-        "rotX": -2.9044395E-06,
-        "rotY": 1.807474E-05,
-        "rotZ": -8.217572E-06,
+        "posX": 15.750001,
+        "posY": 1.48149908,
+        "posZ": 3.74999881,
+        "rotX": -1.41716855E-05,
+        "rotY": 4.45764745E-05,
+        "rotZ": 8.53773E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -20302,9 +20302,9 @@
         "posX": 15.7503366,
         "posY": 1.48149884,
         "posZ": 2.25542021,
-        "rotX": -3.03741376E-06,
+        "rotX": -1.48871618E-06,
         "rotY": 359.981323,
-        "rotZ": 2.07352923E-06,
+        "rotZ": -1.32436787E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -20422,11 +20422,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 23.2494583,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 2.24388027,
-        "rotX": -4.54073842E-07,
+        "rotX": -3.93454769E-07,
         "rotY": 359.8118,
-        "rotZ": 9.871184E-07,
+        "rotZ": 7.761796E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -20546,9 +20546,9 @@
         "posX": 24.75,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": -1.00743546E-06,
+        "rotX": -4.75797151E-06,
         "rotY": 359.989227,
-        "rotZ": -1.00638385E-06,
+        "rotZ": 5.04200261E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -20668,9 +20668,9 @@
         "posX": 21.75,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": 7.61314141E-07,
+        "rotX": 4.88993635E-07,
         "rotY": 359.989136,
-        "rotZ": 1.31915965E-06,
+        "rotZ": 1.35267612E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -20790,9 +20790,9 @@
         "posX": 41.7499962,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": 3.15711645E-07,
-        "rotY": 0.0134085137,
-        "rotZ": -3.78713025E-07,
+        "rotX": 1.80057739E-07,
+        "rotY": 0.0134076616,
+        "rotZ": -3.12093022E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -20912,9 +20912,9 @@
         "posX": 38.75,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": 3.46281058E-06,
+        "rotX": -2.17730781E-06,
         "rotY": 359.979767,
-        "rotZ": -5.11576673E-06,
+        "rotZ": 5.16864E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21034,9 +21034,9 @@
         "posX": 40.2563438,
         "posY": 1.48149908,
         "posZ": 2.24817061,
-        "rotX": 2.15624232E-06,
+        "rotX": 3.45938747E-06,
         "rotY": 359.88147,
-        "rotZ": 2.34046183E-06,
+        "rotZ": -5.01352758E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21156,9 +21156,9 @@
         "posX": 32.75,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": -5.03459546E-07,
+        "rotX": -6.88143871E-07,
         "rotY": 359.989838,
-        "rotZ": 1.5616682E-07,
+        "rotZ": 1.61615565E-09,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21278,9 +21278,9 @@
         "posX": 31.25,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": -6.17424939E-06,
+        "rotX": 8.303372E-08,
         "rotY": 359.9789,
-        "rotZ": -5.015931E-06,
+        "rotZ": 7.430975E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21398,11 +21398,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 29.75,
-        "posY": 1.48149884,
+        "posY": 1.48149872,
         "posZ": 2.25000024,
-        "rotX": -6.51002756E-06,
+        "rotX": -5.596297E-06,
         "rotY": 359.982941,
-        "rotZ": -2.57105359E-08,
+        "rotZ": -5.19435446E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21520,11 +21520,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 23.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 22.75,
-        "rotX": -7.98208134E-07,
+        "rotX": -4.281774E-06,
         "rotY": 0.0160577744,
-        "rotZ": 5.594695E-07,
+        "rotZ": -3.10426941E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21644,9 +21644,9 @@
         "posX": 6.75,
         "posY": 1.481499,
         "posZ": 22.25,
-        "rotX": 6.47653542E-06,
+        "rotX": 3.72791351E-06,
         "rotY": 0.0160577744,
-        "rotZ": -3.10552537E-06,
+        "rotZ": 7.35041851E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21766,9 +21766,9 @@
         "posX": -19.752739,
         "posY": 1.48149884,
         "posZ": 2.75032473,
-        "rotX": -8.125009E-08,
-        "rotY": 0.0313778855,
-        "rotZ": 3.75753132E-07,
+        "rotX": 5.435661E-07,
+        "rotY": 0.03134658,
+        "rotZ": 3.3477138E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -21949,10 +21949,10 @@
       "Transform": {
         "posX": -21.2470131,
         "posY": 1.48149884,
-        "posZ": 2.75030661,
-        "rotX": 5.46963932E-08,
+        "posZ": 2.75030637,
+        "rotX": 5.21256254E-07,
         "rotY": 359.968964,
-        "rotZ": -2.91957122E-06,
+        "rotZ": -2.30911587E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -22069,12 +22069,12 @@
       "GUID": "e3bdf8",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -18.2500038,
-        "posY": 1.481499,
-        "posZ": 2.74999833,
-        "rotX": 1.86837531E-06,
-        "rotY": 0.03139907,
-        "rotZ": -2.720891E-06,
+        "posX": -18.2500057,
+        "posY": 1.48149872,
+        "posZ": 2.74999881,
+        "rotX": 2.26978023E-06,
+        "rotY": 0.031389147,
+        "rotZ": -7.09637152E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -22375,10 +22375,10 @@
       "Transform": {
         "posX": -22.75,
         "posY": 1.481499,
-        "posZ": 2.74999952,
-        "rotX": -2.161617E-06,
-        "rotY": 0.00502480753,
-        "rotZ": -9.659509E-07,
+        "posZ": 2.74999928,
+        "rotX": -2.63641141E-07,
+        "rotY": 0.005014074,
+        "rotZ": 1.06382493E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -22487,10 +22487,10 @@
       "Transform": {
         "posX": -15.75,
         "posY": 1.481499,
-        "posZ": 2.74999857,
-        "rotX": -8.013649E-08,
-        "rotY": 0.003245407,
-        "rotZ": 3.36173161E-06,
+        "posZ": 2.74999833,
+        "rotX": -7.738618E-07,
+        "rotY": 0.00321467128,
+        "rotZ": 4.61569243E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -22730,11 +22730,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -14.25,
-        "posY": 1.48149908,
-        "posZ": 2.74999881,
-        "rotX": 2.241233E-06,
-        "rotY": 0.00376599561,
-        "rotZ": -2.347804E-06,
+        "posY": 1.481499,
+        "posZ": 2.749999,
+        "rotX": 8.539212E-07,
+        "rotY": 0.0037762404,
+        "rotZ": -4.482283E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -23036,11 +23036,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -12.7499971,
-        "posY": 1.4814992,
+        "posY": 1.48149872,
         "posZ": 2.75,
-        "rotX": -2.05060155E-06,
-        "rotY": 0.00340684317,
-        "rotZ": 2.187734E-06,
+        "rotX": -2.03260356E-06,
+        "rotY": 0.00337902945,
+        "rotZ": 3.29497243E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -23344,9 +23344,9 @@
         "posX": -11.249999,
         "posY": 1.481499,
         "posZ": 2.74999952,
-        "rotX": -1.86774571E-07,
-        "rotY": 0.00354657625,
-        "rotZ": 3.73520237E-07,
+        "rotX": -2.66424287E-08,
+        "rotY": 0.00354785635,
+        "rotZ": -1.22730046E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -23528,9 +23528,9 @@
         "posX": -9.75,
         "posY": 1.481499,
         "posZ": 2.75,
-        "rotX": -4.55854916E-07,
-        "rotY": 0.00342235458,
-        "rotZ": 2.24968247E-07,
+        "rotX": -3.17627865E-07,
+        "rotY": 0.00342235877,
+        "rotZ": 1.43689761E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -23640,9 +23640,9 @@
         "posX": -8.25,
         "posY": 1.481499,
         "posZ": 2.75,
-        "rotX": -1.23862662E-06,
-        "rotY": 0.003118088,
-        "rotZ": 2.614648E-06,
+        "rotX": -1.39242491E-06,
+        "rotY": 0.00310170627,
+        "rotZ": 1.480726E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -23814,9 +23814,9 @@
         "posX": -29.9999962,
         "posY": 1.48149908,
         "posZ": 2.50000024,
-        "rotX": -7.529101E-07,
-        "rotY": 0.003548912,
-        "rotZ": 8.295749E-07,
+        "rotX": -4.64781635E-07,
+        "rotY": 0.003548894,
+        "rotZ": -1.47025548E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -23923,9 +23923,9 @@
         "posX": -27.9999962,
         "posY": 1.481499,
         "posZ": 2.49999976,
-        "rotX": 4.30538051E-07,
-        "rotY": 0.0033691905,
-        "rotZ": 9.860214E-07,
+        "rotX": 2.78898619E-06,
+        "rotY": 0.00336914347,
+        "rotZ": -1.401823E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24032,9 +24032,9 @@
         "posX": -29.2502422,
         "posY": 1.481499,
         "posZ": 22.7497787,
-        "rotX": -2.85169136E-07,
-        "rotY": 0.00344635313,
-        "rotZ": -3.90458752E-07,
+        "rotX": -2.518171E-07,
+        "rotY": 0.00344635639,
+        "rotZ": -4.08852571E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24141,12 +24141,12 @@
       "GUID": "7b6e21",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -39.25,
-        "posY": 1.48149884,
-        "posZ": 2.75000358,
-        "rotX": 5.33036769E-07,
+        "posX": -39.2499962,
+        "posY": 1.481499,
+        "posZ": 2.75000525,
+        "rotX": -7.747115E-07,
         "rotY": 359.9811,
-        "rotZ": 3.248713E-07,
+        "rotZ": 1.014505E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24266,9 +24266,9 @@
         "posX": -41.25,
         "posY": 1.48149884,
         "posZ": 2.75,
-        "rotX": -6.9796863E-07,
+        "rotX": -7.913653E-07,
         "rotY": 359.980865,
-        "rotZ": -7.895145E-07,
+        "rotZ": -8.320012E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24387,10 +24387,10 @@
       "Transform": {
         "posX": -37.25,
         "posY": 1.481499,
-        "posZ": 2.74999928,
-        "rotX": -5.107268E-09,
-        "rotY": 359.985321,
-        "rotZ": 1.28611373E-06,
+        "posZ": 2.74999881,
+        "rotX": 1.23213113E-07,
+        "rotY": 359.985382,
+        "rotZ": 3.484937E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24499,10 +24499,10 @@
       "Transform": {
         "posX": -35.25,
         "posY": 1.481499,
-        "posZ": 2.75000358,
-        "rotX": 2.2040237E-07,
-        "rotY": 359.9891,
-        "rotZ": -5.235331E-07,
+        "posZ": 2.75000453,
+        "rotX": -4.294014E-07,
+        "rotY": 359.989136,
+        "rotZ": 1.23414065E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24610,11 +24610,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -20.5,
-        "posY": 1.49467969,
+        "posY": 1.49468017,
         "posZ": 62.0,
-        "rotX": 1.94249733E-05,
-        "rotY": 0.0338677019,
-        "rotZ": -5.48375647E-06,
+        "rotX": 1.4889054E-05,
+        "rotY": 0.03386076,
+        "rotZ": -4.65133462E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24724,9 +24724,9 @@
         "posX": 12.75,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": 6.5195394E-07,
+        "rotX": 3.60855142E-06,
         "rotY": 359.987244,
-        "rotZ": -4.402996E-07,
+        "rotZ": 2.13041758E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -24906,11 +24906,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -54.5,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": 3.5,
-        "rotX": -3.61614684E-06,
+        "rotX": -2.22714561E-06,
         "rotY": 359.983856,
-        "rotZ": 6.039085E-06,
+        "rotZ": 2.66904E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -25020,9 +25020,9 @@
         "posX": -54.75,
         "posY": 1.481499,
         "posZ": 5.25,
-        "rotX": -5.322302E-07,
+        "rotX": -1.59464534E-07,
         "rotY": 359.979858,
-        "rotZ": -1.26505438E-06,
+        "rotZ": 2.2742413E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -25132,9 +25132,9 @@
         "posX": -56.25,
         "posY": 1.481499,
         "posZ": 5.25,
-        "rotX": 2.46564781E-07,
+        "rotX": 1.18470055E-07,
         "rotY": 359.9583,
-        "rotZ": 6.986753E-07,
+        "rotZ": 9.10594736E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -25244,9 +25244,9 @@
         "posX": -57.0,
         "posY": 1.481499,
         "posZ": 1.99999988,
-        "rotX": 4.02871638E-06,
-        "rotY": 359.979919,
-        "rotZ": -1.587045E-07,
+        "rotX": 3.401458E-07,
+        "rotY": 359.97995,
+        "rotZ": -1.69313523E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -25353,12 +25353,12 @@
       "GUID": "173c9f",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -3.50480771,
-        "posY": 1.481499,
-        "posZ": 4.00055933,
-        "rotX": -1.38731571E-06,
-        "rotY": 0.0190526,
-        "rotZ": -4.004371E-07,
+        "posX": -3.50480723,
+        "posY": 1.48149884,
+        "posZ": 4.000559,
+        "rotX": 1.81296548E-06,
+        "rotY": 0.0191072412,
+        "rotZ": 7.817668E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -25537,12 +25537,12 @@
       "GUID": "73e55e",
       "Name": "Tablet",
       "Transform": {
-        "posX": 63.75,
+        "posX": 63.7539024,
         "posY": 1.4916054,
-        "posZ": 56.75,
-        "rotX": 0.00130062865,
+        "posZ": 56.7619476,
+        "rotX": 0.00129930489,
         "rotY": 180.000015,
-        "rotZ": -0.000215422435,
+        "rotZ": -0.000215113032,
         "scaleX": 0.75,
         "scaleY": 0.01,
         "scaleZ": 0.75
@@ -25570,7 +25570,7 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "Tablet": {
-        "PageURL": "https://www.google.com/"
+        "PageURL": "https://wahapedia.ru/aos3/factions/orruk-warclans/Kragnos-the-End-of-Empires"
       },
       "LuaScript": "function onLoad(saved_data)\n    self.Browser.pixel_width = 1080;\nend",
       "LuaScriptState": "",
@@ -25898,9 +25898,9 @@
         "posX": -44.9964752,
         "posY": 1.481499,
         "posZ": 64.506546,
-        "rotX": 1.39576E-06,
+        "rotX": -9.29341E-07,
         "rotY": 359.983856,
-        "rotZ": 8.573844E-07,
+        "rotZ": 2.701725E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -26010,9 +26010,9 @@
         "posX": -47.0,
         "posY": 1.481499,
         "posZ": 64.5,
-        "rotX": -8.83488E-07,
+        "rotX": 2.75794127E-06,
         "rotY": 359.97995,
-        "rotZ": 1.72062471E-06,
+        "rotZ": -8.421663E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -26122,9 +26122,9 @@
         "posX": -49.0,
         "posY": 1.481499,
         "posZ": 64.5,
-        "rotX": -1.76395088E-06,
-        "rotY": -0.000122994112,
-        "rotZ": -2.21228288E-06,
+        "rotX": 2.4134722E-06,
+        "rotY": -0.000122945421,
+        "rotZ": -4.483175E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -26234,9 +26234,9 @@
         "posX": -45.5,
         "posY": 1.4814992,
         "posZ": 37.0,
-        "rotX": -7.745869E-08,
+        "rotX": -2.16270148E-08,
         "rotY": 180.0267,
-        "rotZ": -8.347948E-08,
+        "rotZ": 1.22095765E-08,
         "scaleX": 2.54672956,
         "scaleY": 1.0,
         "scaleZ": 2.54672956
@@ -26284,11 +26284,11 @@
       "Name": "Custom_Tile",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.4814992,
+        "posY": 1.48149908,
         "posZ": -20.0,
-        "rotX": 8.927747E-09,
+        "rotX": 2.31972983E-08,
         "rotY": 180.0267,
-        "rotZ": -4.486224E-08,
+        "rotZ": -4.21795043E-09,
         "scaleX": 2.54672956,
         "scaleY": 1.0,
         "scaleZ": 2.54672956
@@ -26338,9 +26338,9 @@
         "posX": -55.25,
         "posY": 1.48149884,
         "posZ": -13.749999,
-        "rotX": -1.46638172E-06,
-        "rotY": 359.965973,
-        "rotZ": 1.49551749E-06,
+        "rotX": 1.48203171E-07,
+        "rotY": 359.966,
+        "rotZ": -3.650057E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -26447,9 +26447,9 @@
         "posX": -45.5,
         "posY": 1.48149884,
         "posZ": 43.0,
-        "rotX": -1.43765567E-06,
+        "rotX": -1.60271782E-06,
         "rotY": 359.980621,
-        "rotZ": 6.544212E-07,
+        "rotZ": -7.121796E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
