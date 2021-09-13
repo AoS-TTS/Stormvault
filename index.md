@@ -60,4 +60,5 @@ If you yourself have contributed mods or models, please send us a message. We wi
 
 # Discord Channel:  
   
-  https://discord.gg/XB98KPkX
+
+<a href="https://discord.gg/XB98KPkX">https://discord.gg/XB98KPkX</a>
