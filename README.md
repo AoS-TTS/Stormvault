@@ -32,13 +32,13 @@ Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabl
 4. Open Tabletop Simulator and make a room. The mod folders should be found in Save/Load.
 
 
-# Modder Credits:
+# Modder Credits:<br/>
 **Stormvault Admins**
   Quoeiza<br/> 
   TheFraggDog<br/> 
-  Mothman_Zack  <br/> 
+  Mothman_Zack<br/> 
   
-**Stormvault Contributors**
+**Stormvault Contributors**<br/>
   Quoeiza<br/> 
   TheFraggDog<br/> 
   Nylon<br/> 
@@ -46,7 +46,7 @@ Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabl
   Flition<br/> 
   Kupp<br/> 
   
-**Photogrammetrists and 3D Modellers**
+**Photogrammetrists and 3D Modellers**<br/>
   Quoeiza<br/> 
   TheFraggDog<br/> 
   Nylon<br/> 
@@ -54,7 +54,7 @@ Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabl
   Ringil<br/> 
   eternal3blade<br/> 
   DarkTrinity<br/> 
-  PhilipRikoZen  <br/> 
+  PhilipRikoZen<br/> 
 
 If you yourself have contributed mods or models, please send us a message. We will also be willing to link your workshops at your request.
 
