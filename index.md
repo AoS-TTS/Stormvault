@@ -58,7 +58,7 @@ Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabl
 
 If you yourself have contributed mods or models, please send us a message. We will also be willing to link your workshops at your request.
 
-# Discord Channel:  
-  
+# Discord Channel:  <br/> 
+If you have any questions or wish to report errors, please submit them here.  
 
 <a href="https://discord.gg/XB98KPkX">https://discord.gg/XB98KPkX</a>
