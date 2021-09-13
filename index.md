@@ -12,6 +12,8 @@ Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabl
 
 # Installation Instructions:
 
+Please note that there is currently no automatic updating version of Stormvault. If we release a new update, you need to download the zip file again and extract and replace the files on your computer. Alternatively, if you are familiar with Github, you can clone the respository and set up automatic fetching through Github Desktop.
+
 **Manual Installation (Windows OS)**
 1. Download the Stormvault Zip file.
 2. Locate your Saves folder under /Your Computer/Documents/My Games/Tabletop Simulator
