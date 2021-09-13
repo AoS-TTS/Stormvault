@@ -64,4 +64,4 @@ If you have any questions or wish to report errors, please submit them here.
   DarkTrinity<br/> 
   PhilipRikoZen<br/> 
 
-If you yourself have contributed mods or models, please send us a message. We will also be willing to link your workshops at your request.
+If you have contributed resources to the project and your name is not listed enough, please send us a message. We will also be willing to link your workshops at your request.
