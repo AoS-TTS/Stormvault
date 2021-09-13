@@ -37,7 +37,7 @@ Please note that there is currently no automatic updating version of Stormvault.
 # Discord Channel:  <br/> 
 If you have any questions or wish to report errors, please submit them here.  
 
-<a href="https://discord.gg/XB98KPkX">https://discord.gg/XB98KPkX</a>
+<a href="https://discord.gg/fCZyysjK5k">https://discord.gg/fCZyysjK5k</a>
   
 
 # Modder Credits:<br/>
