@@ -62,7 +62,8 @@ If you have any questions or wish to report errors, please submit them here.
   Ringil<br/> 
   eternal3blade<br/> 
   DarkTrinity<br/> 
-  PhilipRikoZen<br/> 
+  PhilipRikoZen<br/>
+  TheBestEGirl<br/>
 
 If you have contributed resources to the project and your name is not listed above, please send us a message on Discord.
 
