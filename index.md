@@ -16,7 +16,7 @@ Please note that there is currently no automatic updating version of Stormvault.
 
 **Manual Installation (Windows OS)**
 1. Download the Stormvault Zip file.
-2. Locate your Saves folder under /Your Computer/Documents/My Games/Tabletop Simulator
+2. Locate your Saves folder under /Your Computer/My Documents/My Games/Tabletop Simulator
 3. Drag/Extract the Stormvault folder from the downloaded Zip file and place into your Saves folder in your Tabletop Simulator directory mentioned above. If updating, overwrite when prompted.
 4. Open Tabletop Simulator and make a room. The mod folders should be found in Save/Load.
 
