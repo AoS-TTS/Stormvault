@@ -6,9 +6,11 @@
 
 Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabletop Simulator.<br/>
 <br/>  
-<b>LAST UPDATED -- 27/08/21</b>
+<b>LAST UPDATED -- 13/09/21</b>
 </div>
 <hr style="height:1px;border:center;;" />
+
+# Installation Instructions:
 
 **Manual Installation (Windows OS)**
 1. Download the Stormvault Zip file.
@@ -30,7 +32,32 @@ Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabl
 4. Open Tabletop Simulator and make a room. The mod folders should be found in Save/Load.
 
 
-# Modder Credits:
-**TO BE ADDED**
+# Modder Credits:<br/>
+**Stormvault Admins**<br/>
+  Quoeiza<br/> 
+  TheFraggDog<br/> 
+  Mothman_Zack<br/> 
+  
+**Stormvault Contributors**<br/>
+  Quoeiza<br/> 
+  TheFraggDog<br/> 
+  Nylon<br/> 
+  Inquisitorz<br/> 
+  Flition<br/> 
+  Kupp<br/> 
+  
+**Photogrammetrists and 3D Modellers**<br/>
+  Quoeiza<br/> 
+  TheFraggDog<br/> 
+  Nylon<br/> 
+  Zerg<br/> 
+  Ringil<br/> 
+  eternal3blade<br/> 
+  DarkTrinity<br/> 
+  PhilipRikoZen<br/> 
 
-If you yourself have contributed mods or models, please send me a message. We will also be willing to link your workshops at your request.
+If you yourself have contributed mods or models, please send us a message. We will also be willing to link your workshops at your request.
+
+# Discord Channel:  
+  
+  https://discord.gg/XB98KPkX
