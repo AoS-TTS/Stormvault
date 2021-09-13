@@ -64,4 +64,6 @@ If you have any questions or wish to report errors, please submit them here.
   DarkTrinity<br/> 
   PhilipRikoZen<br/> 
 
-If you have contributed resources to the project and your name is not listed enough, please send us a message. We will also be willing to link your workshops at your request.
+If you have contributed resources to the project and your name is not listed above, please send us a message on Discord.
+
+Thankyou to everyone who made this mod project possible. It has been a long journey, and we're very proud to be a part of it.
