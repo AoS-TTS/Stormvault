@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabletop Simulator.<br/><br/>
+Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabletop Simulator.<br/>
 </div>
 <hr style="height:1px;border:center;;" />
 
@@ -12,7 +12,7 @@ Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabl
 For the latest update information, or if you have any questions or wish to report errors please submit them here.  
 
 <a href="https://discord.gg/fCZyysjK5k">https://discord.gg/fCZyysjK5k</a>
-
+# Known Issues:  <br/> 
 KNOWN BUG - Warscrolls sometimes do not scroll ingame. You can get around this by clicking the top-left button on the scroll to pop out the window.
 
 # Installation Instructions:
