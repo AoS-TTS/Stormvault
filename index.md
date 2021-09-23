@@ -5,20 +5,6 @@
 <div align="center">
 
 Welcome to AoS Stormvault, a curated collection of Age of Sigmar Models for Tabletop Simulator.<br/><br/>
-    function setModifiedDate() {
-      if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
-          .then((response) => {
-            return response.json();
-          })
-          .then((commits) => {
-            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
-            }
-          });
-      }
-    }
 </div>
 <hr style="height:1px;border:center;;" />
 
