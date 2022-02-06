@@ -19,7 +19,7 @@ For the latest update information, or if you have any questions or wish to repor
 # Installation Instructions:
 
 **Video Guide**
-https://youtu.be/eSh2c2qBSqE
+<a href="https://youtu.be/eSh2c2qBSqE">https://youtu.be/eSh2c2qBSqE</a>
 
 Please note that there is currently no automatic updating version of Stormvault. If we release a new update, you need to download the zip file again and extract and replace the files on your computer. Alternatively, if you are familiar with Github, you can clone the respository and set up automatic fetching through the Github Desktop application.
 
