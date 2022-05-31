@@ -13,7 +13,8 @@ For the latest update information, or if you have any questions or wish to repor
 
 <a href="https://discord.gg/fCZyysjK5k">https://discord.gg/fCZyysjK5k</a>
 # Known Issues:  <br/> 
-- Warscrolls sometimes do not scroll ingame. You can get around this by clicking the top-left button on the scroll to pop out the window. You can also pick up the scroll and lock it in mid-air, sometimes this allows you to interact with the scroll bar on the right.
+- **Some units don't have functioning warscrolls.** - Newer models that have yet to be added to Wahapedia will open a 404 error screen, and as soon as they're added they will automatically update.
+- **Warscrolls sometimes do not scroll ingame.** - You can get around this by clicking the top-left button on the scroll to pop out the window. You can also pick up the scroll and lock it in mid-air, sometimes this allows you to interact with the scroll bar on the right.
 
 # Installation Instructions:
 
