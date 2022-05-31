@@ -25,20 +25,20 @@ Please note that there is currently no automatic updating version of Stormvault.
 
 **Manual Installation (Windows OS)**
 1. Download the Stormvault Zip file.
-2. Locate your Saves folder under /Your Computer/My Documents/My Games/Tabletop Simulator
+2. Locate your Saves folder under /Your Computer/USERNAME/My Documents/My Games/Tabletop Simulator/Saves
 3. Drag/Extract the Stormvault folder from the downloaded Zip file and place into your Saves folder in your Tabletop Simulator directory mentioned above. If updating, overwrite when prompted.
 4. Open Tabletop Simulator and make a room. The mod folders should be found in Save/Load.
 
 **Manual Installation (Mac OS)**
 
 1. Download the Stormvault Zip file.
-2. Locate your **Library\Tabletop Simulator
+2. Locate your **Library\Tabletop Simulator\Saves
 3. Drag/Extract the Stormvault folder from the downloaded Zip file and place into your Saves folder in your Tabletop Simulator directory mentioned above. If updating, overwrite when prompted.
 4. Open Tabletop Simulator and make a room. The mod folders should be found in Save/Load.
 
 **Manual Installation (Linux)**
 1. Download the Stormvault Zip file.
-2. Locate your Saves file under /home/<username>/.var/app/com.valvesoftware.Steam/.local/share/Tabletop\ Simulator/Saves/
+2. Locate your Saves file under /home/<username>/.var/app/com.valvesoftware.Steam/.local/share/Tabletop Simulator/Saves/
 3. Drag/Extract the Stormvault folder from the downloaded Zip file and place into your Saves folder in your Tabletop Simulator directory mentioned above. If updating, overwrite when prompted.
 4. Open Tabletop Simulator and make a room. The mod folders should be found in Save/Load.
   
@@ -55,7 +55,8 @@ Please note that there is currently no automatic updating version of Stormvault.
   Nylon<br/> 
   Inquisitorz<br/> 
   Flition<br/> 
-  Kupp<br/> 
+  Kupp<br/>
+  GoodPerson<br/>
   
 **Photogrammetrists and 3D Modellers**<br/>
   Quoeiza<br/> 
@@ -63,11 +64,13 @@ Please note that there is currently no automatic updating version of Stormvault.
   Nylon<br/> 
   Zerg<br/> 
   Ringil<br/> 
-  eternal3blade<br/> 
+  eternal3lade<br/> 
   DarkTrinity<br/> 
   PhilipRikoZen<br/>
   TheBestEGirl<br/>
   DaSNation<br/>
+  Cube<br/>
+  khaaarl<br/>
 
 If you have contributed resources to the project and your name is not listed above, please send us a message on Discord.
 
