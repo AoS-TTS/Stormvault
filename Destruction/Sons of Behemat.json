@@ -1,8 +1,8 @@
 {
   "SaveName": "Sons Of Behemat",
-  "EpochTime": 1653765119,
-  "Date": "5/28/2022 8:11:59 PM",
-  "VersionNumber": "v13.1.1",
+  "EpochTime": 1667947506,
+  "Date": "11/8/2022 11:45:06 PM",
+  "VersionNumber": "v13.2.2",
   "GameMode": "SONS OF BEHEMAT",
   "GameType": "Game",
   "GameComplexity": "Low Complexity",
@@ -493,6 +493,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -535,6 +540,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -582,6 +592,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -629,6 +644,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -676,6 +696,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -723,6 +748,11 @@
       "Nickname": "Flex Table Control",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -764,6 +794,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -811,6 +846,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -858,6 +898,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -905,6 +950,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -942,9 +992,9 @@
         "posX": 6.000412,
         "posY": 1.482499,
         "posZ": -11.0000267,
-        "rotX": 2.09429061E-07,
+        "rotX": 6.481369E-08,
         "rotY": 180.00853,
-        "rotZ": -2.41064868E-07,
+        "rotZ": -5.648463E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -952,6 +1002,11 @@
       "Nickname": "ARTILLERY",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1003,6 +1058,11 @@
       "Nickname": "Aura Indicator Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1055,6 +1115,11 @@
       "Nickname": "Aura Indicator Guide",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1091,7 +1156,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -55.0,
-        "rotX": -9.361963E-09,
+        "rotX": -9.36196454E-09,
         "rotY": 179.982147,
         "rotZ": 3.81626331E-09,
         "scaleX": 2.69600368,
@@ -1101,6 +1166,11 @@
       "Nickname": "Endless Spells / Invocations / Faction Scenery",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1143,9 +1213,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -35.0,
-        "rotX": 1.40883545E-08,
+        "rotX": 1.4088358E-08,
         "rotY": 179.977539,
-        "rotZ": 2.768832E-09,
+        "rotZ": 2.7688325E-09,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1153,6 +1223,11 @@
       "Nickname": "Monsters",
       "Description": "Behemoths that are not Leaders",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1197,7 +1272,7 @@
         "posZ": -43.0,
         "rotX": 3.891783E-07,
         "rotY": 180.0159,
-        "rotZ": -4.81020166E-08,
+        "rotZ": -4.81020237E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1205,6 +1280,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1246,9 +1326,9 @@
         "posX": -65.0,
         "posY": 1.482724,
         "posZ": -63.0,
-        "rotX": 5.59495774E-08,
+        "rotX": 5.59495881E-08,
         "rotY": 180.016052,
-        "rotZ": 9.34113444E-08,
+        "rotZ": 9.341136E-08,
         "scaleX": 1.22499967,
         "scaleY": 1.22499967,
         "scaleZ": 1.22499967
@@ -1256,6 +1336,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1307,6 +1392,11 @@
       "Nickname": "Artillery",
       "Description": "Artillery Units",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1349,9 +1439,9 @@
         "posX": -65.0,
         "posY": 1.482824,
         "posZ": -2.0,
-        "rotX": -1.02700028E-07,
+        "rotX": -1.02700042E-07,
         "rotY": 180.016037,
-        "rotZ": -5.07397324E-08,
+        "rotZ": -5.073974E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1359,6 +1449,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1410,6 +1505,11 @@
       "Nickname": "ARTILLERY",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1451,7 +1551,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 5.0,
-        "rotX": -1.33875719E-08,
+        "rotX": -1.33875746E-08,
         "rotY": 179.982178,
         "rotZ": -3.07197645E-08,
         "scaleX": 2.69600368,
@@ -1461,6 +1561,11 @@
       "Nickname": "Troops",
       "Description": "A Unit that is not Leader, Artillery or Behemoth.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1503,7 +1608,7 @@
         "posX": -65.0,
         "posY": 1.53149915,
         "posZ": 45.0,
-        "rotX": 3.08848875E-08,
+        "rotX": 3.08848946E-08,
         "rotY": 180.031479,
         "rotZ": -3.70051545E-08,
         "scaleX": 2.69600368,
@@ -1513,6 +1618,11 @@
       "Nickname": "Commanders",
       "Description": "Leaders",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1555,7 +1665,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 25.0,
-        "rotX": -1.30518156E-08,
+        "rotX": -1.30518174E-08,
         "rotY": 179.9827,
         "rotZ": -2.24342234E-08,
         "scaleX": 2.69600368,
@@ -1565,6 +1675,11 @@
       "Nickname": "Sub-commanders",
       "Description": "Leaders with a Wounds\r\ncharacteristic of less\r\nthan 10.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1617,6 +1732,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1668,6 +1788,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1709,9 +1834,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 65.0,
-        "rotX": -1.33042608E-08,
+        "rotX": -1.33042626E-08,
         "rotY": 180.027863,
-        "rotZ": 1.46700927E-08,
+        "rotZ": 1.46700954E-08,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1719,6 +1844,11 @@
       "Nickname": "Characters",
       "Description": "Unique Single Models.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1771,6 +1901,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1811,10 +1946,10 @@
       "Transform": {
         "posX": -48.75,
         "posY": 1.48149884,
-        "posZ": 6.750003,
-        "rotX": -6.51024948E-07,
-        "rotY": 359.9666,
-        "rotZ": 3.93387E-06,
+        "posZ": 6.75000334,
+        "rotX": -4.94716E-08,
+        "rotY": 359.966553,
+        "rotZ": -1.66440532E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1822,6 +1957,11 @@
       "Nickname": "Mancrusher Gargants",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n8\"    12    7     5+    \r\n[e85545]Weapons[-]\r\n[c6c930]’Eadbutt[-]\r\n1\"     A:1    H:4+   W:3+   R:-3   D:*   \r\n[c6c930]Massive Club[-]\r\n3\"     A:*    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Mighty Kick[-]\r\n2\"     A:1    H:3+   W:3+   R:-2   D:D3  \r\n",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1882,6 +2022,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -1942,6 +2087,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -1996,9 +2146,9 @@
         "posX": -45.0,
         "posY": 1.48150706,
         "posZ": 46.5,
-        "rotX": -6.74257365E-07,
+        "rotX": 7.29445856E-06,
         "rotY": 0.02409947,
-        "rotZ": -8.795785E-06,
+        "rotZ": -5.960988E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2006,6 +2156,11 @@
       "Nickname": "Warstomper Mega-Gargant",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     35    7     4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Grip[-]\r\n3\"     A:1    H:3+   W:2+   R:-3   D:D6  \r\n[c6c930]Jump Up and Down[-]\r\n3\"     A:4    H:3+   W:3+   R:-2   D:D3  \r\n[c6c930]Titanic Boulderclub[-]\r\n3\"     A:*    H:3+   W:3+   R:-2   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2066,6 +2221,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2126,6 +2286,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -2186,6 +2351,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -2238,11 +2408,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -57.0,
-        "posY": 1.48149979,
-        "posZ": -33.0,
-        "rotX": 4.350588E-06,
-        "rotY": 0.0137493042,
-        "rotZ": 2.49609748E-05,
+        "posY": 1.481499,
+        "posZ": -32.9999962,
+        "rotX": -5.091385E-07,
+        "rotY": 0.013726633,
+        "rotZ": -1.26964551E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2250,6 +2420,11 @@
       "Nickname": "Bonegrinder Mega=Gargant",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*    35    7     4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Hurled Boulder[-]\r\n*     A:1    H:3+   W:2+   R:-3   D:4   \r\n[c6c930]Gargantuan Club[-]\r\n3\"     A:*    H:3+   W:3+   R:-2   D:3   \r\n[c6c930]Thunderous Stomp[-]\r\n1\"     A:1    H:3+   W:3+   R:-2   D:D6  \r\n",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2310,6 +2485,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.8,
             "g": 0.8,
@@ -2347,11 +2527,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -51.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 6.75,
-        "rotX": -7.461125E-07,
+        "rotX": -7.17555167E-07,
         "rotY": 359.9659,
-        "rotZ": -1.00675685E-07,
+        "rotZ": -1.52414088E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2359,6 +2539,11 @@
       "Nickname": "Mancrusher Gargants",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n8\"    12    7     5+    \r\n[e85545]Weapons[-]\r\n[c6c930]’Eadbutt[-]\r\n1\"     A:1    H:4+   W:3+   R:-3   D:*   \r\n[c6c930]Massive Club[-]\r\n3\"     A:*    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Mighty Kick[-]\r\n2\"     A:1    H:3+   W:3+   R:-2   D:D3  \r\n",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2419,6 +2604,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2479,6 +2669,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -2533,9 +2728,9 @@
         "posX": -45.75,
         "posY": 1.48149884,
         "posZ": 6.75,
-        "rotX": -9.92217E-07,
+        "rotX": 3.94959471E-07,
         "rotY": 359.966034,
-        "rotZ": 3.97979738E-06,
+        "rotZ": 8.72808357E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2543,6 +2738,11 @@
       "Nickname": "Mancrusher Gargants",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n8\"    12    7     5+    \r\n[e85545]Weapons[-]\r\n[c6c930]’Eadbutt[-]\r\n1\"     A:1    H:4+   W:3+   R:-3   D:*   \r\n[c6c930]Massive Club[-]\r\n3\"     A:*    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Mighty Kick[-]\r\n2\"     A:1    H:3+   W:3+   R:-2   D:D3  \r\n",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2603,6 +2803,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2663,6 +2868,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -2716,10 +2926,10 @@
       "Transform": {
         "posX": -54.75,
         "posY": 1.48149884,
-        "posZ": 6.750002,
-        "rotX": 5.351499E-07,
+        "posZ": 6.75000238,
+        "rotX": -7.83607845E-08,
         "rotY": 359.9663,
-        "rotZ": 4.46316335E-06,
+        "rotZ": -1.39107033E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2727,6 +2937,11 @@
       "Nickname": "Mancrusher Gargants",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n8\"    12    7     5+    \r\n[e85545]Weapons[-]\r\n[c6c930]’Eadbutt[-]\r\n1\"     A:1    H:4+   W:3+   R:-3   D:*   \r\n[c6c930]Massive Club[-]\r\n3\"     A:*    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Mighty Kick[-]\r\n2\"     A:1    H:3+   W:3+   R:-2   D:D3  \r\n",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2787,6 +3002,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2847,6 +3067,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -2901,9 +3126,9 @@
         "posX": -57.75,
         "posY": 1.48149884,
         "posZ": 6.750001,
-        "rotX": -6.703548E-07,
-        "rotY": 359.966339,
-        "rotZ": 2.34685263E-06,
+        "rotX": 9.07396156E-07,
+        "rotY": 359.9663,
+        "rotZ": -2.373648E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2911,6 +3136,11 @@
       "Nickname": "Mancrusher Gargants",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n8\"    12    7     5+    \r\n[e85545]Weapons[-]\r\n[c6c930]’Eadbutt[-]\r\n1\"     A:1    H:4+   W:3+   R:-3   D:*   \r\n[c6c930]Massive Club[-]\r\n3\"     A:*    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Mighty Kick[-]\r\n2\"     A:1    H:3+   W:3+   R:-2   D:D3  \r\n",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2971,6 +3201,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3031,6 +3266,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -3083,11 +3323,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -51.0,
-        "posY": 1.48150706,
+        "posY": 1.48150718,
         "posZ": 46.5,
-        "rotX": 1.08625932E-06,
-        "rotY": 0.0243820641,
-        "rotZ": -7.741661E-06,
+        "rotX": -4.74508482E-07,
+        "rotY": 0.0243820678,
+        "rotZ": -7.50312574E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3095,6 +3335,11 @@
       "Nickname": "Kraken-Eater Mega-Gargant",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     35    7     4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Hurled Debris[-]\r\n*      A:3    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Almighty Stomp[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:D3  \r\n[c6c930]Death Grip[-]\r\n3\"     A:1    H:3+   W:2+   R:-3   D:D6  \r\n[c6c930]Shipwrecka Warclub[-]\r\n3\"     A:*    H:3+   W:3+   R:-2   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3155,6 +3400,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3215,6 +3465,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -3275,6 +3530,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -3327,11 +3587,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -56.9999962,
-        "posY": 1.49600983,
+        "posY": 1.49600971,
         "posZ": 46.5,
-        "rotX": 0.00163755252,
-        "rotY": -0.000257446023,
-        "rotZ": -0.0020247607,
+        "rotX": 0.00164282916,
+        "rotY": -0.0002576595,
+        "rotZ": -0.00202509062,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3339,6 +3599,11 @@
       "Nickname": "Gatebreaker Mega-Gargant",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     35    7     4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Hurled Boulder[-]\r\n*      A:1    H:3+   W:2+   R:-3   D:4   \r\n[c6c930]Almighty Stomp[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:D3  \r\n[c6c930]Death Grip[-]\r\n3\"     A:1    H:3+   W:2+   R:-3   D:D6  \r\n[c6c930]Fortcrusha Flail[-]\r\n3\"     A:*    H:4+   W:3+   R:-3   D:3   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3399,6 +3664,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3459,6 +3729,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -3519,6 +3794,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -3583,6 +3863,11 @@
       "Nickname": "Base Size Chart",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -3635,6 +3920,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -3685,9 +3975,9 @@
         "posX": 67.25,
         "posY": 1.48149884,
         "posZ": 67.25,
-        "rotX": -9.615576E-08,
+        "rotX": -1.10926756E-07,
         "rotY": 359.967346,
-        "rotZ": -3.35287552E-07,
+        "rotZ": -3.508442E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3695,6 +3985,11 @@
       "Nickname": "Kragnos, The End of Empires",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     18    10     2+    \r\n[e85545]Weapons[-]\r\n[c6c930]The Dread Mace[-]\r\n3\"      A:6    H:3+   W:2+   R:-3   D:4  \r\n[c6c930]Tuskbreaker[-]\r\n1\"     A:3    H:3+   W:2+   R:-2   D:D3  \r\n[c6c930]Hooves of Wrack and Ruin[-]\r\n1\"     A:*    H:3+   W:2+   R:-1   D:2  ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3755,6 +4050,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3794,9 +4094,9 @@
         "posX": -51.5,
         "posY": 1.981499,
         "posZ": 1.99999988,
-        "rotX": -1.96824246E-07,
-        "rotY": 0.002497567,
-        "rotZ": 9.255645E-07,
+        "rotX": -6.303372E-07,
+        "rotY": 0.00250160461,
+        "rotZ": -1.17665145E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -3804,6 +4104,11 @@
       "Nickname": "Mancrusher Gargants",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -3857,6 +4162,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3913,6 +4223,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -3973,6 +4288,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4033,6 +4353,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4093,6 +4418,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4153,6 +4483,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4217,6 +4552,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4272,9 +4612,9 @@
         "posX": -57.0,
         "posY": 1.981499,
         "posZ": -38.0,
-        "rotX": 3.71852821E-07,
-        "rotY": -0.000334797,
-        "rotZ": 4.52256359E-07,
+        "rotX": -6.3532724E-07,
+        "rotY": -0.000334849581,
+        "rotZ": 1.07504533E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -4282,6 +4622,11 @@
       "Nickname": "Bonegrinder Mega-Gargant",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -4335,6 +4680,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4391,6 +4741,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4451,6 +4806,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4511,6 +4871,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4571,6 +4936,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4631,6 +5001,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4695,6 +5070,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4750,9 +5130,9 @@
         "posX": -51.0,
         "posY": 1.981499,
         "posZ": 42.0,
-        "rotX": -3.50210371E-07,
-        "rotY": 0.00245797564,
-        "rotZ": 3.106129E-07,
+        "rotX": -6.168781E-08,
+        "rotY": 0.00245794142,
+        "rotZ": -6.560726E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -4760,6 +5140,11 @@
       "Nickname": "Kraken-eater Mega-Gargant",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -4813,6 +5198,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4869,6 +5259,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4929,6 +5324,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -4989,6 +5389,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5049,6 +5454,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5109,6 +5519,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5173,6 +5588,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5228,9 +5648,9 @@
         "posX": -45.0,
         "posY": 1.981499,
         "posZ": 42.0,
-        "rotX": -4.26940318E-07,
-        "rotY": 0.00245794537,
-        "rotZ": 8.77009938E-07,
+        "rotX": 1.74255376E-06,
+        "rotY": 0.00245796843,
+        "rotZ": -1.20420268E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -5238,6 +5658,11 @@
       "Nickname": "Warstomper Mega-Gargant",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -5291,6 +5716,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5347,6 +5777,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5407,6 +5842,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5467,6 +5907,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5527,6 +5972,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5587,6 +6037,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5651,6 +6106,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5706,9 +6166,9 @@
         "posX": 67.25,
         "posY": 1.981499,
         "posZ": 61.75,
-        "rotX": 1.9176116E-06,
-        "rotY": 0.00344969938,
-        "rotZ": 4.05829951E-07,
+        "rotX": -5.252594E-07,
+        "rotY": 0.00344963488,
+        "rotZ": -6.94783466E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -5716,6 +6176,11 @@
       "Nickname": "Kragnos, the End of Empires",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -5770,6 +6235,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5825,9 +6295,9 @@
         "posX": -57.0,
         "posY": 1.981499,
         "posZ": 42.0,
-        "rotX": 5.803266E-07,
-        "rotY": 0.002457936,
-        "rotZ": -1.0536761E-06,
+        "rotX": 1.647505E-06,
+        "rotY": 0.00245793536,
+        "rotZ": -1.28958931E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -5835,6 +6305,11 @@
       "Nickname": "Gatebreaker Mega-Gargant",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -5888,6 +6363,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5944,6 +6424,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -6004,6 +6489,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -6064,6 +6554,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -6124,6 +6619,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -6184,6 +6684,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -6248,6 +6753,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6289,6 +6799,244 @@
               "FresnelStrength": 0.104938753
             },
             "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "9a7af0",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -38.5,
+        "posY": 1.48150718,
+        "posZ": 46.5,
+        "rotX": -1.09144366E-06,
+        "rotY": 0.02409136,
+        "rotZ": -9.75833E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Beast-Smasher Mega-Gargant",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1861688073981647424/5F9C3C61650289C9150C91C7369C4952E89C46CB/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756670510/C72911307E7582620284C9864812C2767FD75BC7/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "99e93b",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -2.01437977E-08,
+            "posY": 0.1276915,
+            "posZ": -3.81226459E-06,
+            "rotX": -0.001165197,
+            "rotY": 269.9861,
+            "rotZ": -0.0020670013,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1903360971338487823/4407D9708E45C413C112A420EF9E26FC4ADCA0E4/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "4b2829",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -53.0,
+        "posY": 1.48150706,
+        "posZ": 62.0,
+        "rotX": -2.764484E-06,
+        "rotY": 0.0240990426,
+        "rotZ": -8.261001E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "King Brodd",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1861688073981647424/5F9C3C61650289C9150C91C7369C4952E89C46CB/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756670510/C72911307E7582620284C9864812C2767FD75BC7/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "ceea92",
+          "Name": "Custom_Assetbundle",
+          "Transform": {
+            "posX": -8.404764E-05,
+            "posY": 0.127690077,
+            "posZ": 0.000251740857,
+            "rotX": -0.00111478765,
+            "rotY": 270.2267,
+            "rotZ": -0.00210479717,
+            "scaleX": 0.9999999,
+            "scaleY": 1.0,
+            "scaleZ": 0.9999999
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomAssetbundle": {
+            "AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/1903360971338487122/02EE50AD116A1FD614F214BE58399DCC80B73B07/",
+            "AssetbundleSecondaryURL": "",
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "LoopingEffectIndex": 0
           },
           "LuaScript": "",
           "LuaScriptState": "",
