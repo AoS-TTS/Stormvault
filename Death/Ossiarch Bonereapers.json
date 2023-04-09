@@ -1,8 +1,8 @@
 {
   "SaveName": "Ossiarch Bonereapers",
-  "EpochTime": 1653815579,
-  "Date": "5/29/2022 10:12:59 AM",
-  "VersionNumber": "v13.1.1",
+  "EpochTime": 1681064043,
+  "Date": "4/9/2023 8:14:03 PM",
+  "VersionNumber": "v13.2.2",
   "GameMode": "OSSIARCH BONEREAPERS",
   "GameType": "",
   "GameComplexity": "",
@@ -493,6 +493,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -535,6 +540,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -582,6 +592,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -629,6 +644,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -676,6 +696,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -723,6 +748,11 @@
       "Nickname": "Flex Table Control",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -764,6 +794,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -811,6 +846,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -858,6 +898,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -905,6 +950,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -952,6 +1002,11 @@
       "Nickname": "ARTILLERY",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1003,6 +1058,11 @@
       "Nickname": "Aura Indicator Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1055,6 +1115,11 @@
       "Nickname": "Aura Indicator Guide",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1091,7 +1156,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -55.0,
-        "rotX": -9.36194855E-09,
+        "rotX": -9.36195E-09,
         "rotY": 179.982147,
         "rotZ": 3.81626331E-09,
         "scaleX": 2.69600368,
@@ -1101,6 +1166,11 @@
       "Nickname": "Endless Spells / Invocations / Faction Scenery",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1143,9 +1213,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -35.0,
-        "rotX": 1.40883287E-08,
+        "rotX": 1.40883323E-08,
         "rotY": 179.977539,
-        "rotZ": 2.7688285E-09,
+        "rotZ": 2.768829E-09,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1153,6 +1223,11 @@
       "Nickname": "Monsters",
       "Description": "Behemoths that are not Leaders",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1197,7 +1272,7 @@
         "posZ": -43.0,
         "rotX": 3.891783E-07,
         "rotY": 180.0159,
-        "rotZ": -4.810196E-08,
+        "rotZ": -4.81019669E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1205,6 +1280,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1246,9 +1326,9 @@
         "posX": -65.0,
         "posY": 1.482724,
         "posZ": -63.0,
-        "rotX": 5.59494744E-08,
+        "rotX": 5.594949E-08,
         "rotY": 180.016052,
-        "rotZ": 9.341123E-08,
+        "rotZ": 9.3411245E-08,
         "scaleX": 1.22499967,
         "scaleY": 1.22499967,
         "scaleZ": 1.22499967
@@ -1256,6 +1336,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1307,6 +1392,11 @@
       "Nickname": "Artillery",
       "Description": "Artillery Units",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1349,9 +1439,9 @@
         "posX": -65.0,
         "posY": 1.482824,
         "posZ": -2.0,
-        "rotX": -1.02699914E-07,
+        "rotX": -1.02699929E-07,
         "rotY": 180.016037,
-        "rotZ": -5.07396756E-08,
+        "rotZ": -5.07396827E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1359,6 +1449,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1410,6 +1505,11 @@
       "Nickname": "ARTILLERY",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1451,7 +1551,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 5.0,
-        "rotX": -1.33875462E-08,
+        "rotX": -1.338755E-08,
         "rotY": 179.982178,
         "rotZ": -3.07197645E-08,
         "scaleX": 2.69600368,
@@ -1461,6 +1561,11 @@
       "Nickname": "Troops",
       "Description": "A Unit that is not Leader, Artillery or Behemoth.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1503,7 +1608,7 @@
         "posX": -65.0,
         "posY": 1.53149915,
         "posZ": 45.0,
-        "rotX": 3.088483E-08,
+        "rotX": 3.08848378E-08,
         "rotY": 180.031479,
         "rotZ": -3.70051545E-08,
         "scaleX": 2.69600368,
@@ -1513,6 +1618,11 @@
       "Nickname": "Commanders",
       "Description": "Leaders",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1555,7 +1665,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 25.0,
-        "rotX": -1.30518014E-08,
+        "rotX": -1.30518032E-08,
         "rotY": 179.9827,
         "rotZ": -2.24342234E-08,
         "scaleX": 2.69600368,
@@ -1565,6 +1675,11 @@
       "Nickname": "Sub-commanders",
       "Description": "Leaders with a Wounds\r\ncharacteristic of less\r\nthan 10.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1617,6 +1732,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1668,6 +1788,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1709,9 +1834,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 65.0,
-        "rotX": -1.33042466E-08,
+        "rotX": -1.33042484E-08,
         "rotY": 180.027863,
-        "rotZ": 1.46700669E-08,
+        "rotZ": 1.46700705E-08,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1719,6 +1844,11 @@
       "Nickname": "Characters",
       "Description": "Unique Single Models.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1771,6 +1901,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1810,11 +1945,11 @@
       "Name": "Custom_Assetbundle",
       "Transform": {
         "posX": -55.25,
-        "posY": 1.4815017,
+        "posY": 1.481504,
         "posZ": -54.75,
-        "rotX": 1.0058473E-05,
+        "rotX": -1.5474634E-05,
         "rotY": 180.005081,
-        "rotZ": 1.06766436E-06,
+        "rotZ": -2.94169752E-07,
         "scaleX": 7.000007,
         "scaleY": 7.000007,
         "scaleZ": 7.000007
@@ -1822,6 +1957,11 @@
       "Nickname": "Bone-Tithe Nexus",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1859,9 +1999,9 @@
         "posX": -47.0,
         "posY": 1.48149872,
         "posZ": -57.0,
-        "rotX": -1.00827378E-06,
+        "rotX": -9.902838E-07,
         "rotY": 269.999634,
-        "rotZ": -1.08910626E-06,
+        "rotZ": -1.0612963E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1869,6 +2009,11 @@
       "Nickname": "Bone-tithe Shrieker",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1929,6 +2074,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -1968,9 +2118,9 @@
         "posX": -38.5,
         "posY": 1.481499,
         "posZ": -57.0,
-        "rotX": -1.286474E-06,
+        "rotX": 1.10285691E-06,
         "rotY": -0.00381124555,
-        "rotZ": -2.768461E-07,
+        "rotZ": -2.576496E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1978,6 +2128,11 @@
       "Nickname": "Nightmare Predator",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2038,6 +2193,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2077,9 +2237,9 @@
         "posX": -29.9884319,
         "posY": 1.481499,
         "posZ": -56.999115,
-        "rotX": -7.01308636E-07,
+        "rotX": 5.942591E-08,
         "rotY": 0.0252819452,
-        "rotZ": -7.7383504E-07,
+        "rotZ": -9.113747E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2087,6 +2247,11 @@
       "Nickname": "Soulstealer Carrion",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2147,6 +2312,11 @@
           "Nickname": "Soulstealer Carrion",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.847058833,
             "g": 0.847058833,
@@ -2199,9 +2369,9 @@
         "posX": -55.5,
         "posY": 1.481499,
         "posZ": -36.5,
-        "rotX": 1.97080325E-07,
+        "rotX": 7.37073663E-07,
         "rotY": 359.982666,
-        "rotZ": 1.76950925E-06,
+        "rotZ": -6.995506E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2209,6 +2379,11 @@
       "Nickname": "Gothizzar Harvester",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    10    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death’s Head Maw[-]\r\n*      A:4    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Soulcleaver Sickles[-]\r\n1\"     A:*    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Soulcrusher Bludgeons[-]\r\n1\"     A:*    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Ossified Hooves and Tail[-]\r\n2\"     A:4    H:3+   W:*    R:-1   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2269,6 +2444,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2306,11 +2486,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -57.5,
-        "posY": 1.48151064,
-        "posZ": -15.9999914,
-        "rotX": 0.000118022588,
+        "posY": 1.48151076,
+        "posZ": -15.99999,
+        "rotX": 0.000117796961,
         "rotY": 359.966034,
-        "rotZ": 3.50347436E-05,
+        "rotZ": 3.504454E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2318,6 +2498,11 @@
       "Nickname": "Mortek Crawler",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    12    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Catapult - Necrotic Skulls[-]\r\n6\"-36\" A:3    H:2+   W:3+   R:-    D:*   \r\n[c6c930]Dread Catapult - Cauldron of Torment[-]\r\n6\"-36\" A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Dread Catapult - Cursed Stele[-]\r\n6\"-36\" A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Crawler Tools[-]\r\n1\"     A:6    H:3+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2378,6 +2563,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2415,11 +2605,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -53.0,
-        "posY": 1.48151457,
-        "posZ": -15.9999914,
-        "rotX": -3.34729179E-06,
+        "posY": 1.48151469,
+        "posZ": -15.99999,
+        "rotX": 2.16202943E-06,
         "rotY": 359.966,
-        "rotZ": -2.208053E-05,
+        "rotZ": -2.94840011E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2427,6 +2617,11 @@
       "Nickname": "Mortek Crawler",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    12    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Catapult - Necrotic Skulls[-]\r\n6\"-36\" A:3    H:2+   W:3+   R:-    D:*   \r\n[c6c930]Dread Catapult - Cauldron of Torment[-]\r\n6\"-36\" A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Dread Catapult - Cursed Stele[-]\r\n6\"-36\" A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Crawler Tools[-]\r\n1\"     A:6    H:3+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2487,6 +2682,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2524,11 +2724,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -54.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 1.24999988,
-        "rotX": -2.34786467E-06,
-        "rotY": -0.00247167866,
-        "rotZ": 5.8702E-07,
+        "rotX": -2.50128414E-06,
+        "rotY": -0.00247339229,
+        "rotZ": 2.66858223E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2536,6 +2736,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2596,6 +2801,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2633,11 +2843,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -58.75,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": -2.66792949E-06,
+        "rotX": 1.17387037E-06,
         "rotY": 359.989868,
-        "rotZ": 1.28089619E-06,
+        "rotZ": -7.738362E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2645,6 +2855,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2705,6 +2920,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2742,11 +2962,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -54.75,
-        "posY": 1.481499,
+        "posY": 1.48149872,
         "posZ": 3.25,
-        "rotX": 1.05385743E-06,
+        "rotX": -9.605341E-07,
         "rotY": 359.994049,
-        "rotZ": -3.735806E-07,
+        "rotZ": -7.47002E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2754,6 +2974,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2814,6 +3039,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2851,11 +3081,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -56.75,
-        "posY": 1.48149884,
+        "posY": 1.48149908,
         "posZ": 3.24999976,
-        "rotX": -4.095569E-06,
+        "rotX": -6.270995E-07,
         "rotY": 359.9941,
-        "rotZ": -2.40102736E-06,
+        "rotZ": -2.134402E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2863,6 +3093,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2923,6 +3158,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2960,11 +3200,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -52.7499924,
-        "posY": 1.48149908,
-        "posZ": 1.25000012,
-        "rotX": -6.435137E-07,
+        "posY": 1.481499,
+        "posZ": 1.25000024,
+        "rotX": -3.41166742E-06,
         "rotY": 359.989838,
-        "rotZ": 1.7076045E-06,
+        "rotZ": 1.04083927E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2972,6 +3212,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3032,6 +3277,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3069,11 +3319,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -52.75,
-        "posY": 1.481499,
+        "posY": 1.48149908,
         "posZ": 3.25000024,
-        "rotX": -2.59467356E-06,
+        "rotX": 9.0058694E-07,
         "rotY": 359.989868,
-        "rotZ": -2.64511844E-08,
+        "rotZ": 1.3873024E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3081,6 +3331,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3141,6 +3396,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3180,9 +3440,9 @@
         "posX": -56.75,
         "posY": 1.48149908,
         "posZ": 1.24999964,
-        "rotX": 1.81394307E-06,
+        "rotX": -1.22741517E-06,
         "rotY": 359.989868,
-        "rotZ": -3.68205929E-06,
+        "rotZ": -1.30723254E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3190,6 +3450,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3250,6 +3515,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3287,11 +3557,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -58.75,
-        "posY": 1.481499,
+        "posY": 1.48149908,
         "posZ": 1.25000036,
-        "rotX": -3.308556E-06,
-        "rotY": 359.9898,
-        "rotZ": -2.054098E-06,
+        "rotX": -1.28072418E-06,
+        "rotY": 359.989838,
+        "rotZ": -7.202579E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3299,6 +3569,11 @@
       "Nickname": "Immortis Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    4     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3359,6 +3634,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3397,10 +3677,10 @@
       "Transform": {
         "posX": -47.2140923,
         "posY": 1.48149908,
-        "posZ": 2.2518723,
-        "rotX": 1.35591762E-07,
+        "posZ": 2.25187254,
+        "rotX": 1.10275E-06,
         "rotY": 359.89328,
-        "rotZ": 3.11451186E-06,
+        "rotZ": -3.79038534E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3408,6 +3688,11 @@
       "Nickname": "Kavalos Deathrider",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   3     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:3    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:3    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Hooves and Teeth[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3468,6 +3753,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3507,9 +3797,9 @@
         "posX": -45.75,
         "posY": 1.481499,
         "posZ": 2.25,
-        "rotX": 3.61113848E-07,
-        "rotY": 0.004747725,
-        "rotZ": -6.324613E-07,
+        "rotX": 3.7651688E-07,
+        "rotY": 0.004747721,
+        "rotZ": -5.985053E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3517,6 +3807,11 @@
       "Nickname": "Kavalos Deathrider",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   3     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:3    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:3    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Hooves and Teeth[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3577,6 +3872,11 @@
           "Nickname": "Kavalos Deathrider - Mortek Hekatos",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3616,9 +3916,9 @@
         "posX": -48.75,
         "posY": 1.481499,
         "posZ": 2.25000024,
-        "rotX": 2.78939387E-06,
-        "rotY": 0.009196081,
-        "rotZ": 3.10975565E-07,
+        "rotX": 2.63697962E-06,
+        "rotY": 0.0091961,
+        "rotZ": -6.30422937E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3626,6 +3926,11 @@
       "Nickname": "Kavalos Deathrider",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   3     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:3    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:3    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Hooves and Teeth[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3686,6 +3991,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3723,11 +4033,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -38.5,
-        "posY": 1.481499,
-        "posZ": 2.5,
-        "rotX": 4.88102046E-07,
-        "rotY": 0.0220290683,
-        "rotZ": 3.45558476E-07,
+        "posY": 1.48149908,
+        "posZ": 2.49999976,
+        "rotX": 7.980131E-07,
+        "rotY": 0.022023946,
+        "rotZ": 1.40668019E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3735,6 +4045,11 @@
       "Nickname": "Morghast Archai",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n9\"    6     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Spirit Halberd[-]\r\n2\"     A:3    H:3+   W:3+   R:-2   D:3   \r\n[c6c930]Spirit Swords[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:2  ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3795,6 +4110,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3845,11 +4165,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -29.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 2.749999,
-        "rotX": -2.430517E-06,
-        "rotY": 0.0221912879,
-        "rotZ": 4.98536735E-07,
+        "rotX": 2.41053431E-06,
+        "rotY": 0.0221639667,
+        "rotZ": -6.44032866E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3857,6 +4177,11 @@
       "Nickname": "Morghast Harbinger",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n9\"    6     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Spirit Halberd[-]\r\n2\"     A:3    H:3+   W:3+   R:-2   D:3   \r\n[c6c930]Spirit Swords[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3917,6 +4242,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3967,11 +4297,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -19.25,
-        "posY": 1.48149908,
+        "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": -2.72297643E-06,
+        "rotX": -2.7830215E-06,
         "rotY": 359.9877,
-        "rotZ": -8.954545E-08,
+        "rotZ": 2.1898682E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3979,6 +4309,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4039,6 +4374,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4091,9 +4431,9 @@
         "posX": -18.25,
         "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": -1.71705744E-06,
-        "rotY": -0.000966481457,
-        "rotZ": 3.07542314E-06,
+        "rotX": 1.66613074E-06,
+        "rotY": -0.0009664461,
+        "rotZ": 3.789879E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4101,6 +4441,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4161,6 +4506,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4213,9 +4563,9 @@
         "posX": -22.75,
         "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": -2.3950372E-06,
-        "rotY": 0.0007001051,
-        "rotZ": -4.77921549E-06,
+        "rotX": -1.002224E-05,
+        "rotY": 0.000700071454,
+        "rotZ": -1.98970974E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4223,6 +4573,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4283,6 +4638,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4335,9 +4695,9 @@
         "posX": -25.25,
         "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": -2.32591833E-06,
+        "rotX": -2.447626E-06,
         "rotY": 0.005812491,
-        "rotZ": -5.286185E-07,
+        "rotZ": -5.87610941E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4345,6 +4705,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4405,6 +4770,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4457,9 +4827,9 @@
         "posX": -21.75,
         "posY": 1.481499,
         "posZ": 1.25,
-        "rotX": 4.56758585E-07,
+        "rotX": 7.545867E-07,
         "rotY": 359.987762,
-        "rotZ": -8.58255E-07,
+        "rotZ": -6.87020133E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4467,6 +4837,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4527,6 +4902,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4579,9 +4959,9 @@
         "posX": -15.0,
         "posY": 1.481499,
         "posZ": 2.49999976,
-        "rotX": 2.87509579E-06,
+        "rotX": 2.73053774E-06,
         "rotY": 0.0230348129,
-        "rotZ": 1.31134652E-06,
+        "rotZ": -2.79952951E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4589,6 +4969,11 @@
       "Nickname": "Necropolis Stalker",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    4     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Falchions[-]\r\n1\"     A:3    H:4+   W:3+   R:-2   D:2   \r\n[c6c930]Spirit Blades[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4649,6 +5034,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4688,9 +5078,9 @@
         "posX": -12.9999971,
         "posY": 1.481499,
         "posZ": 2.500003,
-        "rotX": 4.40579129E-07,
+        "rotX": 4.31663153E-07,
         "rotY": 0.00287550967,
-        "rotZ": 4.10075955E-07,
+        "rotZ": 5.33481852E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4698,6 +5088,11 @@
       "Nickname": "Necropolis Stalker",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    4     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Falchions[-]\r\n1\"     A:3    H:4+   W:3+   R:-2   D:2   \r\n[c6c930]Spirit Blades[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4758,6 +5153,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4797,9 +5197,9 @@
         "posX": -11.000001,
         "posY": 1.481499,
         "posZ": 2.49999976,
-        "rotX": -5.16477371E-07,
+        "rotX": 4.42544916E-07,
         "rotY": -0.00019807549,
-        "rotZ": -7.695302E-07,
+        "rotZ": 4.168647E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4807,6 +5207,11 @@
       "Nickname": "Necropolis Stalker",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    4     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Dread Falchions[-]\r\n1\"     A:3    H:4+   W:3+   R:-2   D:2   \r\n[c6c930]Spirit Blades[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4867,6 +5272,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4904,11 +5314,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.48149872,
+        "posY": 1.481499,
         "posZ": 23.0000038,
-        "rotX": -1.69328089E-07,
+        "rotX": -3.797149E-07,
         "rotY": 359.9805,
-        "rotZ": 9.06763546E-07,
+        "rotZ": 9.905755E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4916,6 +5326,11 @@
       "Nickname": "Liege-Kavalos",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n10\"   7     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Commander’s Blade[-]\r\n1\"     A:3    H:3+   W:3+   R:-1   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:1    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Hooves, Teeth and Barbed Tails[-]\r\n1\"     A:6    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4976,6 +5391,11 @@
           "Nickname": "Liege-Kavalos",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.847058833,
             "g": 0.847058833,
@@ -5028,9 +5448,9 @@
         "posX": -47.0,
         "posY": 1.48149884,
         "posZ": 22.5,
-        "rotX": -1.50545463E-06,
+        "rotX": -1.254313E-06,
         "rotY": 0.03419192,
-        "rotZ": 1.47551407E-06,
+        "rotZ": 1.41564453E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5038,6 +5458,11 @@
       "Nickname": "Mortisan Boneshaper",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    5     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Ossified Talons[-]\r\n1\"     A:2    H:3+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5098,6 +5523,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5148,11 +5578,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -38.25,
-        "posY": 1.48149884,
-        "posZ": 22.75,
-        "rotX": 2.76874715E-07,
-        "rotY": 0.03410142,
-        "rotZ": -7.497923E-08,
+        "posY": 1.48808122,
+        "posZ": 22.7499981,
+        "rotX": 4.397263E-06,
+        "rotY": 0.0340006836,
+        "rotZ": 1.4749153E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5160,6 +5590,11 @@
       "Nickname": "Mortisan Soulmason",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    6     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Soulmason’s Staff[-]\r\n2\"     A:2    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Ossified Claws[-]\r\n1\"     A:2    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5220,6 +5655,11 @@
           "Nickname": "Mortisan Soulmason",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.847058833,
             "g": 0.847058833,
@@ -5260,11 +5700,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -30.25,
-        "posY": 1.48149872,
+        "posY": 1.481499,
         "posZ": 22.25,
-        "rotX": 9.21184039E-07,
+        "rotX": 8.913041E-07,
         "rotY": 0.0341919251,
-        "rotZ": 1.71807415E-07,
+        "rotZ": 3.41687667E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5272,6 +5712,11 @@
       "Nickname": "Mortisan Soulreaper",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    5     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Soulreaper Scythe[-]\r\n2\"     A:3    H:3+   W:3+   R:-1   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5332,6 +5777,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5384,9 +5834,9 @@
         "posX": -55.5,
         "posY": 1.481499,
         "posZ": 63.0,
-        "rotX": 6.7854927E-07,
-        "rotY": -0.00115088676,
-        "rotZ": -3.68842819E-07,
+        "rotX": -1.49983089E-06,
+        "rotY": -0.001150887,
+        "rotZ": 5.13404871E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5394,6 +5844,11 @@
       "Nickname": "Arch-Kavalos Zandtos",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   7     10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]The Dark Lance[-]\r\n2\"     A:3    H:3+   W:3+   R:-1   D:2   \r\n[c6c930]Nadirite Battle-shield[-]\r\n1\"     A:1    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Hooves, Teeth and Barbed Tails[-]\r\n1\"     A:6    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5454,6 +5909,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5506,9 +5966,9 @@
         "posX": -47.0,
         "posY": 1.481499,
         "posZ": 63.5,
-        "rotX": 4.39832917E-07,
-        "rotY": -2.1469404E-08,
-        "rotZ": 2.96865068E-07,
+        "rotX": 1.00881664E-06,
+        "rotY": -2.126097E-08,
+        "rotZ": -6.018838E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5516,6 +5976,11 @@
       "Nickname": "Arkhan the Black, Mortarch of Sacrament",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     11    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Zefet-kar[-]\r\n1\"     A:1    H:3+   W:3+   R:-1   D:D3  \r\n[c6c930]Khenash-an[-]\r\n2\"     A:1    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Ebon Claws[-]\r\n1\"     A:*    H:4+   W:3+   R:-2   D:2   \r\n[c6c930]Spectral Claws and Daggers[-]\r\n1\"     A:6    H:5+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5576,6 +6041,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5626,11 +6096,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -38.75,
-        "posY": 1.4814986,
+        "posY": 1.48149979,
         "posZ": 63.25,
-        "rotX": 3.019154E-07,
-        "rotY": 89.9953842,
-        "rotZ": 1.50926041E-06,
+        "rotX": 1.056558E-06,
+        "rotY": 89.99538,
+        "rotZ": 1.66015752E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5638,6 +6108,11 @@
       "Nickname": "Katakros, Mortarch of the Necropolis ",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    20    10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Inda-Khaat[-]\r\n1\"     A:*    H:3+   W:3+   R:-3   D:3   \r\n[c6c930]The Shield Immortis[-]\r\n1\"     A:*    H:3+   W:3+   R:-2   D:2   \r\n[c6c930]Nadirite Dagger[-]\r\n1\"     A:1    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Nadirite Duelling Blades[-]\r\n1\"     A:6    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Soulreaver Greatblade[-]\r\n1\"     A:3    H:3+   W:3+   R:-1   D:1   \r\n[c6c930]Spirit Dagger[-]\r\n1\"     A:3    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5698,6 +6173,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5745,6 +6225,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5792,6 +6277,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5839,6 +6329,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5886,6 +6381,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -5925,11 +6425,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -4.5,
-        "posY": 1.48149884,
+        "posY": 1.48149872,
         "posZ": 62.0,
-        "rotX": 4.34955155E-07,
+        "rotX": 8.232825E-07,
         "rotY": 0.03420046,
-        "rotZ": 4.02206865E-07,
+        "rotZ": 6.432339E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5937,6 +6437,11 @@
       "Nickname": "Vokmortian, Master of the Bone-tithe ",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"    6     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Gaze of Death[-]\r\n12\"    A:1    H:3+   W:2+   R:-1   D:D3  \r\n[c6c930]Staff of Retribution[-]\r\n2\"     A:2    H:3+   W:3+   R:-1   D:D3  ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5997,6 +6502,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6036,9 +6546,9 @@
         "posX": -30.5,
         "posY": 1.48149884,
         "posZ": 62.0,
-        "rotX": -8.57242867E-07,
+        "rotX": 1.49108246E-06,
         "rotY": 0.0338999331,
-        "rotZ": -9.223397E-07,
+        "rotZ": 8.62849049E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6046,6 +6556,11 @@
       "Nickname": "Mir Kainan",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n5\"   6     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Soulreaper Axe[-]\r\n1\"     A:4    H:3+   W:3+   R:-2   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6106,6 +6621,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6158,9 +6678,9 @@
         "posX": -21.4322834,
         "posY": 1.481499,
         "posZ": 61.7107277,
-        "rotX": -1.42083741E-06,
-        "rotY": 0.0282218549,
-        "rotZ": -3.57763861E-06,
+        "rotX": 2.26993944E-08,
+        "rotY": 0.0282222945,
+        "rotZ": 1.11912833E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6168,6 +6688,11 @@
       "Nickname": "Senha - Kainan's Reapers",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"   1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:3    H:3+   W:4+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6228,6 +6753,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6278,11 +6808,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -20.4322948,
-        "posY": 1.481499,
+        "posY": 1.48149872,
         "posZ": 61.7107277,
-        "rotX": 1.16092019E-06,
-        "rotY": 0.0286162514,
-        "rotZ": 6.66797951E-06,
+        "rotX": 2.34405275E-06,
+        "rotY": 0.0286171623,
+        "rotZ": -2.99404E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6290,6 +6820,11 @@
       "Nickname": "Nohem - Kainan's Reapers",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"   1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Bow[-]\r\n18\"     A:1    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Dagger[-]\r\n1\"     A:1    H:3+   W:4+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6350,6 +6885,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6402,9 +6942,9 @@
         "posX": -22.4321041,
         "posY": 1.481499,
         "posZ": 61.7131271,
-        "rotX": 1.16801484E-05,
+        "rotX": -7.369592E-07,
         "rotY": 359.9903,
-        "rotZ": -1.43149259E-06,
+        "rotZ": 1.63867469E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6412,6 +6952,11 @@
       "Nickname": "Binar Khenta - Kainan's Reapers",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"   1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Halberd[-]\r\n2\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6472,6 +7017,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6524,9 +7074,9 @@
         "posX": -23.432272,
         "posY": 1.481499,
         "posZ": 61.71072,
-        "rotX": 2.86216641E-06,
-        "rotY": 0.0107944338,
-        "rotZ": 2.97533376E-07,
+        "rotX": 4.45906E-06,
+        "rotY": 0.0107940882,
+        "rotZ": -5.057853E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6534,6 +7084,11 @@
       "Nickname": "Hakor - Kainan's Reapers",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"   1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6594,6 +7149,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6646,9 +7206,9 @@
         "posX": -19.4321575,
         "posY": 1.481499,
         "posZ": 61.71173,
-        "rotX": -3.37595861E-06,
-        "rotY": 0.0160682015,
-        "rotZ": 1.33345637E-07,
+        "rotX": 5.785792E-07,
+        "rotY": 0.0160683561,
+        "rotZ": -5.239288E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6656,6 +7216,11 @@
       "Nickname": "Karu - Kainan's Reapers",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"   1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Club[-]\r\n1\"     A:2    H:3+   W:4+   R:-2   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6716,6 +7281,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6766,11 +7336,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -13.0000019,
-        "posY": 1.48150706,
+        "posY": 1.48150718,
         "posZ": 63.5,
-        "rotX": 1.00335342E-06,
-        "rotY": 0.02429772,
-        "rotZ": -8.054253E-06,
+        "rotX": -1.83869668E-06,
+        "rotY": 0.0243308581,
+        "rotZ": -9.740414E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6778,6 +7348,11 @@
       "Nickname": "Nagash, Supreme Lord of the Undead",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n9\"    16    10    3+    \r\n[e85545]Weapons[-]\r\n[c6c930]Gaze of Nagash[-]\r\n12\"    A:1    H:3+   W:2+   R:-1   D:D6  \r\n[c6c930]Alakanash[-]\r\n3\"     A:1    H:3+   W:2+   R:-3   D:D6  \r\n[c6c930]Zefet-nebtar[-]\r\n2\"     A:*    H:3+   W:3+   R:-2   D:3   \r\n[c6c930]Spectral Claws and Daggers[-]\r\n1\"     A:6    H:5+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6838,6 +7413,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6890,9 +7470,9 @@
         "posX": -24.25,
         "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": -2.2152733E-06,
-        "rotY": 0.005825903,
-        "rotZ": -1.47509866E-07,
+        "rotX": -2.01580747E-06,
+        "rotY": 0.00582590466,
+        "rotZ": -8.79901E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6900,6 +7480,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6960,6 +7545,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7012,9 +7602,9 @@
         "posX": -20.75,
         "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": 1.23955351E-06,
-        "rotY": 0.00158061541,
-        "rotZ": 1.237192E-06,
+        "rotX": 1.89659545E-06,
+        "rotY": 0.00158082659,
+        "rotZ": -2.23479014E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7022,6 +7612,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -7082,6 +7677,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7134,9 +7734,9 @@
         "posX": -21.75,
         "posY": 1.481499,
         "posZ": 3.25,
-        "rotX": 3.33499855E-07,
-        "rotY": 0.00155899767,
-        "rotZ": 3.98543364E-07,
+        "rotX": -4.87584748E-06,
+        "rotY": 0.00154874311,
+        "rotZ": -6.58987E-11,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -7144,6 +7744,11 @@
       "Nickname": "Mortek Guard",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n4\"    1     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Nadirite Blade[-]\r\n1\"     A:2    H:3+   W:4+   R:-1   D:1   \r\n[c6c930]Nadirite Spear[-]\r\n2\"     A:2    H:3+   W:4+   R:-    D:1   \r\n[c6c930]Soulcleaver Greatblade[-]\r\n1\"     A:2    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -7204,6 +7809,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7266,6 +7876,11 @@
       "Nickname": "Base Size Chart",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -7318,6 +7933,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -7365,12 +7985,12 @@
       "GUID": "7b4f07",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -56.08526,
-        "posY": 1.98153162,
+        "posX": -56.0852623,
+        "posY": 1.981499,
         "posZ": 58.00204,
-        "rotX": 0.00010858554,
-        "rotY": 2.13725912E-06,
-        "rotZ": -0.00030414018,
+        "rotX": -7.82040559E-07,
+        "rotY": 2.09458926E-06,
+        "rotZ": -1.44118212E-06,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -7378,6 +7998,11 @@
       "Nickname": "Arch-Kavalos Zandtos",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -7431,6 +8056,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7487,6 +8117,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7547,6 +8182,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7607,6 +8247,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7667,6 +8312,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7727,6 +8377,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7791,6 +8446,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7843,12 +8503,12 @@
       "GUID": "e9a1a9",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -46.9764748,
-        "posY": 1.9815315,
+        "posX": -46.97648,
+        "posY": 1.981499,
         "posZ": 58.26275,
-        "rotX": 8.49692E-05,
-        "rotY": -0.0028329757,
-        "rotZ": -0.000307254348,
+        "rotX": -3.81843137E-07,
+        "rotY": -0.00283299969,
+        "rotZ": 2.61257E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -7856,6 +8516,11 @@
       "Nickname": "Arkhan the Black, Mortarch of Sacrament",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -7909,6 +8574,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7965,6 +8635,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8025,6 +8700,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8085,6 +8765,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8145,6 +8830,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8205,6 +8895,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8269,6 +8964,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8324,9 +9024,9 @@
         "posX": -38.9502754,
         "posY": 1.981499,
         "posZ": 57.8627243,
-        "rotX": -4.41869275E-07,
-        "rotY": -0.00132820813,
-        "rotZ": -1.83961515E-06,
+        "rotX": -9.571557E-07,
+        "rotY": -0.0013282377,
+        "rotZ": 5.031628E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -8334,6 +9034,11 @@
       "Nickname": "Katakros, Mortarch of the Necropolis ",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -8387,6 +9092,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8443,6 +9153,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8503,6 +9218,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8563,6 +9283,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8623,6 +9348,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8683,6 +9413,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8747,6 +9482,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8800,11 +9540,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -30.3036137,
-        "posY": 1.9815408,
+        "posY": 1.981499,
         "posZ": 57.8632278,
-        "rotX": -4.02364367E-06,
-        "rotY": -0.00265153148,
-        "rotZ": 2.922927E-05,
+        "rotX": 1.62252263E-06,
+        "rotY": -0.00265155127,
+        "rotZ": 3.78908339E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -8812,6 +9552,11 @@
       "Nickname": "Mir Kainan",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -8865,6 +9610,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8921,6 +9671,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8981,6 +9736,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9041,6 +9801,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9101,6 +9866,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9161,6 +9931,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9225,6 +10000,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9280,9 +10060,9 @@
         "posX": -21.8077526,
         "posY": 1.981499,
         "posZ": 58.0629768,
-        "rotX": -7.08692937E-07,
-        "rotY": -0.00132874947,
-        "rotZ": 3.63097456E-07,
+        "rotX": -1.18379241E-07,
+        "rotY": -0.00132876367,
+        "rotZ": -6.911672E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -9290,6 +10070,11 @@
       "Nickname": "Kainan’s Reapers",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -9343,6 +10128,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9399,6 +10189,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9459,6 +10254,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9519,6 +10319,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9579,6 +10384,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9639,6 +10449,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9703,6 +10518,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9758,9 +10578,9 @@
         "posX": -14.4678974,
         "posY": 1.981499,
         "posZ": 57.9630661,
-        "rotX": -6.00298051E-07,
-        "rotY": -0.00134305155,
-        "rotZ": -2.74785464E-07,
+        "rotX": -3.43502279E-07,
+        "rotY": -0.0013430746,
+        "rotZ": 1.08667088E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -9768,6 +10588,11 @@
       "Nickname": "Nagash, Supreme Lord of the Undead",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -9821,6 +10646,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9877,6 +10707,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9937,6 +10772,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9997,6 +10837,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10057,6 +10902,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10117,6 +10967,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10181,6 +11036,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10233,12 +11093,12 @@
       "GUID": "6acaaa",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -4.62716055,
-        "posY": 1.98153162,
+        "posX": -4.62716341,
+        "posY": 1.981499,
         "posZ": 58.263237,
-        "rotX": 0.000106615473,
-        "rotY": -0.000277519866,
-        "rotZ": -0.000305374153,
+        "rotX": 1.23730786E-06,
+        "rotY": -0.0002748472,
+        "rotZ": -5.90598681E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -10246,6 +11106,11 @@
       "Nickname": "Vokmortian, Master of the Bone-tithe ",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -10299,6 +11164,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10355,6 +11225,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10415,6 +11290,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10475,6 +11355,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10535,6 +11420,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10595,6 +11485,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10659,6 +11554,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10714,9 +11614,9 @@
         "posX": -55.3586655,
         "posY": 1.981499,
         "posZ": 18.457798,
-        "rotX": 7.520576E-07,
-        "rotY": -0.00135827635,
-        "rotZ": 7.220006E-07,
+        "rotX": -3.40169549E-07,
+        "rotY": -0.00135829661,
+        "rotZ": 3.974377E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -10724,6 +11624,11 @@
       "Nickname": "Liege-Kavalos",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -10777,6 +11682,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10833,6 +11743,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10893,6 +11808,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10953,6 +11873,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11013,6 +11938,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11073,6 +12003,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11137,6 +12072,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11192,9 +12132,9 @@
         "posX": -46.4403534,
         "posY": 1.981499,
         "posZ": 19.0010223,
-        "rotX": -3.88518856E-07,
-        "rotY": -0.00246986421,
-        "rotZ": -1.7206072E-06,
+        "rotX": -6.736638E-07,
+        "rotY": -0.00246990984,
+        "rotZ": 9.27186861E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -11202,6 +12142,11 @@
       "Nickname": "Mortisan Boneshaper",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -11255,6 +12200,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11311,6 +12261,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11371,6 +12326,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11431,6 +12391,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11491,6 +12456,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11551,6 +12521,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11615,6 +12590,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11670,9 +12650,9 @@
         "posX": -38.10335,
         "posY": 1.981499,
         "posZ": 18.6901321,
-        "rotX": 1.08223969E-06,
-        "rotY": -0.00219319225,
-        "rotZ": 7.739455E-08,
+        "rotX": -4.03527423E-07,
+        "rotY": -0.00219321926,
+        "rotZ": 7.22952E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -11680,6 +12660,11 @@
       "Nickname": "Mortisan Soulmason",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -11733,6 +12718,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11789,6 +12779,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11849,6 +12844,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11909,6 +12909,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11969,6 +12974,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12029,6 +13039,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12093,6 +13108,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12148,9 +13168,9 @@
         "posX": -29.5848751,
         "posY": 1.981499,
         "posZ": 18.3032646,
-        "rotX": 6.838289E-08,
-        "rotY": -0.00135677308,
-        "rotZ": -5.881522E-07,
+        "rotX": -8.08746563E-07,
+        "rotY": -0.00135679916,
+        "rotZ": 6.322578E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -12158,6 +13178,11 @@
       "Nickname": "Mortisan Soulreaper",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -12211,6 +13236,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12267,6 +13297,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12327,6 +13362,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12387,6 +13427,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12447,6 +13492,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12507,6 +13557,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12571,6 +13626,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12626,9 +13686,9 @@
         "posX": -55.2686577,
         "posY": 1.981499,
         "posZ": -2.49838376,
-        "rotX": 5.819632E-07,
-        "rotY": -0.00134307891,
-        "rotZ": 1.47270532E-06,
+        "rotX": 1.33544766E-08,
+        "rotY": -0.001339698,
+        "rotZ": -5.879111E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -12636,6 +13696,11 @@
       "Nickname": "Immortis Guard",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -12689,6 +13754,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12745,6 +13815,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12805,6 +13880,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12865,6 +13945,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12925,6 +14010,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12985,6 +14075,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13049,6 +14144,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13104,9 +14204,9 @@
         "posX": -45.733593,
         "posY": 1.981499,
         "posZ": -2.03334641,
-        "rotX": -1.95087068E-07,
-        "rotY": -0.00193360867,
-        "rotZ": -1.00212176E-07,
+        "rotX": 7.754141E-07,
+        "rotY": -0.00193076977,
+        "rotZ": -2.90213336E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -13114,6 +14214,11 @@
       "Nickname": "Kavalos Deathriders",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -13167,6 +14272,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13223,6 +14333,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13283,6 +14398,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13343,6 +14463,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13403,6 +14528,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13463,6 +14593,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13527,6 +14662,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13582,9 +14722,9 @@
         "posX": -36.5508728,
         "posY": 1.981499,
         "posZ": -2.366051,
-        "rotX": -7.620428E-07,
-        "rotY": -0.00134378,
-        "rotZ": -8.81553262E-07,
+        "rotX": 3.0684032E-07,
+        "rotY": -0.00134096551,
+        "rotZ": -7.166594E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -13592,6 +14732,11 @@
       "Nickname": "Morghast Archai",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -13645,6 +14790,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13701,6 +14851,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13761,6 +14916,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13821,6 +14981,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13881,6 +15046,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13941,6 +15111,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14005,6 +15180,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14060,9 +15240,9 @@
         "posX": -29.7629242,
         "posY": 1.981499,
         "posZ": -1.833061,
-        "rotX": -1.267176E-07,
-        "rotY": -0.00210133428,
-        "rotZ": -3.75246074E-08,
+        "rotX": 1.50093086E-07,
+        "rotY": -0.00209762435,
+        "rotZ": -6.706873E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -14070,6 +15250,11 @@
       "Nickname": "Morghast Harbingers",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -14123,6 +15308,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14179,6 +15369,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14239,6 +15434,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14299,6 +15499,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14359,6 +15564,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14419,6 +15629,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14483,6 +15698,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14538,9 +15758,9 @@
         "posX": -21.4743671,
         "posY": 1.981499,
         "posZ": -2.16652322,
-        "rotX": 2.08444746E-07,
-        "rotY": -0.0013495516,
-        "rotZ": 6.156549E-07,
+        "rotX": 1.02721026E-06,
+        "rotY": -0.00134672038,
+        "rotZ": -5.36226E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -14548,6 +15768,11 @@
       "Nickname": "Mortek Guard",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -14601,6 +15826,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14657,6 +15887,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14717,6 +15952,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14777,6 +16017,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14837,6 +16082,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14897,6 +16147,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14961,6 +16216,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15016,9 +16276,9 @@
         "posX": -11.878171,
         "posY": 1.981499,
         "posZ": -1.698838,
-        "rotX": 5.15280533E-07,
-        "rotY": -0.00190230692,
-        "rotZ": -4.81373149E-07,
+        "rotX": -1.833007E-08,
+        "rotY": -0.0018968872,
+        "rotZ": 5.73463161E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -15026,6 +16286,11 @@
       "Nickname": "Necropolis Stalkers",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -15079,6 +16344,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15135,6 +16405,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15195,6 +16470,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15255,6 +16535,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15315,6 +16600,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15375,6 +16665,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15439,6 +16734,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15492,11 +16792,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -55.3741875,
-        "posY": 1.98153257,
+        "posY": 1.981499,
         "posZ": -22.754446,
-        "rotX": 1.57417912E-06,
-        "rotY": -0.00243335823,
-        "rotZ": 2.2020984E-05,
+        "rotX": 1.33562166E-08,
+        "rotY": -0.00243339385,
+        "rotZ": -7.251018E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -15504,6 +16804,11 @@
       "Nickname": "Mortek Crawler",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -15557,6 +16862,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15613,6 +16923,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15673,6 +16988,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15733,6 +17053,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15793,6 +17118,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15853,6 +17183,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15917,6 +17252,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15972,9 +17312,9 @@
         "posX": -55.68232,
         "posY": 1.981499,
         "posZ": -41.65799,
-        "rotX": 8.287648E-07,
-        "rotY": -0.00134762377,
-        "rotZ": 5.899479E-07,
+        "rotX": 6.336652E-07,
+        "rotY": -0.00134766381,
+        "rotZ": 4.811688E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -15982,6 +17322,11 @@
       "Nickname": "Gothizzar Harvester",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -16035,6 +17380,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -16091,6 +17441,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16151,6 +17506,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16211,6 +17571,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16271,6 +17636,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16331,6 +17701,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16395,6 +17770,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -16448,11 +17828,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -56.4774933,
-        "posY": 1.981499,
+        "posY": 1.98149884,
         "posZ": -61.8960876,
-        "rotX": -5.502752E-07,
-        "rotY": -0.00137126585,
-        "rotZ": 8.998285E-08,
+        "rotX": -4.53557419E-07,
+        "rotY": -0.00137128751,
+        "rotZ": -4.87418426E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -16460,6 +17840,11 @@
       "Nickname": "Bone-tithe Nexus",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -16513,6 +17898,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -16569,6 +17959,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16629,6 +18024,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16689,6 +18089,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16749,6 +18154,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16809,6 +18219,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16873,6 +18288,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -16928,9 +18348,9 @@
         "posX": -46.9094734,
         "posY": 1.981499,
         "posZ": -61.0279541,
-        "rotX": 3.31796855E-07,
-        "rotY": 0.00134292676,
-        "rotZ": 9.894892E-07,
+        "rotX": -3.335375E-07,
+        "rotY": 0.00134289847,
+        "rotZ": 7.160816E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -16938,6 +18358,11 @@
       "Nickname": "Bone-tithe Shrieker",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -16991,6 +18416,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -17047,6 +18477,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17107,6 +18542,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17167,6 +18607,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17227,6 +18672,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17287,6 +18737,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17351,6 +18806,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -17406,9 +18866,9 @@
         "posX": -37.98827,
         "posY": 1.981499,
         "posZ": -61.21924,
-        "rotX": 8.170338E-07,
-        "rotY": 0.00198074686,
-        "rotZ": 1.08059612E-06,
+        "rotX": 3.101565E-07,
+        "rotY": 0.001980725,
+        "rotZ": -2.6675778E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -17416,6 +18876,11 @@
       "Nickname": "Nightmare Predator",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -17469,6 +18934,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -17525,6 +18995,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17585,6 +19060,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17645,6 +19125,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17705,6 +19190,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17765,6 +19255,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -17829,6 +19324,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -17884,9 +19384,9 @@
         "posX": -29.5402851,
         "posY": 1.981499,
         "posZ": -61.3424835,
-        "rotX": 2.716417E-06,
-        "rotY": -0.002258365,
-        "rotZ": -7.88324371E-07,
+        "rotX": 1.911001E-06,
+        "rotY": -0.00225837459,
+        "rotZ": 4.61125431E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -17894,6 +19394,11 @@
       "Nickname": "Soulstealer Carrion",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -17947,6 +19452,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -18003,6 +19513,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -18063,6 +19578,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -18123,6 +19643,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -18183,6 +19708,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -18243,6 +19773,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -18307,6 +19842,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -18346,6 +19886,138 @@
               "SpecularIntensity": 0.05,
               "SpecularSharpness": 4.0,
               "FresnelStrength": 0.104938753
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "6a16e0",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -21.7588558,
+        "posY": 1.48149872,
+        "posZ": 22.576561,
+        "rotX": 9.981077E-07,
+        "rotY": 0.03125159,
+        "rotZ": -3.406848E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Mortisan Ossifector",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756671254/2AE581B0BE485651AA256C15AFFBD24D2536C703/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "ccaeb7",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.007260099,
+            "posY": 0.127396092,
+            "posZ": 0.001037054,
+            "rotX": -0.0005408959,
+            "rotY": 265.9262,
+            "rotZ": -9.73617352E-05,
+            "scaleX": 0.7750002,
+            "scaleY": 0.7750002,
+            "scaleZ": 0.7750002
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2029475697127147206/BA3EAD1BBA0FD3BBC9B47AA821F2B482410919E1/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2029475697127147307/CAEA7B2D23EBBEA16A61E37D28D1802018C64265/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
             },
             "CastShadows": true
           },
