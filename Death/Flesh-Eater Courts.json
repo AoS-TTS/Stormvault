@@ -1,8 +1,8 @@
 {
   "SaveName": "Flesh-Eater Courts",
-  "EpochTime": 1653816507,
-  "Date": "5/29/2022 10:28:27 AM",
-  "VersionNumber": "v13.1.1",
+  "EpochTime": 1685398678,
+  "Date": "5/30/2023 12:17:58 AM",
+  "VersionNumber": "v13.2.2",
   "GameMode": "FLESH EATER COURTS",
   "GameType": "",
   "GameComplexity": "",
@@ -493,6 +493,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -535,6 +540,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -582,6 +592,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -629,6 +644,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -676,6 +696,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -723,6 +748,11 @@
       "Nickname": "Flex Table Control",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -764,6 +794,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -811,6 +846,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -858,6 +898,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -905,6 +950,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -952,6 +1002,11 @@
       "Nickname": "ARTILLERY",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1003,6 +1058,11 @@
       "Nickname": "Aura Indicator Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1055,6 +1115,11 @@
       "Nickname": "Aura Indicator Guide",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1091,7 +1156,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -55.0,
-        "rotX": -9.36194855E-09,
+        "rotX": -9.36195E-09,
         "rotY": 179.982147,
         "rotZ": 3.81626331E-09,
         "scaleX": 2.69600368,
@@ -1101,6 +1166,11 @@
       "Nickname": "Endless Spells / Invocations / Faction Scenery",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1143,9 +1213,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": -35.0,
-        "rotX": 1.40883287E-08,
+        "rotX": 1.40883323E-08,
         "rotY": 179.977539,
-        "rotZ": 2.7688285E-09,
+        "rotZ": 2.768829E-09,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1153,6 +1223,11 @@
       "Nickname": "Monsters",
       "Description": "Behemoths that are not Leaders",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1197,7 +1272,7 @@
         "posZ": -43.0,
         "rotX": 3.891783E-07,
         "rotY": 180.0159,
-        "rotZ": -4.810196E-08,
+        "rotZ": -4.81019669E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1205,6 +1280,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1246,9 +1326,9 @@
         "posX": -65.0,
         "posY": 1.482724,
         "posZ": -63.0,
-        "rotX": 5.59494744E-08,
+        "rotX": 5.594949E-08,
         "rotY": 180.016052,
-        "rotZ": 9.341123E-08,
+        "rotZ": 9.3411245E-08,
         "scaleX": 1.22499967,
         "scaleY": 1.22499967,
         "scaleZ": 1.22499967
@@ -1256,6 +1336,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1307,6 +1392,11 @@
       "Nickname": "Artillery",
       "Description": "Artillery Units",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1349,9 +1439,9 @@
         "posX": -65.0,
         "posY": 1.482824,
         "posZ": -2.0,
-        "rotX": -1.02699914E-07,
+        "rotX": -1.02699929E-07,
         "rotY": 180.016037,
-        "rotZ": -5.07396756E-08,
+        "rotZ": -5.07396827E-08,
         "scaleX": 1.32499957,
         "scaleY": 1.32499957,
         "scaleZ": 1.32499957
@@ -1359,6 +1449,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1410,6 +1505,11 @@
       "Nickname": "ARTILLERY",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1451,7 +1551,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 5.0,
-        "rotX": -1.33875462E-08,
+        "rotX": -1.338755E-08,
         "rotY": 179.982178,
         "rotZ": -3.07197645E-08,
         "scaleX": 2.69600368,
@@ -1461,6 +1561,11 @@
       "Nickname": "Troops",
       "Description": "A Unit that is not Leader, Artillery or Behemoth.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1503,7 +1608,7 @@
         "posX": -65.0,
         "posY": 1.53149915,
         "posZ": 45.0,
-        "rotX": 3.088483E-08,
+        "rotX": 3.08848378E-08,
         "rotY": 180.031479,
         "rotZ": -3.70051545E-08,
         "scaleX": 2.69600368,
@@ -1513,6 +1618,11 @@
       "Nickname": "Commanders",
       "Description": "Leaders",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1555,7 +1665,7 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 25.0,
-        "rotX": -1.30518014E-08,
+        "rotX": -1.30518032E-08,
         "rotY": 179.9827,
         "rotZ": -2.24342234E-08,
         "scaleX": 2.69600368,
@@ -1565,6 +1675,11 @@
       "Nickname": "Sub-commanders",
       "Description": "Leaders with a Wounds\r\ncharacteristic of less\r\nthan 10.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1617,6 +1732,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1668,6 +1788,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1709,9 +1834,9 @@
         "posX": -65.0,
         "posY": 1.53149891,
         "posZ": 65.0,
-        "rotX": -1.33042466E-08,
+        "rotX": -1.33042484E-08,
         "rotY": 180.027863,
-        "rotZ": 1.46700669E-08,
+        "rotZ": 1.46700705E-08,
         "scaleX": 2.69600368,
         "scaleY": 1.0,
         "scaleZ": 2.69600368
@@ -1719,6 +1844,11 @@
       "Nickname": "Characters",
       "Description": "Unique Single Models.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -1771,6 +1901,11 @@
       "Nickname": "Text Tool",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1812,9 +1947,9 @@
         "posX": -47.25,
         "posY": 1.48150706,
         "posZ": -36.25,
-        "rotX": -3.485438E-07,
-        "rotY": 0.0245150421,
-        "rotZ": -7.650687E-06,
+        "rotX": 1.49924813E-06,
+        "rotY": 0.0245150384,
+        "rotZ": -8.457375E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1822,6 +1957,11 @@
       "Nickname": "Royal Zombie Dragon",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Pestilential Breath[-]\r\n9\"     A:1    H:3+   W:*    R:-3   D:D6  \r\n[c6c930]Snapping Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  \r\n[c6c930]Sword-like Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1882,6 +2022,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -1919,11 +2064,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -55.7500038,
-        "posY": 1.48150718,
+        "posY": 1.48150706,
         "posZ": -36.25,
-        "rotX": 2.82809879E-06,
-        "rotY": -0.0003791432,
-        "rotZ": -7.847389E-06,
+        "rotX": 1.46715422E-07,
+        "rotY": -0.0003791244,
+        "rotZ": -8.137531E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -1931,6 +2076,11 @@
       "Nickname": "Royal Terrorgheist",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Shriek[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Skeletal Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Fanged Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -1991,6 +2141,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2028,11 +2183,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -55.75,
-        "posY": 1.48150718,
+        "posY": 1.48150706,
         "posZ": 44.25,
-        "rotX": -3.168341E-06,
-        "rotY": -0.0005288594,
-        "rotZ": -8.804525E-06,
+        "rotX": 6.45663476E-06,
+        "rotY": -0.0005544726,
+        "rotZ": -5.869725E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2040,6 +2195,11 @@
       "Nickname": "Abhorrant Ghoul King on Royal Terrorgheist",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Shriek[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Gory Talons and Fangs[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:1  \r\n[c6c930]Skeletal Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Fanged Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2100,6 +2260,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2147,6 +2312,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2189,9 +2359,9 @@
         "posX": -47.0,
         "posY": 1.48150706,
         "posZ": 44.0000153,
-        "rotX": -2.04574371E-06,
-        "rotY": 0.0244239569,
-        "rotZ": -9.285225E-06,
+        "rotX": 8.28582E-06,
+        "rotY": 0.0244237427,
+        "rotZ": -7.25531E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2199,6 +2369,11 @@
       "Nickname": "Abhorrant Ghoul King on Royal Zombie Dragon",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n*     14    10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Pestilential Breath[-]\r\n9\"     A:1    H:3+   W:*    R:-3   D:D6  \r\n[c6c930]Gory Talons and Fangs[-]\r\n1\"     A:5    H:3+   W:3+   R:-1   D:1  \r\n[c6c930]Snapping Maw[-]\r\n3\"     A:3    H:4+   W:3+   R:-2   D:D6  \r\n[c6c930]Sword-like Claws[-]\r\n2\"     A:*    H:4+   W:3+   R:-1   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2259,6 +2434,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2306,6 +2486,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2348,9 +2533,9 @@
         "posX": -56.0,
         "posY": 1.481499,
         "posZ": -56.5,
-        "rotX": 1.13020019E-06,
+        "rotX": 1.13215924E-06,
         "rotY": 90.0054855,
-        "rotZ": -1.010168E-06,
+        "rotZ": -9.51036668E-07,
         "scaleX": 4.44106865,
         "scaleY": 3.51856422,
         "scaleZ": 4.377313
@@ -2358,6 +2543,11 @@
       "Nickname": "Charnel Throne",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.9999998,
         "g": 0.992162049,
@@ -2408,9 +2598,9 @@
         "posX": -29.997757,
         "posY": 1.481499,
         "posZ": -57.0021744,
-        "rotX": -8.17927E-08,
+        "rotX": 1.36074709E-06,
         "rotY": 270.012,
-        "rotZ": -6.958411E-07,
+        "rotZ": 9.06854538E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2418,6 +2608,11 @@
       "Nickname": "Corpsemare Stampede",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2478,6 +2673,11 @@
           "Nickname": "Corpsemare Stampede",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2515,11 +2715,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -38.75,
-        "posY": 1.49194,
+        "posY": 1.49194026,
         "posZ": -56.75,
-        "rotX": 9.766746E-06,
-        "rotY": 0.0307772961,
-        "rotZ": -1.524568E-07,
+        "rotX": 6.93461425E-06,
+        "rotY": 0.0307781436,
+        "rotZ": -3.86346437E-06,
         "scaleX": 0.975,
         "scaleY": 0.975,
         "scaleZ": 0.975
@@ -2527,6 +2727,11 @@
       "Nickname": "Chalice of Ushoran",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2587,6 +2792,11 @@
           "Nickname": "Chalice of ushoran",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.847058833,
             "g": 0.847058833,
@@ -2637,6 +2847,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2676,9 +2891,9 @@
         "posX": -55.5,
         "posY": 1.48149884,
         "posZ": 62.0,
-        "rotX": 2.66513234E-06,
-        "rotY": 0.0342191532,
-        "rotZ": 4.63107745E-06,
+        "rotX": -2.73940668E-06,
+        "rotY": 0.0342192464,
+        "rotZ": 1.760363E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2686,6 +2901,11 @@
       "Nickname": "Duke Crakmarrow",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Halberd[-]\r\n2\"     A:3    H:3+   W:3+   R:-1   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2746,6 +2966,11 @@
           "Nickname": "Crypt Ghoul",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2796,11 +3021,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -50.0,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 62.0,
-        "rotX": 3.85506974E-06,
+        "rotX": -3.935084E-07,
         "rotY": 0.0342194065,
-        "rotZ": 8.44919668E-07,
+        "rotZ": -9.3499E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2808,6 +3033,11 @@
       "Nickname": "Gristlewel, Greatsword",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Bone Weapons and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   \r\n[c6c930]Fangs[-]\r\n1\"     A:D6   H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2868,6 +3098,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -2908,11 +3143,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -55.5,
-        "posY": 1.48149884,
+        "posY": 1.486723,
         "posZ": 23.0,
-        "rotX": -1.94548261E-06,
-        "rotY": 0.0336352624,
-        "rotZ": 4.24453947E-06,
+        "rotX": 2.93123048E-06,
+        "rotY": 0.03370699,
+        "rotZ": -1.876773E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -2920,6 +3155,11 @@
       "Nickname": "Abhorrant Archregent",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    7     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Gory Talons and Fangs[-]\r\n1\"     A:7    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -2980,6 +3220,11 @@
           "Nickname": "Abhorrant Archregent 7/7",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.9999998,
             "g": 0.992162049,
@@ -3032,9 +3277,9 @@
         "posX": -46.99994,
         "posY": 1.481499,
         "posZ": 23.00006,
-        "rotX": -2.38943E-06,
-        "rotY": -0.000134896225,
-        "rotZ": -9.437573E-07,
+        "rotX": 2.45214675E-08,
+        "rotY": -0.000172462256,
+        "rotZ": 1.19456877E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3042,6 +3287,11 @@
       "Nickname": "Abhorrant Ghoul King",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    6     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Gory Talons and Fangs[-]\r\n1\"     A:6    H:3+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3102,6 +3352,11 @@
           "Nickname": "Abhorrant Ghoul king 6/6",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.9999998,
             "g": 0.992162049,
@@ -3164,6 +3419,11 @@
       "Nickname": "Crypt Haunter Courtier",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    6     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Massive Bone Club[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:3   \r\n[c6c930]Rancid Talons[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3224,6 +3484,11 @@
           "Nickname": "Crypt haunter coutier 6/6",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3276,9 +3541,9 @@
         "posX": -28.5,
         "posY": 1.48149884,
         "posZ": 23.0,
-        "rotX": 1.50379446E-06,
-        "rotY": 0.030542776,
-        "rotZ": -1.38531379E-06,
+        "rotX": 2.9770647E-06,
+        "rotY": 0.030542789,
+        "rotZ": 1.03174182E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3286,6 +3551,11 @@
       "Nickname": "Crypt Haunter Courtier",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    6     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Massive Bone Club[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:3   \r\n[c6c930]Rancid Talons[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3346,6 +3616,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3388,9 +3663,9 @@
         "posX": -21.5,
         "posY": 1.48149884,
         "posZ": 23.0,
-        "rotX": 2.78750986E-06,
-        "rotY": 0.0307781175,
-        "rotZ": 2.21522419E-06,
+        "rotX": 1.2693389E-06,
+        "rotY": 0.0307779871,
+        "rotZ": -1.30699982E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3398,6 +3673,11 @@
       "Nickname": "Crypt Infernal Courtier",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   6     10    4+    \r\n[e85545]Weapons[-]\r\n[c6c930]Foetid Breath[-]\r\n9\"     A:1    H:4+   W:3+   R:-1   D:D3  \r\n[c6c930]Skewering Talons[-]\r\n1\"     A:5    H:4+   W:3+   R:-1   D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3458,6 +3738,11 @@
           "Nickname": "Crypt Infernal Courtier",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3497,9 +3782,9 @@
         "posX": -13.0,
         "posY": 1.481499,
         "posZ": 23.0,
-        "rotX": -2.021961E-08,
-        "rotY": 8.537597E-05,
-        "rotZ": 1.14225577E-06,
+        "rotX": -7.545629E-08,
+        "rotY": 8.708384E-05,
+        "rotZ": 9.371499E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3507,6 +3792,11 @@
       "Nickname": "Varghulf Courtier",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n10\"   8     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Immense Claws[-]\r\n2\"     A:4    H:3+   W:3+   R:-1   D:2   \r\n[c6c930]Dagger-like Fangs[-]\r\n1\"     A:1    H:3+   W:2+   R:-2   D:D3  ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3567,6 +3857,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3609,9 +3904,9 @@
         "posX": -38.5,
         "posY": 1.481499,
         "posZ": 23.0,
-        "rotX": -1.99475835E-06,
+        "rotX": -1.71211025E-06,
         "rotY": 0.0160543937,
-        "rotZ": 2.83118038E-06,
+        "rotZ": 2.81454481E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3619,6 +3914,11 @@
       "Nickname": "Crypt Ghast Courtier",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Bone Club[-]\r\n1\"     A:3    H:3+   W:3+   R:-    D:1   \r\n[c6c930]Filthy Claws[-]\r\n1\"     A:2    H:4+   W:3+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3679,6 +3979,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3721,9 +4026,9 @@
         "posX": -53.4997368,
         "posY": 1.48149908,
         "posZ": 5.50181675,
-        "rotX": 9.34057454E-08,
+        "rotX": -8.277079E-07,
         "rotY": 359.965271,
-        "rotZ": 8.001298E-08,
+        "rotZ": -2.02746151E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3731,6 +4036,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3791,6 +4101,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3833,9 +4148,9 @@
         "posX": -55.5222549,
         "posY": 1.481499,
         "posZ": 3.48935986,
-        "rotX": -1.9476397E-06,
-        "rotY": -0.00229845988,
-        "rotZ": 1.56084388E-06,
+        "rotX": 2.93506361E-07,
+        "rotY": -0.00229847385,
+        "rotZ": 1.08055133E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3843,6 +4158,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -3903,6 +4223,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -3945,9 +4270,9 @@
         "posX": -57.5,
         "posY": 1.481499,
         "posZ": 3.5,
-        "rotX": -1.3350184E-06,
-        "rotY": 0.00195338554,
-        "rotZ": 2.12378453E-07,
+        "rotX": -1.38838493E-06,
+        "rotY": 0.00195333245,
+        "rotZ": 2.13211308E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3955,6 +4280,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4015,6 +4345,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4055,11 +4390,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -53.5,
-        "posY": 1.48149872,
+        "posY": 1.481499,
         "posZ": 1.5,
-        "rotX": 7.46156843E-07,
-        "rotY": 0.00162215671,
-        "rotZ": 1.91984569E-07,
+        "rotX": -1.60480488E-06,
+        "rotY": 0.00161879836,
+        "rotZ": 8.7709634E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4067,6 +4402,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4127,6 +4467,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4169,9 +4514,9 @@
         "posX": -55.4992752,
         "posY": 1.481499,
         "posZ": 5.498407,
-        "rotX": 1.17493209E-06,
+        "rotX": 1.17477975E-06,
         "rotY": 359.963928,
-        "rotZ": -1.5795122E-07,
+        "rotZ": -8.187026E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4179,6 +4524,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4239,6 +4589,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4281,9 +4636,9 @@
         "posX": -57.5000038,
         "posY": 1.48149884,
         "posZ": 5.50000048,
-        "rotX": -7.461247E-07,
-        "rotY": 0.0166588351,
-        "rotZ": -4.97031465E-07,
+        "rotX": 2.14647187E-07,
+        "rotY": 0.01665886,
+        "rotZ": -6.073654E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4291,6 +4646,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4351,6 +4711,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4393,9 +4758,9 @@
         "posX": -53.5,
         "posY": 1.481499,
         "posZ": 3.49999952,
-        "rotX": -3.21674975E-07,
-        "rotY": -0.002271053,
-        "rotZ": 6.63682E-07,
+        "rotX": 9.601742E-07,
+        "rotY": -0.00227105757,
+        "rotZ": 1.55060931E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4403,6 +4768,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4463,6 +4833,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4505,9 +4880,9 @@
         "posX": -55.4998322,
         "posY": 1.481499,
         "posZ": 1.49026179,
-        "rotX": 1.38788766E-06,
-        "rotY": -0.0022781915,
-        "rotZ": -9.257533E-08,
+        "rotX": 1.38770361E-06,
+        "rotY": -0.002278138,
+        "rotZ": -5.00533872E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4515,6 +4890,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4575,6 +4955,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4617,9 +5002,9 @@
         "posX": -57.51291,
         "posY": 1.481499,
         "posZ": 1.48753548,
-        "rotX": -5.33591447E-07,
-        "rotY": -0.00229505962,
-        "rotZ": 8.53784343E-07,
+        "rotX": -5.06916365E-07,
+        "rotY": -0.00229506078,
+        "rotZ": 5.869796E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4627,6 +5012,11 @@
       "Nickname": "Crypt Flayer",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n12\"   4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Death Scream[-]\r\n10\"    A:1    H:*    W:*    R:*    D:*   \r\n[c6c930]Piercing Talons[-]\r\n1\"     A:4    H:4+   W:3+   R:-1   D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4687,6 +5077,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4729,9 +5124,9 @@
         "posX": -45.0,
         "posY": 1.481499,
         "posZ": 1.99999988,
-        "rotX": 4.196016E-06,
-        "rotY": 0.002397396,
-        "rotZ": 9.622949E-08,
+        "rotX": -4.004166E-06,
+        "rotY": 0.0023973966,
+        "rotZ": -1.64676555E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4739,6 +5134,11 @@
       "Nickname": "Crypt Ghoul",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Sharpened Teeth and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4799,6 +5199,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4841,9 +5246,9 @@
         "posX": -46.0,
         "posY": 1.481499,
         "posZ": 2.0,
-        "rotX": -6.04486161E-07,
-        "rotY": 0.00239739986,
-        "rotZ": 3.7017827E-07,
+        "rotX": -6.03246349E-07,
+        "rotY": 0.002392277,
+        "rotZ": 8.871117E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4851,6 +5256,11 @@
       "Nickname": "Crypt Ghoul",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Sharpened Teeth and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -4911,6 +5321,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -4951,11 +5366,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -47.0,
-        "posY": 1.481499,
+        "posY": 1.48149908,
         "posZ": 2.0,
-        "rotX": 2.27884948E-06,
+        "rotX": -5.77993251E-06,
         "rotY": 0.002452038,
-        "rotZ": 5.78578E-06,
+        "rotZ": 8.987286E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4963,6 +5378,11 @@
       "Nickname": "Crypt Ghoul",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Sharpened Teeth and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5023,6 +5443,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5065,9 +5490,9 @@
         "posX": -40.5,
         "posY": 1.481499,
         "posZ": 4.5,
-        "rotX": 2.98834084E-06,
+        "rotX": 3.01501177E-06,
         "rotY": 359.9896,
-        "rotZ": 1.46715229E-06,
+        "rotZ": 1.36042809E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5075,6 +5500,11 @@
       "Nickname": "Crypt Horror",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Club and Septic Talons[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5135,6 +5565,11 @@
           "Nickname": "1",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5174,9 +5609,9 @@
         "posX": -36.5,
         "posY": 1.481499,
         "posZ": 4.50000048,
-        "rotX": 3.9921737E-08,
+        "rotX": 1.06594548E-07,
         "rotY": 359.984833,
-        "rotZ": -7.47057243E-07,
+        "rotZ": -9.605095E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5184,6 +5619,11 @@
       "Nickname": "Crypt Horror",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Club and Septic Talons[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5244,6 +5684,11 @@
           "Nickname": "5",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5283,9 +5728,9 @@
         "posX": -38.5,
         "posY": 1.481499,
         "posZ": 2.49999976,
-        "rotX": -7.644459E-11,
-        "rotY": 0.008640184,
-        "rotZ": 1.01385626E-06,
+        "rotX": -2.67568723E-08,
+        "rotY": 0.008640186,
+        "rotZ": 1.01385422E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5293,6 +5738,11 @@
       "Nickname": "Crypt Horror",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Club and Septic Talons[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5353,6 +5803,11 @@
           "Nickname": "4/4 Crypt horror",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 0.847058833,
             "g": 0.847058833,
@@ -5403,11 +5858,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -40.5,
-        "posY": 1.481499,
+        "posY": 1.48149884,
         "posZ": 2.50000024,
-        "rotX": -5.3288403E-08,
-        "rotY": 0.00265937438,
-        "rotZ": -3.12161069E-06,
+        "rotX": 8.00389955E-07,
+        "rotY": 0.00263889879,
+        "rotZ": 9.871941E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5415,6 +5870,11 @@
       "Nickname": "Crypt Horror",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Club and Septic Talons[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5475,6 +5935,11 @@
           "Nickname": "4",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5524,6 +5989,11 @@
       "Nickname": "Crypt Horror",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Club and Septic Talons[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5584,6 +6054,11 @@
           "Nickname": "3",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5623,9 +6098,9 @@
         "posX": -38.5,
         "posY": 1.481499,
         "posZ": 4.5,
-        "rotX": 8.674365E-08,
+        "rotX": 8.007891E-08,
         "rotY": 359.988464,
-        "rotZ": 3.20156374E-07,
+        "rotZ": 3.7351785E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5633,6 +6108,11 @@
       "Nickname": "Crypt Horror",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n7\"    4     10    5+    \r\n[e85545]Weapons[-]\r\n[c6c930]Club and Septic Talons[-]\r\n1\"     A:3    H:4+   W:3+   R:-    D:2   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5693,6 +6173,11 @@
           "Nickname": "2",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5732,9 +6217,9 @@
         "posX": -48.0,
         "posY": 1.481499,
         "posZ": 1.99999988,
-        "rotX": 2.200118E-06,
-        "rotY": 0.002486829,
-        "rotZ": -1.14524346E-06,
+        "rotX": -3.14990871E-06,
+        "rotY": 0.00248694,
+        "rotZ": -2.26882958E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5742,6 +6227,11 @@
       "Nickname": "Crypt Ghoul",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Sharpened Teeth and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5802,6 +6292,11 @@
           "Nickname": "Crypt Ghoul",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5854,9 +6349,9 @@
         "posX": -44.0,
         "posY": 1.481499,
         "posZ": 2.00000024,
-        "rotX": 1.36680242E-07,
-        "rotY": 0.00260233786,
-        "rotZ": 2.50796347E-06,
+        "rotX": 8.90488934E-07,
+        "rotY": 0.00260232575,
+        "rotZ": -1.31399054E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5864,6 +6359,11 @@
       "Nickname": "Crypt Ghoul",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Sharpened Teeth and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -5924,6 +6424,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -5966,9 +6471,9 @@
         "posX": -49.0,
         "posY": 1.481499,
         "posZ": 2.0,
-        "rotX": -6.01403656E-07,
+        "rotX": -6.60676335E-07,
         "rotY": 0.0159928873,
-        "rotZ": 5.88947671E-07,
+        "rotZ": 7.2054695E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5976,6 +6481,11 @@
       "Nickname": "Crypt Ghoul",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Sharpened Teeth and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6036,6 +6546,11 @@
           "Nickname": "Crypt Ghoul",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6086,11 +6601,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -44.75,
-        "posY": 1.481499,
+        "posY": 1.48149872,
         "posZ": 61.75,
-        "rotX": 2.89887316E-06,
+        "rotX": 4.87079933E-06,
         "rotY": 359.9499,
-        "rotZ": -2.24552332E-06,
+        "rotZ": 6.862953E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6098,6 +6613,11 @@
       "Nickname": "Valreek the Tracker",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Bone Weapons and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   \r\n[c6c930]Fangs[-]\r\n1\"     A:D6   H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6158,6 +6678,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6198,11 +6723,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -47.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 61.75,
-        "rotX": 2.83087229E-06,
+        "rotX": 2.478086E-06,
         "rotY": 359.9499,
-        "rotZ": -3.25124734E-06,
+        "rotZ": 6.99419E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6210,6 +6735,11 @@
       "Nickname": "Night's Herald",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Bone Weapons and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   \r\n[c6c930]Fangs[-]\r\n1\"     A:D6   H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6270,6 +6800,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6312,9 +6847,9 @@
         "posX": -45.75,
         "posY": 1.48149884,
         "posZ": 61.75,
-        "rotX": 5.900404E-07,
+        "rotX": -9.533985E-07,
         "rotY": 359.9499,
-        "rotZ": -1.66739107E-06,
+        "rotZ": 6.96432971E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6322,6 +6857,11 @@
       "Nickname": "Royal Butcher",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Bone Weapons and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   \r\n[c6c930]Fangs[-]\r\n1\"     A:D6   H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6382,6 +6922,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6422,11 +6967,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -46.75,
-        "posY": 1.48149884,
+        "posY": 1.481499,
         "posZ": 61.75,
-        "rotX": -1.917799E-06,
+        "rotX": 1.41823477E-06,
         "rotY": 359.9499,
-        "rotZ": 2.77062486E-06,
+        "rotZ": -1.183711E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6434,6 +6979,11 @@
       "Nickname": "Master Talon",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Bone Weapons and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   \r\n[c6c930]Fangs[-]\r\n1\"     A:D6   H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6494,6 +7044,11 @@
           "Nickname": "Crypt Ghoul",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6546,9 +7101,9 @@
         "posX": -48.75,
         "posY": 1.48149884,
         "posZ": 61.75,
-        "rotX": 1.0184458E-06,
+        "rotX": 1.07848514E-07,
         "rotY": 359.9499,
-        "rotZ": 2.96185067E-06,
+        "rotZ": -1.66497875E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -6556,6 +7111,11 @@
       "Nickname": "Duke's Harriers",
       "Description": "[56f442]M     W     B     Sa    [-]\r\n6\"    1     10    6+    \r\n[e85545]Weapons[-]\r\n[c6c930]Bone Weapons and Filthy Claws[-]\r\n1\"     A:2    H:4+   W:4+   R:-    D:1   \r\n[c6c930]Fangs[-]\r\n1\"     A:D6   H:4+   W:4+   R:-    D:1   ",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6616,6 +7176,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6652,12 +7217,12 @@
       "GUID": "594f79",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -46.99997,
-        "posY": 1.4933902,
-        "posZ": -56.9998474,
-        "rotX": 359.831665,
-        "rotY": 270.0015,
-        "rotZ": 359.7003,
+        "posX": -46.9999733,
+        "posY": 1.49333751,
+        "posZ": -56.999855,
+        "rotX": 359.8267,
+        "rotY": 270.001343,
+        "rotZ": 359.7893,
         "scaleX": 0.4093641,
         "scaleY": 1.15619886,
         "scaleZ": 1.152259
@@ -6665,6 +7230,11 @@
       "Nickname": "Cadaverous Barricade",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 0.0,
         "g": 0.0,
@@ -6725,6 +7295,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -6775,6 +7350,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -6825,6 +7405,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 0.9999998,
                 "g": 0.992159069,
@@ -6875,6 +7460,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -6925,6 +7515,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 0.9999998,
                 "g": 0.992159069,
@@ -6975,6 +7570,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7025,6 +7625,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7077,6 +7682,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7127,6 +7737,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7177,6 +7792,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 0.9999998,
                 "g": 0.992159069,
@@ -7227,6 +7847,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7277,6 +7902,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 0.9999998,
                 "g": 0.992159069,
@@ -7327,6 +7957,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7377,6 +8012,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7429,6 +8069,11 @@
           "Nickname": "Cadaverous Baricade",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7481,6 +8126,11 @@
       "Nickname": "Base Size Chart",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -7533,6 +8183,11 @@
       "Nickname": "",
       "Description": "",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -7583,9 +8238,9 @@
         "posX": -55.9680977,
         "posY": 1.981499,
         "posZ": 57.72321,
-        "rotX": -1.6595435E-09,
-        "rotY": -0.001130649,
-        "rotZ": -2.53307366E-08,
+        "rotX": -6.92022354E-07,
+        "rotY": -0.00113068381,
+        "rotZ": 6.15801071E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -7593,6 +8248,11 @@
       "Nickname": "Duke Crakmarrow",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -7646,6 +8306,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -7702,6 +8367,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7762,6 +8432,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7822,6 +8497,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7882,6 +8562,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -7942,6 +8627,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8006,6 +8696,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8058,12 +8753,12 @@
       "GUID": "4baa63",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -46.0316124,
-        "posY": 1.98152423,
+        "posX": -46.03162,
+        "posY": 1.981499,
         "posZ": 57.4402046,
-        "rotX": -0.000163944875,
-        "rotY": -0.0021761863,
-        "rotZ": -0.000876687351,
+        "rotX": -1.3490137E-06,
+        "rotY": -0.00217614672,
+        "rotZ": -4.42949755E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -8071,6 +8766,11 @@
       "Nickname": "The Grymwatch",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -8124,6 +8824,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8180,6 +8885,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8240,6 +8950,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8300,6 +9015,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8360,6 +9080,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8420,6 +9145,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8484,6 +9214,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8536,12 +9271,12 @@
       "GUID": "552b8e",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -55.5395775,
-        "posY": 1.98152232,
+        "posX": -55.5395851,
+        "posY": 1.981499,
         "posZ": 37.0357246,
-        "rotX": -0.000161970122,
-        "rotY": -0.003732157,
-        "rotZ": -0.0008180304,
+        "rotX": -3.13474459E-07,
+        "rotY": -0.003708592,
+        "rotZ": -4.030392E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -8549,6 +9284,11 @@
       "Nickname": "Abhorrant Ghoul King on Royal Terrorgheist",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -8602,6 +9342,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -8658,6 +9403,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8718,6 +9468,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8778,6 +9533,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8838,6 +9598,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8898,6 +9663,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -8962,6 +9732,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9017,9 +9792,9 @@
         "posX": -47.08171,
         "posY": 1.981499,
         "posZ": 37.1602821,
-        "rotX": -1.44239982E-06,
-        "rotY": -0.001120091,
-        "rotZ": -2.92709444E-07,
+        "rotX": 1.867802E-07,
+        "rotY": -0.00112010643,
+        "rotZ": -8.95019E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -9027,6 +9802,11 @@
       "Nickname": "Abhorrant Ghoul King on Royal Zombie Dragon",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -9080,6 +9860,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9136,6 +9921,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9196,6 +9986,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9256,6 +10051,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9316,6 +10116,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9376,6 +10181,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9440,6 +10250,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9493,11 +10308,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -55.94004,
-        "posY": 1.98149872,
+        "posY": 1.981499,
         "posZ": 19.3820419,
-        "rotX": 1.33235335E-06,
-        "rotY": -0.001737693,
-        "rotZ": 2.34185927E-06,
+        "rotX": -5.919615E-07,
+        "rotY": -0.00173771684,
+        "rotZ": 2.681654E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -9505,6 +10320,11 @@
       "Nickname": "Abhorrant Archregent",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -9558,6 +10378,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9614,6 +10439,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9674,6 +10504,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9734,6 +10569,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9794,6 +10634,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9854,6 +10699,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -9918,6 +10768,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -9970,12 +10825,12 @@
       "GUID": "282fd2",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -46.9904366,
-        "posY": 1.98153508,
+        "posX": -46.99044,
+        "posY": 1.981499,
         "posZ": 19.2675228,
-        "rotX": 7.988827E-05,
-        "rotY": -0.0027813965,
-        "rotZ": -0.000331655057,
+        "rotX": 1.07724E-06,
+        "rotY": -0.002781384,
+        "rotZ": -3.27396634E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -9983,6 +10838,11 @@
       "Nickname": "Abhorrant Ghoul King",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -10036,6 +10896,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10092,6 +10957,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10152,6 +11022,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10212,6 +11087,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10272,6 +11152,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10332,6 +11217,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10396,6 +11286,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10451,9 +11346,9 @@
         "posX": -38.6340866,
         "posY": 1.981499,
         "posZ": 19.7245045,
-        "rotX": 4.75261345E-07,
-        "rotY": -0.00161401369,
-        "rotZ": -8.266935E-07,
+        "rotX": 1.68754889E-06,
+        "rotY": -0.00161401543,
+        "rotZ": -1.51895463E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -10461,6 +11356,11 @@
       "Nickname": "Crypt Ghast Courtier",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -10514,6 +11414,11 @@
           "Nickname": "Crypt Ghast Courtier",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10570,6 +11475,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10630,6 +11540,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10690,6 +11605,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10750,6 +11670,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10810,6 +11735,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -10874,6 +11804,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -10929,9 +11864,9 @@
         "posX": -30.014246,
         "posY": 1.981499,
         "posZ": 19.0964756,
-        "rotX": -2.884696E-07,
-        "rotY": -0.00174411654,
-        "rotZ": -1.1714689E-07,
+        "rotX": -6.15301246E-07,
+        "rotY": -0.00174414075,
+        "rotZ": -8.0389475E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -10939,6 +11874,11 @@
       "Nickname": "Crypt Haunter Courtier",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -10992,6 +11932,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11048,6 +11993,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11108,6 +12058,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11168,6 +12123,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11228,6 +12188,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11288,6 +12253,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11352,6 +12322,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11404,12 +12379,12 @@
       "GUID": "a6eba8",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -21.3126774,
+        "posX": -21.3126755,
         "posY": 1.981499,
         "posZ": 19.3247585,
-        "rotX": 1.46757742E-07,
-        "rotY": -0.00173777377,
-        "rotZ": -6.81002632E-07,
+        "rotX": 6.97038445E-07,
+        "rotY": -0.00173777842,
+        "rotZ": -8.26540045E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -11417,6 +12392,11 @@
       "Nickname": "Crypt Infernal Courtier",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -11470,6 +12450,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11526,6 +12511,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11586,6 +12576,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11646,6 +12641,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11706,6 +12706,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11766,6 +12771,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -11830,6 +12840,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -11885,9 +12900,9 @@
         "posX": -12.0470209,
         "posY": 1.981499,
         "posZ": 19.5538311,
-        "rotX": 1.06222944E-06,
-        "rotY": -0.00128686207,
-        "rotZ": -6.64975062E-07,
+        "rotX": 1.69921884E-06,
+        "rotY": -0.0012868644,
+        "rotZ": -3.91431136E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -11895,6 +12910,11 @@
       "Nickname": "Varghulf Courtier",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -11948,6 +12968,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12004,6 +13029,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12064,6 +13094,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12124,6 +13159,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12184,6 +13224,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12244,6 +13289,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12308,6 +13358,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12361,11 +13416,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -55.32706,
-        "posY": 1.98150039,
+        "posY": 1.981499,
         "posZ": -1.30338788,
-        "rotX": -9.40770349E-07,
-        "rotY": 0.015772637,
-        "rotZ": 1.120415E-06,
+        "rotX": -8.682909E-08,
+        "rotY": 0.0157783683,
+        "rotZ": 6.163381E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -12373,6 +13428,11 @@
       "Nickname": "Crypt Flayers",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -12426,6 +13486,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12482,6 +13547,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12542,6 +13612,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12602,6 +13677,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12662,6 +13742,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12722,6 +13807,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -12786,6 +13876,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12839,11 +13934,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -46.95565,
-        "posY": 1.98149908,
+        "posY": 1.981499,
         "posZ": -1.55736256,
-        "rotX": 1.35274533E-07,
-        "rotY": 0.0118170138,
-        "rotZ": -2.31152944E-06,
+        "rotX": 7.785857E-07,
+        "rotY": 0.0118213482,
+        "rotZ": 5.551734E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -12851,6 +13946,11 @@
       "Nickname": "Crypt Ghouls",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -12904,6 +14004,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -12960,6 +14065,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13020,6 +14130,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13080,6 +14195,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13140,6 +14260,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13200,6 +14325,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13264,6 +14394,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13317,11 +14452,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -37.3198929,
-        "posY": 1.98150027,
+        "posY": 1.981499,
         "posZ": -1.93763089,
-        "rotX": 1.94402423E-06,
-        "rotY": 0.0192480162,
-        "rotZ": 9.562903E-07,
+        "rotX": 1.68891734E-06,
+        "rotY": 0.0192587078,
+        "rotZ": 8.2661353E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -13329,6 +14464,11 @@
       "Nickname": "Crypt Horrors",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -13382,6 +14522,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13438,6 +14583,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13498,6 +14648,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13558,6 +14713,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13618,6 +14778,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13678,6 +14843,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13742,6 +14912,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13795,11 +14970,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -55.5631561,
-        "posY": 1.98149908,
+        "posY": 1.981499,
         "posZ": -41.74346,
-        "rotX": 1.86430236E-06,
-        "rotY": -0.00170577015,
-        "rotZ": 7.750061E-07,
+        "rotX": 1.31235538E-06,
+        "rotY": -0.0017057705,
+        "rotZ": -3.02296144E-08,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -13807,6 +14982,11 @@
       "Nickname": "Royal Terrorgheist",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -13860,6 +15040,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -13916,6 +15101,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -13976,6 +15166,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14036,6 +15231,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14096,6 +15296,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14156,6 +15361,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14220,6 +15430,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14272,12 +15487,12 @@
       "GUID": "9f6dc9",
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
-        "posX": -47.2765732,
-        "posY": 1.98152518,
+        "posX": -47.276577,
+        "posY": 1.981499,
         "posZ": -41.7573929,
-        "rotX": 5.395869E-05,
-        "rotY": -0.00272295927,
-        "rotZ": -0.0002445292,
+        "rotX": 5.503047E-07,
+        "rotY": -0.002723691,
+        "rotZ": 7.03144167E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -14285,6 +15500,11 @@
       "Nickname": "Royal Zombie Dragon",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -14338,6 +15558,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14394,6 +15619,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14454,6 +15684,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14514,6 +15749,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14574,6 +15814,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14634,6 +15879,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14698,6 +15948,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14751,11 +16006,11 @@
       "Name": "Custom_Model_Infinite_Bag",
       "Transform": {
         "posX": -55.83028,
-        "posY": 1.98149884,
+        "posY": 1.981499,
         "posZ": -62.1000137,
-        "rotX": 5.684609E-06,
-        "rotY": -0.00172341708,
-        "rotZ": 1.87432633E-07,
+        "rotX": 5.619711E-07,
+        "rotY": -0.00172348006,
+        "rotZ": -5.307972E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -14763,6 +16018,11 @@
       "Nickname": "Charnel Throne",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -14816,6 +16076,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -14872,6 +16137,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14932,6 +16202,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -14992,6 +16267,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15052,6 +16332,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15112,6 +16397,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15176,6 +16466,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15231,9 +16526,9 @@
         "posX": -47.14709,
         "posY": 1.981499,
         "posZ": -61.98831,
-        "rotX": -3.25162972E-07,
-        "rotY": -0.001386388,
-        "rotZ": 5.663551E-07,
+        "rotX": 1.2189779E-06,
+        "rotY": -0.00138639042,
+        "rotZ": -7.750987E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -15241,6 +16536,11 @@
       "Nickname": "Cadaverous Barricade",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -15294,6 +16594,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15350,6 +16655,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15410,6 +16720,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15470,6 +16785,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15530,6 +16850,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15590,6 +16915,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15654,6 +16984,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15709,9 +17044,9 @@
         "posX": -38.7684441,
         "posY": 1.981499,
         "posZ": -62.1463776,
-        "rotX": 4.8791926E-06,
-        "rotY": -0.00171032024,
-        "rotZ": 3.537586E-07,
+        "rotX": -3.0007314E-08,
+        "rotY": -0.00171037833,
+        "rotZ": 6.409342E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -15719,6 +17054,11 @@
       "Nickname": "Chalice of Ushoran",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -15772,6 +17112,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -15828,6 +17173,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15888,6 +17238,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -15948,6 +17303,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16008,6 +17368,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16068,6 +17433,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16132,6 +17502,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -16187,9 +17562,9 @@
         "posX": -29.4814014,
         "posY": 1.981499,
         "posZ": -62.38112,
-        "rotX": 3.03493721E-07,
-        "rotY": -0.0011395904,
-        "rotZ": 3.71848358E-07,
+        "rotX": -7.92074047E-07,
+        "rotY": -0.00113965315,
+        "rotZ": 6.363609E-07,
         "scaleX": 4.0,
         "scaleY": 1.0,
         "scaleZ": 3.0
@@ -16197,6 +17572,11 @@
       "Nickname": "Corpsemare Stampede",
       "Description": "Drag from this box to the table.",
       "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
@@ -16250,6 +17630,11 @@
           "Nickname": "",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -16306,6 +17691,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16366,6 +17756,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16426,6 +17821,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16486,6 +17886,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16546,6 +17951,11 @@
               "Nickname": "",
               "Description": "",
               "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
               "ColorDiffuse": {
                 "r": 1.0,
                 "g": 1.0,
@@ -16610,6 +18020,11 @@
           "Nickname": "ESO_L2_Box1_2G",
           "Description": "",
           "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
           "ColorDiffuse": {
             "r": 1.0,
             "g": 1.0,
@@ -16649,6 +18064,1326 @@
               "SpecularIntensity": 0.05,
               "SpecularSharpness": 4.0,
               "FresnelStrength": 0.104938753
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "3e5924",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -20.88408,
+        "posY": 1.48149884,
+        "posZ": 2.513881,
+        "rotX": -4.322514E-06,
+        "rotY": 359.971954,
+        "rotZ": 9.5090345E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Ghoul Tracker",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669557/EEFF5DD03F937A5E3A1D9E905EBE5FB2C2FD1920/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "d98561",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -6.67436E-05,
+            "posY": 0.127399921,
+            "posZ": -8.569778E-05,
+            "rotX": -0.00238595717,
+            "rotY": 270.779816,
+            "rotZ": 0.164178208,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Ghoul Tracker",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404605580/8B92755BB7CA314C908B13E74DF5A636F8C7C3B4/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404605780/BB985A8B9E0DB4B873BBD952B4ADEA41FDDD0391/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "45878d",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -14.40664,
+        "posY": 1.48149872,
+        "posZ": 1.79374349,
+        "rotX": -7.16255636E-06,
+        "rotY": 359.971741,
+        "rotZ": 4.618313E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Ghoul Tracker",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669557/EEFF5DD03F937A5E3A1D9E905EBE5FB2C2FD1920/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "d839c6",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.00770195667,
+            "posY": 0.127395943,
+            "posZ": 0.00290809036,
+            "rotX": 0.0009485765,
+            "rotY": 272.011444,
+            "rotZ": -0.000343024381,
+            "scaleX": 0.9999999,
+            "scaleY": 1.0,
+            "scaleZ": 0.9999999
+          },
+          "Nickname": "Ghoul Tracker",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404604900/7FFFEEA4D2794D7B350183A4E3F6765A9472EBC9/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404605047/5C67CD2B78001B0F9D6A6F7D24304B9882C90C89/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "12e4ae",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -17.2632885,
+        "posY": 1.48149955,
+        "posZ": -1.07944274,
+        "rotX": 0.000141768367,
+        "rotY": 359.972015,
+        "rotZ": 0.0001623041,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Ghoul Tracker",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669557/EEFF5DD03F937A5E3A1D9E905EBE5FB2C2FD1920/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "e7fadc",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.000282375055,
+            "posY": 0.127400875,
+            "posZ": -0.00029953444,
+            "rotX": -0.0008959279,
+            "rotY": 270.9579,
+            "rotZ": -0.000508364348,
+            "scaleX": 0.99999994,
+            "scaleY": 1.0,
+            "scaleZ": 0.99999994
+          },
+          "Nickname": "Ghoul Tracker",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404605241/5572A2BECEB246E1A15DCBF7ADF48A2494D75911/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404605416/2FAD7A05CF6BCF9FB0B7F9033CE5F11F5D08AF3B/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "d0d44b",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -19.3348179,
+        "posY": 1.481499,
+        "posZ": 4.07661724,
+        "rotX": -1.996024E-06,
+        "rotY": -0.000249306235,
+        "rotZ": 2.46460854E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Offal Hound",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669830/5859B74889D47ECA875D91E800DF6656BDC73604/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669950/517ADC001CD66EEA6A48297FF2155394C9B4AC2E/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "48a7d3",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.005076777,
+            "posY": 0.127390876,
+            "posZ": -0.006875656,
+            "rotX": -0.000234208652,
+            "rotY": 267.736633,
+            "rotZ": -0.000358771649,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404606015/FE40A509AD7AE093F545361686B4BDE792CE2B93/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404606198/3B72A2A1BCD0054A2341FAF19A79BBBD0FC9C609/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "6f380d",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -16.5378017,
+        "posY": 1.48149943,
+        "posZ": 3.80120754,
+        "rotX": -1.395959E-05,
+        "rotY": -0.000143221332,
+        "rotZ": 8.557414E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Offal Hound",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669830/5859B74889D47ECA875D91E800DF6656BDC73604/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669950/517ADC001CD66EEA6A48297FF2155394C9B4AC2E/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "cfeb8b",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.00573444553,
+            "posY": 0.127402648,
+            "posZ": 0.0161022544,
+            "rotX": -8.072825E-05,
+            "rotY": 270.014526,
+            "rotZ": -0.000528544246,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404606420/5F939AF178451BA4F4B71262ACE5E5B39F958E71/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404606580/48C49226AAFFE361A6CBCC75D0C5129680B23F39/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "1bb539",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -16.4229431,
+        "posY": 1.4814992,
+        "posZ": 1.109596,
+        "rotX": -3.77084252E-05,
+        "rotY": 0.0276656821,
+        "rotZ": -7.676515E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Gore Squire",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756671254/2AE581B0BE485651AA256C15AFFBD24D2536C703/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "f204e4",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.0009936614,
+            "posY": 0.127400637,
+            "posZ": 0.000590576,
+            "rotX": -0.00148354215,
+            "rotY": 272.4125,
+            "rotZ": 6.504469E-05,
+            "scaleX": 0.9999998,
+            "scaleY": 1.0,
+            "scaleZ": 0.9999998
+          },
+          "Nickname": "Beastflayer Baron",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404603483/FF26A8407E5DB2A17FE9A6987DE9E12857A795BE/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404603690/536F8052EAE6B4B6AD3E9DE611686F60C350A004/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "4cc2c1",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -17.7763329,
+        "posY": 1.48149943,
+        "posZ": 0.444897473,
+        "rotX": -2.74399E-05,
+        "rotY": 0.0274590235,
+        "rotZ": 9.183913E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Royal Flaymaster",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756671254/2AE581B0BE485651AA256C15AFFBD24D2536C703/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "cca7fe",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.001688654,
+            "posY": 0.127394319,
+            "posZ": -0.00369461952,
+            "rotX": -0.000147893443,
+            "rotY": 270.257233,
+            "rotZ": -0.0006018963,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Royal Flaymaster",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404606735/52EF8A712D6BA5FC7D8C9ED97142C4DE5CE74AC4/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404606927/B3C029BDA8972BE4A78786643572B38D8D38ECF5/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "fa4456",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -19.1559,
+        "posY": 1.4814992,
+        "posZ": 0.683301,
+        "rotX": -3.89765233E-07,
+        "rotY": 0.027267592,
+        "rotZ": 1.74389024E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Gore Squire",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756671254/2AE581B0BE485651AA256C15AFFBD24D2536C703/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "1de7a2",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.003398053,
+            "posY": 0.127397284,
+            "posZ": 0.0177971125,
+            "rotX": -0.000487554469,
+            "rotY": 271.468872,
+            "rotZ": 0.000127170642,
+            "scaleX": 0.99999994,
+            "scaleY": 1.0,
+            "scaleZ": 0.99999994
+          },
+          "Nickname": "Gore Squire",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404603893/425ACC7FDC160CA6A9F32BD826B049FE94E84C03/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404604079/A31CC7B9FB89A103376F0664AFCEF3A5C5871D98/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "21f0bb",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -18.6490917,
+        "posY": 1.48149884,
+        "posZ": 1.91304314,
+        "rotX": 1.7882634E-05,
+        "rotY": 0.0275174677,
+        "rotZ": -2.8096867E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Gore Squire",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756671254/2AE581B0BE485651AA256C15AFFBD24D2536C703/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "1e20e4",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.02774275,
+            "posY": 0.127393931,
+            "posZ": 0.0220194813,
+            "rotX": -0.000567082665,
+            "rotY": 229.286728,
+            "rotZ": -0.000368836336,
+            "scaleX": 1.00000048,
+            "scaleY": 1.0,
+            "scaleZ": 1.00000048
+          },
+          "Nickname": "Gore Squire",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404604236/671510B48FE2A2D738F6BD45C38476543641B23E/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404604412/16ECE890802603840C023D0182CD784DCC98BBA3/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "9309c1",
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -17.2490959,
+        "posY": 1.48149884,
+        "posZ": 2.298084,
+        "rotX": 5.33346474E-06,
+        "rotY": 0.0275803376,
+        "rotZ": -2.96774783E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Gore Squire",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": true,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756671254/2AE581B0BE485651AA256C15AFFBD24D2536C703/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1861688073976796984/999A4224F0B5E22E56C1CD4B23B04D4A2DF2A09A/",
+        "NormalURL": "",
+        "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669753/CA911F4604C67B7681125080559895A8E1E5DA94/",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 1,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.875,
+            "g": 0.812880337,
+            "b": 0.7463235
+          },
+          "SpecularIntensity": 0.05,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ChildObjects": [
+        {
+          "GUID": "857058",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 0.00353089767,
+            "posY": 0.127396479,
+            "posZ": 0.00216946751,
+            "rotX": 0.000404153863,
+            "rotY": 271.176331,
+            "rotZ": 0.000129040374,
+            "scaleX": 1.00000012,
+            "scaleY": 1.0,
+            "scaleZ": 1.00000012
+          },
+          "Nickname": "Gore Squire",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404604563/E8DAF47F7B377A9554E75725940897A160A16E0B/",
+            "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/2023850635404604727/68AA2AB344297073E2EF77D4A6CB4F9B15819E0D/",
+            "NormalURL": "",
+            "ColliderURL": "http://cloud-3.steamusercontent.com/ugc/1862813905756669657/89279E626CE9C40B22701D91F593A866244C6AE2/",
+            "Convex": true,
+            "MaterialIndex": 3,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 2.0,
+              "FresnelStrength": 0.0
             },
             "CastShadows": true
           },
